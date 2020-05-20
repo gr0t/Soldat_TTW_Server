@@ -1,0 +1,301 @@
+Mmmm... pysznoœci!
+NieŸle!
+Czas na burgera!
+Ahhhhhh.
+Tego by³o mi trzeba!
+I o to chodzi³o!
+Tak!
+I na co komu medyk!
+Pij mleko, bêdziesz wielki!
+Czujesz siê znacznie lepiej
+¯KD
+¯DD
+Med
+Gen
+Zaop
+Sab
+In¿
+Snipe
+Szpieg
+Art
+¯o³nierz d³ugodystansowy
+¯o³nierz krótkodystansowy
+Medyk
+Genera³
+Zaopatrzeniowiec
+Sabota¿ysta
+In¿ynier
+Snajper
+Szpieg
+Artyleria
+Szybkie komendy:
+KLASA
+Mo¿esz graæ wszystkimi klasami u¿ywaj¹c tylko 4 aliasów
+Mo¿esz tak¿e u¿ywaæ komend z Hexera (/heal, /def, /ofs, /smn)
+* Tactical Trenchwar *
+W Tactical trenchwar chodzi o wspó³pracê. Ka¿dy gracz ma
+unikaln¹  klasê. Dostêpnych jest 10 klas.
+Wpisz /apply ¿eby zobaczyæ listê wszystkich klas
+Wpisz /commands aby otrzymaæ listê komend;
+Proszê wybraæ klasê.
+/lri dla ¯o³nierza krótkodystansowego
+/sri dla ¯o³nierza d³ugodystansowego
+/gen dla Genera³a który podbija bunkry
+/medic dla Medyka
+/eng  dla In¿yniera który stawia dzia³ka i miny
+/rad dla Zaopatrzeniowca, który zamawia ró¿ne rzeczy
+/elite  dla Snajpera
+/art dla Artylerzysty
+/spy dla Szpiega, który mo¿e ma bomby i niewidzialnoœæ
+/sabo dla sabota¿ysty który wysadza dzia³ka i miny
+Komendy gry:
+/apply - lista dostêpnych klas
+/list  - pokazuje wszystkie klasy w twojej dru¿ynie
+/free  - pokazuje listê wolnych klas
+/table - pokazuje listê z aliasami do komend;
+/maps  - pokazuje listê dostêpnych map
+/quick - wybiera losow¹ klasê
+Komendy twojej klasy:
+/mre - jedzenie, regeneruje 50% ¿ycia
+Jesteœ ¯o³nierzem d³ugiego dystansu
+Masz prowiant gotowy do zjedzenia. Aby zjeœc, wpisz /mre (odnawia 50% ¿ycia)
+Jesteœ ¯o³nierzem krótkiego dystansu
+/kit   - upuszcza apteczkê obok ciebie
+Jesteœ Medykiem
+Zmieniaj broñ w pobli¿u kolegów z dru¿yny aby ich uleczyæ. Mo¿esz tak¿e upuszczaæ apteczki.
+Twoje ¿ycie bêdzie regenerowa³o siê automatycznie gdy siê nie poruszasz.
+/conq   - Podbija bunkier w którym siê znajdujesz
+Jesteœ Genera³em
+Twoim zadaniem jest podbijanie bunkrów co czyni je
+nowymi punktami spawnu dla twojej dru¿yny
+/tap    - W³amuje siê do wrogiej komunikacji
+/supply  - pokazuje liste rzeczy do kupienia
+/strike - pokazuje listê dostêpnych nalotów
+Jesteœ Zaopatrzeniowcem
+Twoim zadaniem jest dostarczanie zaopatrzenia.
+Mo¿esz równie¿ wzywaæ naloty i nas³uchiwaæ ³¹cznoœæ przeciwnika.
+Paczki i bronie (dostarczane w bunkrze)
+/grenade  grenade pack
+/vest     kamizelka kuloodporna (/vestgen aby daæ Genera³owi)
+/medkit     apteczka
+/cluster  granaty od³amkowe
+/law      5 wyrzutni LAW
+/hac      Ciê¿kie Dzia³o Artyleryjskie
+Inne rzeczy:
+/para     Spadochroniarz, zrzut nad bunkrem wroga
+dla listy dostêpnych nalotów, wpisz /naloty
+Dostêpne naloty:
+/zeppelin - nalot ze sterowca
+/airco    - szybki nalot
+/barrage  - wsparcie artyleryjskie
+/napalm   - zrzut napalmu
+/cluststr - zrzut bomb od³amkowych
+/nuke - zrzut bomby atomowej
+/enemy    - zrzut na wrog¹ bazê
+/build  - buduje dzia³ko stacjonarne
+/get    - odzyskuje dzia³ko stacjonarne
+/fix    - naprawia dzia³ko stacjonarne
+/mine   - stawia mine
+Jesteœ in¿ynierem
+Mo¿esz budowaæ dzia³ka stacjonarne i podk³adaæ miny.
+/rig    - wysadza pobliskie dzia³ko stacjonarne b¹dz mine.
+Jesteœ Sabota¿yst¹
+Mo¿esz wysadzaæ miny i dzia³ka stacjonarne komend¹ /rig
+/place <czas> - podk³ada bombê zegarow¹
+/act    - uruchamia zegar
+/obs    - szpieguje najbli¿szego wroga
+/stealth      - aktywuje niewidzialnoœæ
+Jesteœ szpiegiem
+Masz jedn¹ paczkê predatora na ¿ycie
+Mo¿esz podk³adaæ i odpalaæ bomby zegarowe
+Twoje bomby niszcz¹ wrogie miny i dzia³ka. Mo¿esz tak¿e szpiegowaæ wroga.
+Snajper nie posiada ¿adnych komend;
+Jesteœ Snajperem
+Twoim zadaniem jest zapewnienie os³ony ogniowej twojej dru¿ynie.
+/nade    - upuszcza paczkê granatów obok ciebie
+/mark    - oznacza cel dla moŸdzierza
+/mortar  - odpala moŸdzierz
+Jesteœ artylerzyst¹.
+Mo¿esz upuszczaæ paczki granatów oraz strzelaæ z dzia³a artyleryjskiego.
+Dzia³ko gotowe do budowy!
+Dzia³ko twojej dru¿yny zosta³o zniszczone!
+Mina zniszczy³ wrogie dzia³ko!
+wlaz³ na twoj¹ minê!
+Wlaz³eœ na minê!
+Wlaz³eœ na w³asn¹ minê!
++1 Mina gotowa do u¿ycia!
+Niestety, ale szybki nalot nie mo¿e zostaæ tu wykonany
+Niestety, ale wsparcie artyleryjskie nie mo¿e zostaæ tu wezwane
+Nalot na wrog¹ bazê
+Zrzut napalmu
+Zrzut atomówki
+Wsparcie artyleryjskie
+Nalot ze sterowca
+Szybki nalot
+Zrzut bomb od³amkowych
+Nalot zniszczy³ wrogie dzia³ko!
+Ju¿ posiadasz tê klasê
+jest twoim Medykiem
+jest twoim Genera³em
+jest twoim Zaopatrzeniowcem
+jest twoim Sabota¿yst¹
+jest twoim In¿ynierem
+jest twoim Snajperem
+jest twoim Szpiegiem
+jest twoim Artylerzyst¹
+zosta³ wybrany przez
+jest teraz dostêpny.
+Punkty zaopatrzenia
+<-- WRÓG Z LEWEJ
+zauwa¿y³ kogoœ za nasz¹ lini¹ oborny!
+--> WRÓG Z PRAWEJ
+/\ DACH /\
+zauwa¿y³ kogoœ na dachu bunkra!
+> W ŒRODKU <
+zauwa¿y³ kogoœ w œrodu bunkra!
+< CZYSTO >
+uwa¿a ¿e ten obszar jest czysty!
+GENERA£ W KAMIZELCE
+zauwa¿y³ wrogiego genera³a w kamizelce!
+Leczenie
+Jesteœ leczony...
+¯o³nierz wyleczony
+Wyleczony!
+Apteczka upuszczona
+Apteczka dostêpna! Wpisz /apt aby upuœciæ
+W tej chwili nie masz apteczki
+Musisz byæ ¿ywy aby upuœciæ apteczkê
+W tej chwili nie masz przy sobie jedzenia
+Jesteœ martwy.
+Sabotuje bunkier... Zostañ w œrodku!
+Podbijam bunkier... Zostañ w œrodku!
+Nie uda³o siê zsabotowaæ bunkra!
+Nie uda³o siê podbiæ bunkra!
+Twoja dru¿yna sabotowa³a wrogi bunkier!
+Twoja dru¿yna zosta³a wypchniêta bunkier dalej!
+Wróg zsabotowa³ twój bunkier!
+Wróg wypchn¹³ twoj¹ dru¿ynê bunkier dalej!
+Sabota¿ ukoñczony!
+Twoja dru¿yna zdoby³a bunkier!
+Bunkier zdobyty!
+Wróg zdoby³ bunkier!
+Sabotuje...
+Przejmujê...
+To jest twoja w³asna baza.
+To jest wroga baza, nie mo¿na jej przej¹æ.
+Twoja dru¿yna ju¿ zdoby³a dalszy bunkier.
+Ten bunkier nale¿y ju¿ do ciebie.
+Mo¿esz zsabotowaæ ten bunkier tylko gdy zdobêdziesz poprzedni.
+Mo¿esz zsabotowaæ ten bunkier tylko gdy go wróg zdobêdzie.
+W trakcie przejmowania...
+Musisz pozostaæ przy ¿yciu aby zdobyæ bunkier.
+Wrogi zaopatrzeniowiec zamówi³ kamizelkê
+Wrogi zaopatrzeniowiec zamówi³ kamizelkê dla genera³a!
+Wrogi zaopatrzeniowiec zamówi³ wrzutnie LAW
+Wrogi zaopatrzeniowiec zamówi³ granaty
+Wrogi zaopatrzeniowiec zamówi³ apteczkê
+Wrogi zaopatrzeniowiec zamówi³ granaty od³amkowe
+Wrogi zaopatrzeniowiec zamówi³ ciê¿kie dzia³o artyleryjskie
+Wrogi zaopatrzeniowiec zamówi³ Spadochroniarza
+Wrogi zaopatrzeniowiec wezwa³ nalot na twój bunkier
+Wrogi zaopatrzeniowiec wezwa³ zrzut napalmu
+Wrogi zaopatrzeniowiec wezwa³ zrzut atomówki
+Wrogi zaopatrzeniowiec wezwa³ wsparcie artyleryjskie
+Wrogi zaopatrzeniowiec wezwa³ nalot ze sterowca
+Wrogi zaopatrzeniowiec wezwa³ szybki nalot
+Wrogi zaopatrzeniowiec wezwa³ zrzut bomb od³amkowych
+Pozosta³o punktów zaopatrzenia
+Musisz byæ ¿ywy aby coœ zamówiæ
+Kamizelka dostarczona do bunkra
+Genera³ poza bunkrem!
+Twój genera³ jest martwy!
+Twoja dru¿yna nie ma genera³a
+wyrzutnie LAW dostarczone do bunkra!
+Granaty dostarczone do bunkra!
+Apteczka dostarczona do bunkra!
+Granaty od³amkowe dostarczone do bunkra!
+Ciê¿kie dzia³o artyleryjskie dostarczone do r¹k Artylerzysty!
+Otrzyma³eœ HAC-25, B¥D OSTRO¯NY!
+B£¥D: Bot spadochroniarza nie znaleziony
+Spadochroniarz jest ju¿ w grze, wpisz /kick aby go wykopaæ
+[Wsparcie artyleryjskie]: Tak jest!
+[Pilot]: Tak jest!
+Nalot w toku
+Niewystarczaj¹ca iloœæ punktów zaopatrzenia
+Twoja bateria jest pe³na. Wpisz /tap aby w³amaæ siê do komunikacji wroga
+Bateria polowa roz³adowana!
+zacz¹³ nas³uchiwaæ wrogie po³¹czenie (czerwone napisy)
+Bateria polowa jeszcze nie gotowa! Pozosta³o
+sekund
+W³amanie w trakcie...
+Budowa przerwana!
+Dekonstrukcja przerwana!
+Naprawa przerwana!
+Budowa ukoñczona!
+Dzia³ko zdekonstruowane!
+Naprawa ukoñczona!
+Budowa...
+Dekonstrukcja...
+Naprawa...
+Naprawa rozpoczêta, nie ruszaj siê!
+Stañ obok dzia³ka aby je naprawiæ!
+Musisz byæ ¿ywy aby naprawiæ dzia³ko
+Dekonstruuje dzia³ko, nie ruszaj siê!
+Stañ obok dzia³ka aby je podnieœæ!
+Musisz byæ ¿ywy aby podnieœæ dzia³ko
+Budowa rozpoczêta, nie ruszaj siê!
+Dzie³ko jeszcze nie gotowe. Poczekaj
+sekund.
+Inna czynnoœæ w toku, proszê czekaæ
+Dzia³ko jest ju¿ w grze. Wpisz /get przy nim aby je podnieœæ
+Musisz byæ ¿ywy aby zbudowaæ dzia³ko
+Mina ustawiona. Odsuñ siê od niej!
+Mina ustawiona!
+W tej chwili nie masz ¿adnej miny
+Musisz byæ ¿ywy aby ustawiæ minê.
+£adunki pod³o¿one!
+Mina zniszczona!
+You have to be alive to rig something
+Bomba ustawiona! Wpisz /activate (/act) aby uruchomiæ zegar
+Zegar mo¿na ustawiæ od 3 do 8 sekund.
+(RAPORT)
+to wrogi
+Wrogie punkty zaopatrzenia:
+Wrogi Zaopatrzeniowiec jest w trakcie nas³uchu...
+Brak wroga w polu widzenia!
+Niewidzialnoœæ aktywna!
+W tej chwili nie posiadasz paczki predatora
+B³¹d sk³adni: /place <czas> | Na przyk³ad: /place 3
+Nie muasz juz bomb!
+Musisz byæ ¿ywy aby pod³o¿yæ bombê.
+Zegar uruchomiony!
+Brak nieaktywnych bomb na mapie!
+Musisz byæ ¿ywy aby uruchomiæ zegar.
+Musisz poczekaæ
+Musisz byæ ¿ywy aby obserwowaæ wroga
+Gotowy do obserwacji!
+Szpieg w pobli¿u!
+Paczka granatów upuszczona
+MoŸdzierz odpalony!
+Cel poza zasiêgiem (za œcian¹ lub inn¹ przeszkod¹)
+Cel poza zasiêgiem (za daleko)
+MoŸdzierz gotowy! Wpisz /mortar aby odpaliæ!
+Koniec amunicji do moŸdzierza.
+Gracz w ruchu, moŸdzierz wy³¹czony
+MoŸdzierz zniszczy³ wrogie dzia³ko
+Paczka granatów gotowa! Wpisz /nade aby upuœciæ
+W tej chwili nie masz paczki granatów!
+Nie mo¿esz oznaczyæ wrogiego bunkra
+Miejsce oznaczone!
+Znacznik musi byæ ustawiony na ziemi
+Mo¿esz oznaczyæ tylko miejsce na zewn¹trz
+Musisz byæ ¿ywy aby ustawiæ znacznik
+MoŸdzierz nie gotowy. Zaczekaj
+Ju¿ strzela...
+Najpier musisz coœ zaznaczyæ (/mark )
+Musisz byæ ¿ywy aby strzeliæ z moŸdzierza
+Witamy w Tactical Trenchwar
+Wpisz !help aby uzyskaæ pomoc.
+Wpisz /commands aby zobaczyæ listê komend;
+To nie jest komenda!
+Aby wpisaæ komendê wciœnij / BEZ WCISKANIA "t" (klawisza czatu)

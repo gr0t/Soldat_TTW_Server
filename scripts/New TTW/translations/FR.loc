@@ -1,0 +1,305 @@
+Miam.
+Bien!
+Burger time!
+Ahhhhhh.
+Juste ce don't j'avais besoin!
+Ca fait du bien!
+Oui!
+Qui a besoin d'un médecin, de toutes façons?
+Mangez des pommes!
+Vous vous sentez beaucoup mieux
+FCP
+FLP
+Med
+Gen
+Rad
+Sab
+Ing
+Eli
+Esp
+Art
+Fantassin (courte portée)
+Fantassin (longue portée)
+Médecin
+Général
+Opérateur Radio
+Saboteur
+Ingénieur
+Tireur d'Elite
+Espion
+Artilleur
+Commandes rapides:
+RÔLE
+Un groupe de 4 taunts seulement peut vous permettre de jouer tous les rôles
+Vous pouvez utiliser les taunts Hexer en tant qu'alias (/heal, /def, /ofs, /smn)
+* Tactical Trenchwar *
+Tactical trenchwar est axé autour du jeu en équipe, chaque soldat possède
+un rôle distinct au sein de son équipe. Il y a 10 rôles disponibles.
+Tapez /apply pour une liste de tous les rôles
+Tapez /commands pour voir les commandes disponibles
+Veuillez choisir un rôle. Afin d'en choisir un, tapez:
+/short  pour Fantassin (courte portée)
+/long   pour Fantassin (longue portée)
+/gen    pour le Général qui conquiert les bunkers
+/medic  pour Médecin
+/eng    pour l'Ingénieur qui possède une statgun et des mines
+/rad    pour l'Opérateur Radio qui gère les ravitaillements pour l'équipe
+/elite  pour le Tireur d'Elite
+/art    pour l'Artilleur
+/spy    pour l'Espion qui a accès à un kit de furtivité et des bombes
+/sabo   pour le Saboteur, capable de saboter les structures ennemies
+Commandes globales:
+/apply - liste des rôles possibles
+/list  - affiche la liste des rôles de vos équipiers 
+/free  - liste des rôles disponibles
+/table - affiche un tableau d'alias des commandes
+/maps  - affiche la liste des maps
+/quick - choix d'un rôle au hasard
+Commandes spécifiques à votre rôle:
+/mre    - repas, regénère 50% hp
+Vous êtes un fantassin (longue portée)
+Vous avez un repas disponible. Entrez /mre pour le consommer (regénère 50%hp)
+Vous êtes un fantassin (courte portée)
+/kit    - place un medikit à votre proximité
+Vous êtes le Médecin
+Changez d'armes près de vos camarades pour les soigner. Vous pouvez aussi placer des medikits.
+Vos hp seront automatiquement regénérés lorsque vous serez immobile.
+/conq   - conquiert le bunker dans lequel vous êtes
+Vous êtes le Général
+Votre rôle est de conquérir les bunkers ennemis, en faisant
+de nouveaux spawn points pour votre équipe.
+/tap    - capte les communications ennemies
+/supply - montre une liste des ravitaillements que vous pouvez commander
+/strike - montre une liste des frappes aériennes possibles
+Vous êtes l'Opérateur Radio.
+Votre rôle est de gérer les ravitaillements. Vous pouvez aussi
+demander des frappes aériennes et capter les communications ennemies.
+Renforts (ils seront livrés à votre base)
+/grenade  grenade pack
+/vest     gilet pare-balles (/vestgen pour le remettre au Général)
+/medi     medikit
+/cluster  grenades à fragmentation
+/law      5 lanceurs LAW
+/hac      Cannon d'artillerie lourde
+Autres commandes:
+/para     parachutiste (attérit sur le bunker ennemi)
+pour une liste des frappes aériennes disponibles, tapez /strike
+Frappes aériennes disponibles:
+/zeppelin - frappe aériene de zeppelin
+/airco    - frappe aérienne
+/barrage  - barrage de mortier
+/napalm   - bombardement au napalm
+/cluststr - bombardement à fragmentation
+/nuke     - frappe nucléaire
+/enemy    - bombardement de la base ennemie
+
+/build  - place une statgun
+/get    - récupère une statgun
+/fix    - répare une statgun
+/mine   - place une mine anti-personnel
+Vous êtes l'Ingénieur
+Vous pouvez construire une statgun ou places des mines anti-personnel
+/rig    - détruit une statgun ou une mine anti-personnel à proximité
+Vous êtes le Saboteur
+Vous pouvez saboter des mines ou des statguns à l'aide de /rig
+/place <time> - place une charge explosive
+/act          - active les comptes à rebours
+/obs          - éspionne un ennemi à proximité
+/stealth      - active le kit de furtivité
+Vous êtes l'Espion
+Vous avez un kit de furtivité par vie.
+Vous pouvez placer et activer des charges explosives.
+Elles vous permettent de saboter les statgun ennemies. Vous pouvez éspionner les ennemis.
+Le Tireur d'Elite n'a pas de commandes à son rôle.
+Vous êtes le Tireur d'Elite.
+Votre rôle est de couvrir vos camarades
+/nade    - place un grenade kit à proximité
+/mark    - marque la cible des tirs au mortier
+/mortar  - lance le mortier
+Vous êtes l'Artilleur
+Vous pouvez placer des greade kits et effectuer des tirs au mortier
+Statgun prête à être construite!
+La statgun de votre équipe a été détruite!
+La mine a détruit la statgun ennemie!
+a marché sur votre mine!
+Vous avez marché sur une mine!
+Vous avez marché sur votre propre mine!
++1 Mine prête à être placée!
+La frappe aérienne ne peut être effectuée ici
+Le bombardement à l'artillerie ne peut être effectué ici
+Bombardement de la base ennemie
+Bombardement au napalm
+Frappe nucléaire
+Bombardement au mortier
+Frappe aérienne de zeppelin
+Frappe aérienne
+Bombardement à fragmentation
+
+La frappe aérienne a détruit la statgun ennemie!
+Vous avez déjà ce rôle!
+est le Médecin de votre équipe
+est le Général de votre équipe
+est l'Opérateur Radio de votre équipe
+est le Saboteur de votre équipe
+est l'Ingénieur de votre équipe
+est le Tireur d'Elite de votre équipe
+est l'Espion de votre équipe
+est l'Artilleur de votre équipe
+est pris par
+est maintenant disponible.
+Points de ravitaillement
+<-- DERRIERE LES LIGNES!
+a aperçu quelqu'un franchir nos lignes!
+--> DERRIERE LES LIGNES!
+/\ SUR LE TOIT! /\
+a aperçu quelqu'un sur le toit du bunker!
+> A L'INTERIEUR! <
+a aperçu un ennemi à l'intérieur du bunker!
+< LE CHAMP EST LIBRE >
+a remarqué que le champ est libre!
+Le général ennemi porte un gilet pare-balles!
+a s'est aperçu que le général ennemi est doté d'un gilet pare-balles!
+Soins en cours...
+Soins en cours...
+Votre camarade a tous ses hp
+Guéri!
+Medikit placé
+Medikit disponible! Entrez /kit pour le placer
+Pas de medikit disponible pour le moment
+Vous devez être en vie pour placer un kit
+Vous ne possédez pas de repas
+Vous êtes déjà mort
+Bunker en cours de sabotage... Ne bougez pas!
+Conquête du bunker en cours... Ne bougez pas!
+Echec du sabotage du bunker!
+Echec de la conquête du bunker!
+Votre équipe a saboté un bunker!
+Votre équipe a repoussé l'ennemi d'un bunker!
+L'ennemi a saboté votre bunker!
+L'ennemi a repoussé votre équipe d'un bunker!
+Bunker saboté!
+Votre équipe a gagné du terrain!
+Bunker conqueri!
+L'équipe ennemie a gagné du terrain!
+Sabotage en cours...
+Conquêtre en cours...
+Ceci est votre propre base.
+Ceci est la base ennemie, vous ne pouvez la conquérir.
+Votre équipe possède déjà le dernier bunker
+Ce bunker vous appartient déjà
+Vous pouvez saboter ce bunker seulement si vous possédez tous les autres
+Vous pouvez saboter ce bunker seulement si l'ennemi l'a conquéri
+Conquête déjà en cours...
+Vous devez être en vie pour conquérir un bunker
+Le radioman ennemi a commandé une veste
+Le radioman ennemi a commandé une veste pour le général
+Le radioman ennemi a commandé des LAWS
+Le radioman ennemi a commandé des grenades
+Le radioman ennemi a commandé un medikit
+Le radioman ennemi a commandé des grenades à fragmentation
+Le radioman ennemi a commandé un cannon HAC
+Le radioman ennemi a commandé un parachutiste
+Le radioman ennemi a commandé un bombardement de votre bunker
+Le radioman ennemi a commandé un bombardement au napalm
+Le radioman ennemi a commandé une frappe nucléaire
+Le radioman ennemi a commandé un barrage de mortier
+Le radioman ennemi a commandé une frappe aérienne zeppelin
+Le radioman ennemi a commandé une frappe aérienne
+Le radioman ennemi a commandé un bombardement à sous-munitions
+
+Points de ravitaillement restants 
+Vous devez être en vie pour commander des ravitaillements
+Veste livrée à votre base!
+Vest delivered to your general!
+Pas de général dans le bunker!
+Le général est déjà mort!
+Votre équipe n'a pas de général
+Laws livrés à votre base!
+Grenades livrées à votre base!
+Medikit livré à votre base!
+Grenades à fragmentation livrées à votre base!
+HAC-25 livré à l'Artilleur!
+Vous avez reçu un HAC-25, SOYEZ PRUDENT
+ERROR: Paratrooper bot file not found
+Il y a déjà un parachutiste sur le champ de bataille, entrez /kick pour le renvoyer
+[Artillerie]: Affirmatif!
+[Pilote]: Affirmatif!
+Frappe aérienne en cours
+Pas assez de points de ravitaillement!
+La batterie est pleine, entrez /tap pour capter la communication ennemie
+Batterie vidée!
+a commencé à capter les communications ennemies (affichées en rouge)
+La batterie n'est pas encore prête
+secondes restantes
+Captage déjà en cours...
+La construction a échoué!
+La déconstruction a échoué!
+La réparation a échoué!
+La construction fut un succès!
+Statgun récuperée
+La statgun a été réparée avec succès!
+Construction en cours...
+Deconstruction en cours...
+Reparation en cours...
+Statgun en cours de réparation, ne bougez pas!
+Soyez à proximité d'une statgun pour la réparer!
+Vous devez être en vie pour réparer une statgun.
+Déconstruction de la statgun, ne bougez pas!
+Vous devez être à proximité d'une statgun pour la récupérer!
+Vous devez être en vie pour récupérer une statgun.
+Vous avez commencé la construction! Ne bougez pas!
+Statgun pas encore prête. Veuillez patienter.
+secondes.
+Autre processus en cours, veuillez patienter
+Statgun déjà placée. Entrez /get à sa proximité pour la récupérer.
+Vous devez être en vie pour placer une statgun
+Mine placeé! Eloignez-vous en!
+Mine placeé!
+Vous n'avez plus de mines!
+Vous devez attendre
+Vous devez être en vie pour placer un mine
+Statgun sabotée!
+Mine sabotée!
+Vous devez être en vie pour saboter
+Bombe placée! Entre /active (ou /act) pour l'activer
+Le compte à rebours doit faire entre 3 et 8 secondes.
+(REPORT)
+est un ennemi
+Points de ravitaillement ennemis:
+L'opérateur radio ennemi est en train de capter!
+Aucun ennemi en vue!
+Furtivité activée!
+Aucun kit de furtivité disponible!
+Erreur de syntaxe: /place <temps> | Exemple: /place 3
+Plus de bombes restantes!
+Vous devez être en vie pour placer une bombe
+Comptes à rebours activés!
+Pas de bombe inactive placée!
+Vous devez être en vie afin d'activer les comptes à rebours
+Vous devez être en vie afin d'observer les ennemis
+Prêt à observer l'ennemi!
+Un espion est proche!
+Grenade kit placé
+Mise à feu du mortier!
+La cible est hors de portée(derrière un obstacle)
+La cible est hors de portée (trop éloignée)
+Le mortier est prêt! entrez /mortar pour tirer!
+Le mortier est à court de munitions.
+Mortier annulé: le joueur s'est déplacé
+Le mortier a détruit la statgun ennemie!
+Le grenade kit est prêt! entrez /nade pour l'utiliser
+Vous n'avez pas de grenade kit pour le moment
+Vous ne pouvez pas placer de marque sur le bunker ennemi
+Marque placée!
+La marque doit être placée au sol
+Vous ne pouvez pas placer de marque à l'intérieur
+Vous devez être en vie afin de placer une marque
+Le mortier n'est pas encore prêt. Attendez
+Tirs déjà en cours...
+Vous devez d'abord placer une marque
+Vous devez être en vie afin d'utiliser un mortier
+Bienvenue à Tactical Trenchwar
+Entrez !help afin d'obtenir de l'aide.
+Entrez /commands pour une liste des commandes.
+Ceci n'est pas une commande!
+Affin d'entrer une commande, entrez / sans appuyez sur la touche "t" (touche de chat)

@@ -1,0 +1,305 @@
+Grah,vrijeme za smrtonosne plinove .
+Lijepo!
+Vrijeme za hamburger!
+Ahhhhhh.
+Baš to sam trebao!
+Toèno pogaða!
+Da!
+Nitko ionako ne treba lijeènika?
+Jabuke su zdrave!
+Osjeèaš se bolje
+LRI
+SRI
+Med
+Gen
+Rad
+Sab
+Eng
+Eli
+Spy
+Art
+Borac na daljinu
+Borac na blizinu
+Lijeènik
+General
+Radiovezist
+Saboter
+Inženjer
+Elita
+Špijun
+Artiljerija
+Brze komande:
+Zadatak
+Možeš igrati sve klase koristeèi 4 komande 
+Možeš igrati koriteèi Hexer kratice kao komande (/heal, /def, /ofs, /smn)
+* Taktièki rovovski rat *
+U taktièkom rovovskom ratu je važan timski rad, svaki vojnik ima odreðeni zadatak u ekipi.
+ Dostupno je 10 klasa.
+Napiši /apply za popis zadataka
+Napiši /commands za popis komanda
+Molim izaberi klasu. Za izbor,napiši:
+/short  bliska borba
+/long   daleka borba
+/gen    za generala koji osvaja bunkere
+/medic  za lijeènika
+/eng    za inženjera koji ima topove i mine
+/rad    za radiovezista koji opskrbljuje ekipu
+/elite  za Elitu , snajperista
+/art    za artiljeriju
+/spy    za špijuna koji ima eksploziv
+/sabo   za sabotera koji uništava
+Globalne komande:
+/apply - za popis zadataka
+/list  - za klase u timu
+/free  - slobodne klase
+/table - za aliase komande
+/maps  - pokazuje mape
+/quick - uzimaš sluèajnu klasu
+Komande vezane uz klasu:
+/mre    - hrana, regenerira 50% zdravlja
+Ti si borac na daljinu
+maš hranu (mre). Za pojesti, napiši /mre (regenerira 50% zdravlja)
+Ti si borac na blizinu
+/kit    - baca prvu pomoè pokraj tebe
+Ti si lijeènik
+Mijenjaj svoje oružje pokraj drugog igraèa kako bi ga izlijeèio.Takoðer možeš bacati prvi pomoè.
+Zdravlje se ti automatski regenerira kad stojiš na mjestu.
+/conq   - osvajaš bunker u kojem se nalaziš
+Ti si general
+Tvoj zadatak je osvajanje bunkera kako 
+bi se tvoji suigraèi ondje ''stvarali''.
+/tap    - èitanje protivnièkog chata
+/supply - pokazuje listu zaliha koje možeš naruèiti
+/strike - pokazuje listu raènih napada
+Ti si radiovezist
+Tvoj zadatak je naruèivanje zaliha.
+Možeš èitati protivnièki chat i pozvati zraèni napad.
+Pojaèanja (bit èe dostavljena kod bunkera)
+/grenade  granate
+/vest     vesta otporna na metke (/vestgen vesta za generala)
+/medi     prva pomoè
+/cluster  fragmentna granate
+/law      5 LAW bacaèa
+/hac      topovska paljba
+Druge zapovijedi:
+/para     padobranac nad protivnièkom bunkeru
+Za listu dostupnih zraènih napada napiši /strike
+Dostupni zraèni napadi:
+/zeppelin - zepelin napad
+/airco    - linijski napad
+/barrage  - paljba iz mortara
+/napalm   - napalm 
+/cluststr - napad fragmentirajuèim granatama
+/nuke     - nuklearni napad
+/enemy    - napad protivnièke baze
+
+/build  - gradnja stacioniranog topa
+/get    - dekonstrukcija topa
+/fix    - popravak topa
+/mine   - postavljanje mina
+Ti si inženjer
+Možeš graditi stacionarne topove i postavljati mine
+/rig    - uništavanje protivniækih topova i mina
+Ti si saboter
+Možeš uništavati protivnièke topove i mine sa komandom /rig
+/place <vrijeme> - postavljanje vremenskog eksploziva
+/act          - aktiviranje tajmera
+/obs          - špijunaža obližnjeg protivnika
+/stealth      - aktiviranje kutije za nevidljivost
+Ti si špijun
+Imaš jednu kutiju za nevidljivost po životu.
+Možeš postavljati i aktivirati vremenske eksplozive
+Možeš uništavati protivnièke topove i špijunirati protivnikove zadatke.
+Elita nema nikakve komande.
+Ti si sada elita
+Tvoj zadatak je snajpersko pokrivanje.
+/nade    - kutija sa eksplozivom
+/mark    - markiranje za napad mortarom
+/mortar  - ispucavanje mortara
+Ti si artiljerija
+Možeš stvarati kutije s granatama i pucati iz mortara.
+Stacionarni top spreman za gradnju!
+Vaš stacionarni top je uništen!
+Mina je uništila protivnièki top!
+Netko je stao na minu!
+Ti si stao na minu!
+Stao si na svoju minu!
++1 mina spremna za postavljanje!
+Oprosti, ali airco napad se nemože izvršiti ovdje
+Oprosti, ali artiljerijska pomoè se nemože pozvati ovdje
+Napad na protivnièku bazu
+Napalm napad
+Nuklearni napad
+Mortar napad
+Zepelin napad
+Linijski napad
+Fragmentacijske granate!
+
+Zraèni napad je uništio protivnièki stacionarni top!
+Ti veè imaš klasu
+je lijeènik u tvojoj ekipi
+je tvoj general
+je tvoj radiovezist
+je tvoj saboter
+je tvoj inženjer
+je tvoja elita
+je tvoj špijun
+je tvoja artiljerija
+zauzeto od
+je postalo dostupno.
+bodova na zalihi
+<-- PRODOR
+je primijetio nekog da probija!
+--> PRODOR
+/\ KROV /\
+je primijetio nekoga na krovu bunkera!
+> UNUTRA <
+je primijetio nekoga unutar bunkera!
+< ÈISTO >
+je primijetio da je podruèje èisto!
+PRILAZI GENERAL SA VESTOM
+je primijetio generala sa vestom!
+Lijeèim
+Bivaš lijeèen...
+Vojnik je zdrav
+Zdravlje puno!
+Prva pomoè baèena
+Prva pomoè dostupna! Napiši /kit za prvu pomoè
+Prva pomoè nije trenutno dostupna
+Moraš biti živ za kutiju prve pomoèi
+Nemaš hrane za pojest.
+Veè si mrtav
+Sabotiram bunker... Nemoj se kretati!
+Osvajam bunker... Nemoj se kretati!
+Sabotaža nije uspijela!
+Osvajanje nije uspijelo!
+Tvoja ekipa je sabotirala bunker!
+Potisnuli ste protivnike natrag jedan bunker!
+Protivnik je sabotirao vaš bunker!
+Protivnik vas je potisnuo jedan bunker natrag!
+Bunker sabotiran!
+Napredovali ste za jedan bunker!
+Bunker osvojen!
+Protivnik je osvojio bunker!
+Sabotiram...
+Osvajam...
+Ovo je tvoja baza.
+Ovo je protivnièka baza,nemožeš je osvojiti
+Tvoja ekipa veè ima daljnji bunker
+Osvojio si ovaj bunker
+Možeš sabotirati ovaj  bunker kad imaš sve ostale
+Možeš sabotirati ovaj bunker samo kad ga protivnik osvoji
+Veè osvajam...
+Moraš biti živ za osvajanje
+Protivnièki radiovezist naruèuje vestu
+Protivnièki radiovezist naruèuje vestu za generala
+Protivnièki radiovezist naruèuje law bacaèa
+Protivnièki radiovezist naruèuje granate
+Protivnièki radiovezist naruèuje prvu pomoè
+Protivnièki radiovezist naruèuje fragmentacijske granate
+Protivnièki radiovezist naruèuje topništvo
+Protivnièki radiovezist naruèuje padobranca
+Protivnièki radioezist zove zraèni napad na tvoj bunker
+Protivnièki radioezist zove napalm 
+Protivnièki radioezist zove nuklerni napad
+Protivnièki radioezist zove mortar paljbu
+Protivnièki radioezist zove zepelin napad
+Protivnièki radioezist zove linijski napad
+Protivnièki radioezist zove fragmentacijski napad
+
+bodova zalihe ostalo
+Moraš biti živ za naruèivanje zaliha
+Vesta dostavljena k tvojoj bazi
+Vest delivered to your general!
+Nema generala u bunkeru
+General je veè mrtav
+Tvoj tim nema generala
+Law bacaèi dostavljeni k tvojoj bazi
+Granate dostavljene k tvojoj bazi
+Prva pomoè dostavljena k tvojoj bazi
+Fragmentacijske granate dostavljene k tvojoj bazi
+HAC dostavljen artiljeriji
+Primio siHAC-25, BUDI PAŽLJIV
+GREŠKA: Bot padobranca nije pronaðen
+Padobranac je veè na polju, napiši /kick za izbacivanje
+[Artiljerijska pomoè]: Potvrda!
+[Pilot]: Potvrda!
+Napad u tijeku
+Nedovoljno bodova zalihe
+Baterija puna, napiši /tap za èitanje protivnièkog chata
+Baterija se ispraznila!
+je poèeo èitati protivnièku komunikaciju (pisano crvenim)
+Baterija još nije puna
+sekunda ostalo
+èitanje u tijeku...
+Gradnja nije uspijela!
+Dekonstrukcija nije uspijela!
+Popravak nije uspio!
+Gradnja uspijela!
+Top preuzet!
+Popravak uspiješan!
+Gradim...
+Preuzimam...
+Popravljam...
+Popravljam top, nemoj se kretati!
+Stoj blizu topa za popravak!
+Moraš biti živ za popravak topa
+Preuzimam top, nemoj se kretati!
+Stoj blizu topa za povratak!
+Moraš biti živ za uzimanje topa
+Gradnja poèela!Nemoj se kretati!
+Top nije spreman. Èekaj
+sekunde.
+Drugi proces u tijeku, molim èekaj
+Top je veè u igri. Napiši /get blizu za preuzimanje
+Moraš biti živ za gradnju topa
+Mina postavljena! Makni se!
+Mina postavljena!
+Nemaš više mina!
+Moraš prièekati
+Moraš biti živ za postavljanje mina
+Top onesposobljen!
+Mina onesposobljena!
+Moraš biti živ za onesposobljavanje
+Bomba postavljena!Napiši /activate (/act) za aktivaciju bomba
+Bombe se mogu tempirati na 3 do 8 sekundi.
+(IZVJEŠÈE)
+je protivnik
+Protivnièki bodovi zalihe:
+Protivnièki radiovezist èita chat!
+Nema protivnika na vidiku!
+Nevidljivost aktivirana!
+Kutija nevidljivosti nije dostupna
+Syntax greška: /place <vrijeme> | Primjer: /place 3
+Nema više bombi!
+Moraš biti živ za postavljanje bombi
+Timer aktiviran!
+Nema neaktivnih bombi!
+Moraš biti živ za aktivaciju bombi
+Moraš biti živ za promatranje protivnika
+Spreman za promatranje!
+Špijun u blizini!
+Kutija s granatama spremna
+Mortar ispaljen!
+Meta je izvan dometa (iza prepreke)
+Meta je izvan dometa (pre daleko)
+Mortar spreman! napiši /mortar za pucanje!
+Mortar ostao bez municije.
+Igraè se pomaknuo, mortar onesposobljen
+Mortar uništio protivnièki top!
+Granate spremne! Napiši /nade za korištenje.
+Granate trenutno nisu dostupne
+Nemožeš markirati protivnièki bunker
+Markirano!
+Markiranje more biti na zemlji
+Možeš markirati samo vani
+Moraš biti živ za markiranje
+Mortar još nije spreman. Èekaj
+Veè pucam...
+Moraš prvo markirati
+Moraš biti živ za ispucavanje mortara
+Dobrodošli u taktièki rovovski rat
+Napiši !help za poèetak.
+Napiši /commands za popis komanda
+To nije komanda!
+Za pisanje komandi napiši / bez pritiska "t" (chat dugme)

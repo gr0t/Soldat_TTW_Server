@@ -1,0 +1,52 @@
+
+
+[2020-04-19 21:45:19] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-04-19 22:52:49] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-04-19 23:05:53] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-05-08 20:49:01] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-05-08 20:49:04] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-05-08 21:11:17] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-05-08 21:22:18] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-05-08 21:22:19] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-05-08 21:34:19] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-05-08 21:34:27] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-05-08 21:35:03] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-05-09 21:08:18] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-05-11 16:41:38] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-05-11 17:14:04] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-05-11 17:14:07] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-05-11 17:39:04] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-05-11 17:39:05] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-05-11 17:58:02] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-05-11 17:58:06] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-05-11 19:18:05] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-05-13 20:12:44] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-05-13 20:15:09] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-05-14 16:05:04] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-05-14 16:10:43] [AppID 638490] CAPIJobStoreUserStats::BInit() - no stats found, aborting

@@ -1,0 +1,500 @@
+20-05-09 21:02:07    Console Log Started
+20-05-09 21:02:07 Welcome to Soldat 1.7.1
+20-05-09 21:02:07  [*] Preparing scripts to be launched
+20-05-09 21:02:07  [*] Compiling Gather_new -> Gather.pas...
+20-05-09 21:02:07  [*] Compiling Gather_new -> TTWGather.pas...
+20-05-09 21:02:07  [*] Compiling Gather_new -> TWGather.pas...
+20-05-09 21:02:07  [*] Compiling Gather_new -> ONSGather.pas...
+20-05-09 21:02:07  [*] Compiling Gather_new -> MModGather.pas...
+20-05-09 21:02:07  [*] Compiling Gather_new -> MMGather.pas...
+20-05-09 21:02:07  [*] Compiling Gather_new -> PORGather.pas...
+20-05-09 21:02:07  [*] Compiling Gather_new -> M79cGather.pas...
+20-05-09 21:02:07  [*] Compiling Gather_new -> Events.pas...
+20-05-09 21:02:07  [*] Gather_new compiled
+20-05-09 21:02:07  [*] [gbl] Loading bytecode
+20-05-09 21:02:07  [*] [gbl] Bytecode loaded
+20-05-09 21:02:07  [*] Compiling New TTW -> header.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/headers/text.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/headers/strikes.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/headers/core.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/headers/kits.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/headers/locale.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/headers/bunkers.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/headers/mines.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/headers/statguns.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/headers/burning_areas.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/headers/paraqueue.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> functions/functions.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> functions/iif.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> functions/geoip_functions.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> functions/ballistic_functions.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> functions/mersenne.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> functions/quicksort.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> functions/array_tools.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/gatherout.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/kits.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/burning_areas.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/locale.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/messages.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/text.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/bunkers.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/lang.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/spectator_interface.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Tasks/headers/long.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Tasks/headers/short.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Tasks/headers/medic.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Tasks/headers/general.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Tasks/headers/radioman.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Tasks/headers/engineer.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Tasks/headers/saboteur.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Tasks/headers/spy.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Tasks/headers/elite.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Tasks/headers/artillery.h.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/paraqueue.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/statguns.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/mines.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/strikes/enemybase.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/strikes/napalm.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/strikes/cluster.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/strikes/burst.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/strikes/nuke.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/strikes/airco.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/strikes/zeppelin.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/strikes/barrage.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/strikes.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/core.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Tasks/medic.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Tasks/long.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Tasks/short.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Tasks/general.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Tasks/radioman.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Tasks/engineer.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Tasks/saboteur.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Tasks/spy.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Tasks/artillery.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/reset.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> Game/gatherinc.pas...
+20-05-09 21:02:07  [*] Compiling New TTW -> events.pas...
+20-05-09 21:02:07  [*] New TTW -> [Hint] (5761:2): Variable 'I' never used
+20-05-09 21:02:07  [*] New TTW compiled
+20-05-09 21:02:07  [*] Done
+20-05-09 21:02:07 Server password changed to 1
+20-05-09 21:02:07 [GBL] Updating global banlist.
+20-05-09 21:02:07 [Error] GetURL: Function Disabled (SafeMode = ON)
+20-05-09 21:02:07 Friendly Fire is 60
+20-05-09 21:02:07 <New TTW> Loaded DE translation (56)
+20-05-09 21:02:07 <New TTW> Loaded FR translation (74)
+20-05-09 21:02:07 <New TTW> Loaded HR translation (97)
+20-05-09 21:02:07 <New TTW> Loaded NL translation (161)
+20-05-09 21:02:07 <New TTW> Loaded PL translation (174)
+20-05-09 21:02:07 <New TTW> Loaded RU translation (185)
+20-05-09 21:02:07 <New TTW> Loaded TR translation (217)
+20-05-09 21:02:07 tw_Forgotten by NamelessW, CTF by Drag
+20-05-09 21:02:07 <New TTW> Initializing bunkers...
+20-05-09 21:02:07 <New TTW> File not found, parsing map...
+20-05-09 21:02:07 <New TTW> Done, 7 bunkers loaded
+20-05-09 21:02:07 Realistic Mode ON
+20-05-09 21:02:07 Loaded weapons mod "Tactical Trenchwars v1.6.4"
+20-05-09 21:02:07  Connection for file server started. Port: 23083
+20-05-09 21:02:07 Registering server @ 88.99.234.252
+20-05-09 21:02:07 [WARNING] Can't keep up, tick took 814067031ms
+20-05-09 21:02:08 [STEAM] Connected to Steam
+20-05-09 21:02:08 [STEAM] GSPolicyResponse_t (VAC): 1
+20-05-09 21:02:09  [*] Looking for modes...
+20-05-09 21:02:09  [*] New TTW: Gather_new found
+20-05-09 21:02:09  [*] Found Modecore TTW
+20-05-09 21:02:09  [*] GatherMode: TTW
+20-05-09 21:02:09  [*] New TTW: Gather pause set to: False
+20-05-09 21:02:09  [*] New TTW: GatherOn set to: 0
+20-05-09 21:02:15 tw_Forgotten by NamelessW, CTF by Drag
+20-05-09 21:02:15 <New TTW> Initializing bunkers...
+20-05-09 21:02:15 <New TTW> File not found, parsing map...
+20-05-09 21:02:15 <New TTW> Done, 7 bunkers loaded
+20-05-09 21:02:15 [WARNING] Can't keep up, tick took 109ms
+20-05-09 21:02:50 83.250.95.254:23073|3FB9882DB49 requesting game...
+20-05-09 21:02:50 [WP] NamelessWolf joining game (83.250.95.254:23073) HWID:3FB9882DB49
+20-05-09 21:02:50 [WP] NamelessWolf has joined as spectator.
+20-05-09 21:02:50 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:02:51 [STEAM] Succesfully authenticated: [WP] NamelessWolf (83.250.95.254:23073) as 76561198073876101 [S113610373] 
+20-05-09 21:02:51 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:02:52 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:02:53 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:02:54 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:02:55 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:02:56 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:02:57 [WP] NamelessWolf has joined bravo team.
+20-05-09 21:02:57 <New TTW> [WP] NamelessWolf assigned to task 2
+20-05-09 21:02:58 [WARNING] Can't keep up, tick took 359ms
+20-05-09 21:02:58 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:02:58 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:02:59 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:00 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:01 [CMD] SRI ([WP] NamelessWolf): /rad
+20-05-09 21:03:01 <New TTW> [WP] NamelessWolf assigned to task 5
+20-05-09 21:03:02 [WARNING] Can't keep up, tick took 360ms
+20-05-09 21:03:02 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:02 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:03 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:04 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:05 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:06 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:07 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:08 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:09 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:10 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:11 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:12 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:13 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:14 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:15 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:16 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:17 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:18 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:19 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:20 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:21 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:22 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:23 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:24 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:25 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:26 [[WP] NamelessWolf] /supply
+20-05-09 21:03:26 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:27 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:28 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:29 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:30 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:31 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:32 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:33 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:34 [CMD] Rad ([WP] NamelessWolf): /supply
+20-05-09 21:03:34 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:35 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:36 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:37 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:38 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:39 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:40 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:41 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:42 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:43 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:44 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:45 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:46 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:47 [WARNING] Can't keep up, tick took 172ms
+20-05-09 21:03:47 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:48 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:49 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:50 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:51 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:52 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:53 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:54 [CMD] Rad ([WP] NamelessWolf): /gen
+20-05-09 21:03:54 <New TTW> [WP] NamelessWolf assigned to task 4
+20-05-09 21:03:54 [WARNING] Can't keep up, tick took 360ms
+20-05-09 21:03:54 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:55 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:56 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:57 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:58 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:03:59 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:00 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:01 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:02 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:03 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:04 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:05 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:06 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:07 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:08 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:09 [CMD] Gen ([WP] NamelessWolf): /cmmd4
+20-05-09 21:04:09 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:10 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:11 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:12 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:13 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:14 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:15 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:16 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:17 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:18 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:19 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:20 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:21 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:22 [WP] NamelessWolf has joined alpha team.
+20-05-09 21:04:22 <New TTW> [WP] NamelessWolf assigned to task 2
+20-05-09 21:04:23 [WARNING] Can't keep up, tick took 406ms
+20-05-09 21:04:23 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:23 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:24 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:25 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:26 [CMD] SRI ([WP] NamelessWolf): /gen
+20-05-09 21:04:26 <New TTW> [WP] NamelessWolf assigned to task 4
+20-05-09 21:04:26 [WARNING] Can't keep up, tick took 359ms
+20-05-09 21:04:26 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:27 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:28 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:29 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:30 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:31 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:32 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:33 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:34 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:35 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:36 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:37 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:38 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:39 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:40 [CMD] Gen ([WP] NamelessWolf): /rad
+20-05-09 21:04:40 <New TTW> [WP] NamelessWolf assigned to task 5
+20-05-09 21:04:40 [WARNING] Can't keep up, tick took 359ms
+20-05-09 21:04:40 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:41 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:42 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:43 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:44 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:45 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:46 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:47 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:48 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:49 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:50 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:51 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:52 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:53 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:54 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:55 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:56 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:57 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:58 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:04:59 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:00 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:01 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:02 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:03 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:04 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:05 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:06 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:07 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:08 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:09 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:10 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:11 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:12 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:13 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:14 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:15 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:16 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:17 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:18 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:19 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:20 [CMD] Rad ([WP] NamelessWolf): /para
+20-05-09 21:05:20 <New TTW> Paratrooper assigned to task 2
+20-05-09 21:05:20 <New TTW> Paratrooper assigned to task 11
+20-05-09 21:05:20 [WARNING] Can't keep up, tick took 719ms
+20-05-09 21:05:20 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:21 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:22 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:23 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:24 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:25 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:26 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:27 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:28 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:29 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:30 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:31 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:32 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:33 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:34 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:35 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:36 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:37 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:38 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:39 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:40 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:41 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:42 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:43 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:44 [CMD] Rad ([WP] NamelessWolf): /gen
+20-05-09 21:05:44 <New TTW> [WP] NamelessWolf assigned to task 4
+20-05-09 21:05:44 [WARNING] Can't keep up, tick took 391ms
+20-05-09 21:05:44 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:45 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:46 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:47 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:48 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:49 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:50 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:51 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:52 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:53 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:54 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:55 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:56 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:57 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:58 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:05:59 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:00 [WARNING] Can't keep up, tick took 110ms
+20-05-09 21:06:00 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:01 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:02 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:03 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:04 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:05 [CMD] Gen ([WP] NamelessWolf): /cmmd3
+20-05-09 21:06:05 Paratrooper captured the Blue Flag
+20-05-09 21:06:05 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:06 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:07 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:08 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:09 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:10 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:11 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:12 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:13 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:14 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:15 Time Left: 99995 minutes
+20-05-09 21:06:15 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:16 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:17 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:18 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:19 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:20 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:21 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:22 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:23 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:24 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:25 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:26 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:26 (1) Paratrooper killed (1) [WP] NamelessWolf with FN Minimi
+20-05-09 21:06:27 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:28 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:29 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:30 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:31 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:32 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:33 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:34 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:35 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:36 (1) [WP] NamelessWolf killed (1) Paratrooper with Ak-74
+20-05-09 21:06:36 [WP] NamelessWolf captured the Blue Flag
+20-05-09 21:06:36 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:37 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:38 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:39 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:40 Paratrooper has been kicked.
+20-05-09 21:06:40 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:41 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:42 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:43 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:44 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:45 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:46 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:47 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:48 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:49 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:50 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:51 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:52 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:53 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:54 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:55 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:56 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:57 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:58 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:06:59 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:00 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:01 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:02 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:03 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:04 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:05 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:06 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:07 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:08 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:08 [CMD] Gen ([WP] NamelessWolf): /rad
+20-05-09 21:07:09 <New TTW> [WP] NamelessWolf assigned to task 5
+20-05-09 21:07:09 [WARNING] Can't keep up, tick took 359ms
+20-05-09 21:07:09 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:10 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:11 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:12 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:13 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:14 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:15 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:16 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:17 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:18 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:19 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:20 [CMD] Rad ([WP] NamelessWolf): /cmmd1
+20-05-09 21:07:20 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:21 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:22 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:23 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:24 [CMD] Rad ([WP] NamelessWolf): /cmmd2
+20-05-09 21:07:24 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:25 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:26 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:27 [CMD] Rad ([WP] NamelessWolf): /cmmd3
+20-05-09 21:07:27 <New TTW> Paratrooper assigned to task 2
+20-05-09 21:07:27 <New TTW> Paratrooper assigned to task 11
+20-05-09 21:07:28 [WARNING] Can't keep up, tick took 719ms
+20-05-09 21:07:28 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:28 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:29 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:30 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:31 [WP] NamelessWolf captured the Blue Flag
+20-05-09 21:07:31 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:32 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:33 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:34 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:35 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:36 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:37 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:38 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:39 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:40 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:41 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:42 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:43 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:44 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:45 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:46 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:47 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:48 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:49 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:50 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:51 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:52 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:53 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:54 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:55 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:56 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:57 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:58 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:07:59 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:08:00 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:08:01 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:08:02 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:08:03 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:08:04 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:08:05 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:08:06 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:08:07 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:08:08 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:08:09 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:08:10 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:08:11 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:08:12 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:08:13 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:08:14 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:08:15 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:08:16 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:08:17 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-09 21:08:18 [WP] NamelessWolf has left alpha team.
+20-05-09 21:08:18 Paratrooper has been kicked.
+20-05-09 21:08:18 [WARNING] Can't keep up, tick took 203ms
+20-05-09 21:11:15 Time Left: 99990 minutes
+20-05-09 21:16:15 Time Left: 99985 minutes
+20-05-09 21:21:01 Shutting down server...
+20-05-09 21:21:01 Shutting down FileServer...
+20-05-09 21:21:01 Shutting down admin server...

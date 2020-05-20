@@ -1,0 +1,305 @@
+Bonen! Dat wordt lucifers stoken
+4 Uur Cup-a-Soup!
+Dat zouden meer mensen moeten doen!
+Ahhhhhh.
+Dat had ik nou net ff nodig!
+Dat gaat er lekker in!
+Yes!
+Wat nou medic?
+Snoep verstandig, eet een appel!
+Je voelt je al een stuk beter
+GLA
+GKA
+Hos
+Gen
+Ver
+Sab
+Mun
+Slu
+Spi
+Art
+Geweerschutter lange afstand
+Geweerschutter korte afstand
+Hospik
+Generaal
+Verbindingsdienst
+Saboteur
+Munitietechnicus
+Sluipschutter
+De Spion
+Artillerie
+Verkorte commando's:
+TAAK
+Je kan alle taken uitvoeren met maar 4 taunts
+Je kunt Hexer taunts gebruiken (/heal, /def, /ofs, /smn)
+* Tactische Loopgravenoorlog *
+In Tactische Loopgravenoorlog gaat het om teamwork, elke soldaat heeft
+een specifieke taak binnen het team.  Er zijn 10 taken beschikbaar.
+Typ /apply om een lijst met alle taken in te zien
+Typ /commands om een lijst van alle commando's in te zien
+Kies nu een taak, typ een van de volgende commando's:
+/short  Geweerschutter Korte Afstand
+/long   Geweerschutter Lange Afstand
+/gen    Generaal (verovert bunkers)
+/medic  Hospik
+/eng    Munitietechnicus (grof geschut en mijnen)
+/rad    Verbindingsdienst (bestelt hulpmiddelen)
+/elite  Sluipschutter
+/art    Artillerie
+/spy    Spion (nagenoeg onzichtbaar en plaatst tijdbommen)
+/sabo   Saboteur (kan grof geschut saboteren)
+Algemene commando's:
+/apply - lijst van alle taken
+/list  - lijst van de taken in jouw groep
+/free  - lijst van alle nog beschikbare taken
+/table - tabel met verkorte taak-specifieke commando's
+/maps  - lijst van alle grondscenario's
+/quick - geeft je een willekeurige beschikbare taak
+Taak-specifieke commando's:
+/mre    - veldrantsoen, herstelt je gezondheid met 50%
+Je bent nu een Geweerschutter Lange Afstand
+Je hebt een veldrantsoen (mre).  Om deze op te eten, typ /mre (herstelt je gezondheid met 50%)
+Je bent nu een Geweerschutter Korte Afstand
+/kit    - plaatst een eerstehulpdoos naast je
+Je bent nu een Hospik
+Wissel tussen wapens om naarbije groepsgenoten te helen.  Je kan ook EHBO dozen plaatsen.
+Je gezondheid zal automatisch toenemen zo lang je je niet verplaatst.
+/conq   - verovert de bunker waarin je je bevindt
+Je bent nu de Generaal
+Jouw taak is om bunkers te veroveren om je
+groepsgenoeten in die bunkers te laten starten
+/tap    - tapt de communicatie van de vijand af
+/supply - lijst van hulpgoederen die je kan bestellen
+/strike - lijst van artillerievuur die je kan bestellen
+Je bent nu de Verbindingsdienst
+Jouw taak is om hulpmiddelen te bestellen.  Je kan ook
+artillerievuur bestellen en de vijand aftappen.
+Hulpgoederen (worden bij je bunker afgeleverd)
+/grenade  kistje granaten
+/vest     kogelvrij vest (/vestgen om een vest aan de Generaal te geven)
+/medi     EHBO doos
+/cluster  kistje fragmentatie granaten
+/law      5 LAW anti-tank raket lanceerders
+/hac      zwaar geschut
+Andere goederen:
+/para     parachutist boven de bunker van de vijand
+Typ /strike om een lijst van beschikbaar artillerievuur in te zien
+Beschikbaar artillerievuur
+/zeppelin - zeppelin
+/airco    - airco
+/barrage  - mortier
+/napalm   - napalm
+/cluststr - zwerm
+/nuke     - nucleair
+/enemy    - aanval op basis van de vijand
+
+/build  - grof geschut opbouwen
+/get    - grof geschut afbreken
+/fix    - repareert grof geschut
+/mine   - plaatst een landmijn
+Je bent nu een Munitietechnicus
+Je kan grof geschut bouwen en landmijnen plaatsen
+/rig    - saboteert nabij grof geschut of landmijn
+Je bent nu een Saboteur
+Je kunt mijnen en grof geschut saboteren met /rig
+/place <tijd> - plaatst een tijdbomb
+/act          - activeer de tijdklokken op de bommen
+/obs          - bespioneer een nabije vijand
+/stealth      - word nagenoeg onzichtbaar
+Je bent nu de Spion
+Je hebt per leven eenmalig de optie om nagenoeg onzichtbaar te worden.
+Je kunt tijdbommen plaatsen en activeren
+Je kunt daarmee ook grof geschut saboteren en vijanden bespioneren.
+De Sluipschutter heeft geen taak-specifieke commando's
+Je bent nu de Sluipschutter
+Jouw taak is om dekkingsvuur te bieden
+/nade    - plaatst een kistje granaten naast je
+/mark    - markeert een plek voor mortiervuur
+/mortar  - begint mortiervuur
+Je bent nu de Artillerie
+Je kan kistjes granaten plaatsen en mortieren afvuren
+Grof geschut klaar om gebouwd te worden!
+Jouw grof geschut is vernietigd!
+Vijandelijk grof geschut vernietigd door mijn!
+is op je mijn gestapt!
+Je bent op een mijn gestapt!
+Je bent op je eigen mijn gestapt!
++1 mijn klaar om geplaatst te worden!
+Sorry, maar de airco aanval kan hier niet gebruikt worden
+Sorry, maar zwaar artillerie vuur kan hier niet gestuurd worden
+Luchtaanval op basis van vijand
+Napalm aanval
+Nucleaire aanval
+Mortier aanval
+Zeppelin aanval
+Airco aanval
+Zwerm aanval
+
+Vijandig grof geschut geland!
+Die taak heb je al
+is de Hospik in jouw groep
+is de Generaal in jouw groep
+is de Verbindingsdienst in jouw groep
+is de Saboteur in jouw groep
+is de Munitietechnicus in jouw groep
+is de Sluipschutter in jouw groep
+is de Spion in jouw groep
+is de Artillerie in jouw groep
+toegewezen aan
+is nu beschikbaar.
+Hulpmiddel punten
+<-- VERDEDIGING DOORBROKEN
+heeft iemand de verdediging zien doorbreken!!
+--> VERDEDIGING DOORBROKEN
+/\ OP HET DAK /\
+heeft iemand op het dak gezien!
+> BINNEN <
+heeft iemand binnen de bunker gezien!
+< VEILIG >
+heeft de kust veilig verklaard!
+GEN MET VEST
+heeft gezien dat de vijandige Generaal, met vest, eraan komt!
+Bezig met helen
+Je wordt geheeld...
+Soldaat is helemaal gezond
+Helemaal gezond!
+EHBO doos geplaatst
+EHBO doos beschikbaar!  Type /kit om een EHBO doos te plaatsen
+Je hebt op het moment geen EHBO doos
+Je moet in leven zijn om een EHBO doos te plaatsen
+Je hebt geen veldrantsoen.
+Geen nut - je bent al dood
+Bunker aan het saboteren... Niet verlaten!
+Bunker aan het veroveren... Niet verlaten!
+Bunker sabotage mislukt!
+Bunker verovering mislukt!
+Je groep heeft een bunker gesaboteerd!
+Je groep heeft de vijand een bunker terug geforceerd!
+De vijand heeft je bunker gesaboteerd!
+De vijand heeft je groep een bunker terug geforceerd!
+Bunker gesaboteerd!
+Je groep heeft een bunker ingenomen!
+Bunker veroverd!
+De vijand heeft een bunker veroverd!
+Aan het saboteren...
+Aan het veroveren...
+Dit is je eigen basis.
+Dit is de vijandelijke basis - deze kan je niet veroveren.
+Een bunker verderop al veroverd door jouw team.
+Je hebt deze bunker al veroverd
+Je kan deze bunker pas saboteren als je alle andere bunkers hebt veroverd
+Je kan deze bunker alleen saboteren als de vijand deze veroverd heeft
+Al bezig met veroveren...
+Je kan een bunker alleen veroveren als je in leven bent
+Vijandelijke cerbindingsdienst heeft een vest besteld
+Vijandelijke cerbindingsdienst heeft een vest voor diens generaal besteld
+Vijandelijke cerbindingsdienst heeft LAWs besteld
+Vijandelijke cerbindingsdienst heeft granaten besteld
+Vijandelijke cerbindingsdienst heeft een EHBO doos besteld
+Vijandelijke cerbindingsdienst heeft fragment granaten besteld
+Vijandelijke cerbindingsdienst heeft een grof geschut besteld
+Vijandelijke cerbindingsdienst heeft een parachutist besteld
+Vijandelijke cerbindingsdienst heeft luchtaanval op jouw bunker besteld
+Vijandelijke cerbindingsdienst heeft napalmaanval besteld
+Vijandelijke cerbindingsdienst heeft nucleaire aanval besteld
+Vijandelijke cerbindingsdienst heeft mortier aanval besteld
+Vijandelijke cerbindingsdienst heeft zeppelin aanval besteld
+Vijandelijke cerbindingsdienst heeft airo aanval besteld
+Vijandelijke cerbindingsdienst heeft zwerm aanval besteld
+
+Hulpmiddel punten resterend;
+Je dient in leven te zijn om hulpmiddelen te bestellen
+Kogelvrij vest bij basis aangeleverd!
+Vest delivered to your general!
+Generaal is niet in de bunker!
+De generaal is al overleden!
+Je groep heeft geen generaal
+LAWs bij basis aangeleverd!
+Granaten bij basis aangeleverd!
+EHBO doos bij basis aangeleverd!
+Fragment granaten bij basis aangeleverd!
+Grof geschut bij Artillerie aangeleverd!
+Je hebt Grof Geschut-25 ontvangen, OP EIGEN RISICO
+FOUTMELDING: Parachutist bot bestand niet gevonden
+Parachutist al in het veld.  Typ /kick om weg te halen
+[Artillerie ondersteuning]: Akkoord!
+[Piloot]: Akkoord!
+Luchtaanval is aan de gang
+Onvoldoende hulpmiddel punten
+Je veldbatterij is vol.  Gebruik /tap om de vijand af te tappen
+Veldbatterij leeg!
+is de vijand aan het aftappen (vijandelijke communicatie in het rood)
+Veldbatterij nog niet vol
+seconden te gaan
+Al aan het aftappen...
+Opbouwen mislukt!
+Afbreken mislukt!
+Reparatie failed!
+Opbouw voltooid!
+Statgun retrieved!
+Met success gerepareerd!
+Aan het opbouwen...
+Aan het afbreken...
+Aan het repareren...
+Grof geschut aan het repareren, plek niet verlaten!
+Je moet bij het grof geschut staan om het te repareren!
+Je moet in leven zijn om een grof geschut te repareren
+Grof geschut aan het ophalen, plek niet verlaten!
+Je moet bij het grof geschut staan om het op te halen!
+Je moet in leven zijn om een grof geschut op te halen
+Grof geschut aan het opbouwen, plek niet verlaten!
+Grog geschut nog niet beschikbaar.
+seconden.
+Een ander proces is aan de gang, even wachten...
+Grof geschut al in het veld.  Typ /get om het weg te halen.
+Je moet in leven zijn om een grof geschut te bouwen
+Mijn geplaatst!  Maak dat je weg komt!
+Mijn geplaatst!
+Je hebt geen mijnen meer!
+Je zal moeten wachten
+Je moet in leven zijn om een mijn te kunnen plaatsen
+Grof geschut gesaboteerd!
+Mijn gesaboteerd!
+Je moet in leven zijn om iets te kunnen saboteren
+Tijdbom geplaatst.  Typ /activate (/act) om de bom te activeren.
+Tijdbommen kunnen ingesteld worden tussen de 3 en 8 seconden
+(RAPPORT)
+is een vijand
+Vijandelijke hulpmiddel punten
+Vijandelijke Verbindingsdienst is aan het aftappen!
+Geen vijand in zicht!
+Onzichtbaarheid geactiveerd! BLABLA
+Onzichtbaarheid niet beschikbaar
+Commando fout: /place <tijd> | Voorbeeld: /place 3
+Je hebt geen bommen meer!
+You moet in leven zijn om een bom te kunnen plaatsen
+Tijdklok geactiveerd!
+Geen inactieve bommen geplaatst!
+Je moet in leven zijn om tijdklokken te kunnen activeren
+Je moet in leven zijn om de vijand te kunnen bespioneren
+Klaar om de vijand te bespioneren!
+Er is een Spion in de buurt!
+Kistje granaten geplaatst
+Mortier gelanceerd!
+Doelwit kan niet geraakt worden (achter een obstakel)
+Doelwit kan niet geraakt worden (te ver weg)
+Mortier gereed! Typ /mortar om af te vuren
+Geen mortieren meer.
+Speler heeft zich verplaatst, mortier uitgezet
+Mortier heeft vijandelijk grof geschut vernietigd!
+Kistje granaten gereed!  Typ /nade om deze te plaatsen
+Je hebt op het moment geen kistje granaten
+Je kan de vijandelijke bunker niet markeren
+Plaats gemarkeerd!
+Markering moet buiten op de grond plaatsvinden
+Je kunt alleen buiten markeren
+Je moet in leven zijn om een plaats te markeren
+Mortier is nog niet gereed.
+Al aan het afvuren...
+Je moet eerst een plaats markeren
+Je moet in leven zijn om een mortier af te vuren
+Welkom bij Tactisch Loopgravenoorlog
+Typ !help om de beginselen te leren
+Typ /commands voor een lijst met commando's
+Dat is geen geldig commando!
+Om een commando te typen, druk als eerste de / toets, zonder eerst "t" (spraak) in te typen.

@@ -1,0 +1,31 @@
+18-12-04 15:35:59    Console Log Started
+18-12-04 15:36:00 Welcome to Soldat 1.7.1
+18-12-04 15:36:00  [*] Preparing scripts to be launched
+18-12-04 15:36:00  [*] Compiling Basic -> basic.pas...
+18-12-04 15:36:00  [*] Basic compiled
+18-12-04 15:36:00  [*] Done
+18-12-04 15:36:00  [*] Basic -> Settings loaded successfully
+18-12-04 15:36:00 Mapslist Updated
+18-12-04 15:36:00 CMD list Updated
+18-12-04 15:36:00 Aero -by BN
+18-12-04 15:36:00  Connection for file server started. Port: 23083
+18-12-04 15:36:00 Registering server @ 88.99.234.252
+18-12-04 15:41:00 Time Left: 5 minutes
+18-12-04 15:42:00 Time Left: 4 minutes
+18-12-04 15:43:00 Time Left: 3 minutes
+18-12-04 15:44:00 Time Left: 2 minutes
+18-12-04 15:45:00 Time Left: 1 minutes
+18-12-04 15:46:00 Next map: Arena2
+18-12-04 15:46:05 Soldat Arena Two - version 2.2
+18-12-04 15:51:05 Time Left: 5 minutes
+18-12-04 15:52:05 Time Left: 4 minutes
+18-12-04 15:53:05 Time Left: 3 minutes
+18-12-04 15:54:05 Time Left: 2 minutes
+18-12-04 15:55:05 Time Left: 1 minutes
+18-12-04 15:56:05 Next map: Arena3
+18-12-04 15:56:10 Soldat Arena Three - (version 2)
+18-12-04 16:01:10 Time Left: 5 minutes
+18-12-04 16:02:10 Time Left: 4 minutes
+18-12-04 16:03:06 Shutting down server...
+18-12-04 16:03:06 Shutting down FileServer...
+18-12-04 16:03:06 Shutting down admin server...

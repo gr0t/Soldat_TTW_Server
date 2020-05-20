@@ -1,0 +1,305 @@
+Beans! Time for some deadly flatulence.
+Güzel!
+Burger zamani!
+Ahhhhhh.
+Just what I needed!
+That hits the spot!
+Evet!
+Kimin doktora ihtiyaci vardi?
+Elmalar senin saglina yararlidir!
+Daha iyi hissediyor musun?
+LRI
+SRI
+Med
+Gen
+Rad
+Sab
+Eng
+Eli
+Spy
+Art
+Uzun menzilli piyade
+Kisa menzilli piyade
+Doktor
+General
+Radioman
+Sabotajci
+Mühendis
+Elite
+Ajan
+Artillery
+Quick commands:
+Görev
+You are able to play all tasks using only set of 4 taunts
+You can use Hexer taunts as aliases to commands (/heal, /def, /ofs, /smn)
+* Tactical Trenchwar *
+Tactical trenchwar is about teamwork, every soldier has
+a distinct task in the team. There are 10 tasks available.
+Type /apply for a list of all tasks
+Type /commands to get a list of commands
+Please choose a task. To apply, type:
+/short  kisa menzilli piyade olmak için ( MRE özelligini kullanabilirsin. )
+/long   uzun menzilli piyade olmak için ( MRE özelligini kullanabilirsin. )
+/gen    for General who conquers bunkers
+/medic  Doktor Olmak için, ( takimindakileri iyilestirebilirsin. )
+/eng    Mühendis olmak için, ( statgun kurabilir ve mayin döseyebilirsin. )
+/rad    for Radioman who orders supplies for the team
+/elite  for Elite, the sharpshooter
+/art    for the Artillery
+/spy    Ajan olmak için , ( Görünmez olabilir ve zamanli bombalar kurabilirsin. )
+/sabo   Sabotajci olmak için, ( Statgun ' i yikar )
+Global commands:
+/apply - Bulunan Tüm Mesleklerin Listesi 
+/list  - shows all tasks in your team
+/free  - Bosta olan meslekleri göster
+/table - shows a table of commands aliases
+/maps  - Listedeki haritalari göster
+/quick - Rastgele meslek seç
+Meslek seçme komutlari:
+/mre    - meal ready to eat, regenerates 50% hp
+You are the Long Range Infantry
+You have a meal ready to eat (mre). To eat it, do /mre ( 50% hp ' ni doldurabilirsin.)
+You are the Short Range Infantry
+/kit    - drops a medical kit near you
+You are the Medic
+Switch weapon near teammates to heal them. You can also drop medikits.
+Canin sen hareket halindeyken otomatik olarak dolar
+/conq   - Içinde bulundugun signaklari ele geçirebilirsin
+Sen bir Generalsin
+Your task is conquering bunkers making them new 
+spawn positions for your team.
+/tap    - taps into enemy team chat
+/supply - shows a list of supplies you can order
+/strike - shows a list of available airstrikes
+Sen bir Radioman
+Your task is ordering supply. You can also call
+airstrikes and tap into enemy communication.
+Reinforcements (will be delivered at bunker)
+/grenade  bomba paketi
+/vest     bulletproof vest (/vestgen to vest the General)
+/medi     Can Paketleri
+/cluster  cluster bombalar
+/law      5 LAW launchers
+/hac      heavy artillery cannon
+Other orders:
+/para     paratrooper over enemy bunker
+for list of available strikes write /strike
+Available airstrikes:
+/zeppelin - zeplin saldirisi
+/airco    - airco saldirisi
+/barrage  - mortar barrage
+/napalm   - napalm saldirisi
+/cluststr - cluster saldirisi
+/nuke     - nuke saldirisi
+/enemy    - düsman bölgesine saldiri
+
+/build  - stationary silah insa et
+/get    - deconstructs a stationary gun
+/fix    - stationary silahini tamir et
+/mine   - places a landmine
+Sen bir mühendissin
+You can build stationary guns and place landmines
+/rig    - destroys nearby stationary gun or mine
+Sen bir sabotajcisin
+You can rig mines and stationary guns with /rig
+/place <time> - place a timed charge
+/act          - Bombalari Aktiflestir
+/obs          - spy on a nearby enemy
+/stealth      - görünmezligi aktiflestirir
+Sen artik bir Ajansin
+You have one stealth pack per life.
+You can place and activate timed charges
+You can rig stationary guns with them and spy on the enemies' tasks
+Elite does not have any Task-specific commands.
+You are now the Elite
+Your task is providing sniper cover.
+/nade    - senin yanina bomba kiti birakir
+/mark    - places mortar's mark on the map
+/mortar  - fire up mortar
+You are the Artillery
+You can drop grenade kits, and fire mortar cannon.
+Statgun ready to be built!
+Your team's statgun has been destroyed!
+Mine destroyed enemy statgun!
+stepped into your mine!
+You stepped into a mine!
+You stepped on your own mine!
++1 Mayin yerlestirilmeye hazir!
+Sorry, but airco strike can't be droped here
+Sorry, but artillery support can't be called here
+Enemy base strike
+Napalm strike
+Nuke strike
+Mortar barrage
+Zeppelin strike
+Airco strike
+Cluster strike
+
+Airstrike destroyed enemy statgun!
+Sen bu meslege zaten sahipsin
+senin takiminin Medic
+senin takiminin General
+senin takiminin Radioman
+senin takiminin Saboteur
+senin takiminin Engineer
+senin takiminin Elite
+senin takiminin Spy
+senin takiminin Artillery
+taken by
+has become available.
+Supply points
+<-- BREACH
+has noticed someone breaking through the lines!
+--> BREACH
+/\ ÇATI /\
+has noticed someone on the roof of the bunker!
+> INSIDE <
+has noticed someone inside the bunker!
+< TEMIZ >
+has noticed that the area is clear!
+INC VESTED GEN
+has noticed a vested enemy General approaching!
+Healing
+You are being healed...
+Soldier is at full health
+Fully healed!
+Medikal kit birakildi
+Medikal kit bulunmakta! Type /kit Medikal kiti birakmak
+Sen hiçbir medikal kite sahip degilsin
+You have to be alive to drop a kit
+You do not have a meal ready to eat.
+Sen zaten ölüsün
+Siginak sabote ediliyor... Sakin kipirdama!
+Siginak ele geçiriliyor... Sakin kipirdama!
+Failed to sabotage bunker!
+Siginagi ele geçirme basarisiz oldu!
+Your team sabotaged a bunker!
+Your team pushed the enemy back a bunker!
+The enemy has sabotaged your bunker!
+The enemy pushed your team back a bunker!
+Bunker sabotaged!
+Your team has advanced a bunker!
+Siginak ele geçirildi!
+The enemy has conquered a bunker!
+Sabotaging...
+Conquering...
+This is your own base.
+This is enemy base, you can't conquer it
+Your team already have farther bunker
+You already have this bunker
+You can only sabotage this bunker when you have all other bunkers
+You can only sabotage this bunker if the enemy has conquered it
+Already conquering...
+You have to be alive to conquer a bunker
+Enemy radioman orders vest
+Enemy radioman orders vest for the general
+Enemy radioman orders laws
+Enemy radioman orders grenades
+Enemy radioman orders medkit
+Enemy radioman orders cluster grenades
+Enemy radioman orders heavy artillery cannon
+Enemy radioman orders Paratropper
+Enemy radioman calls airstrike on your bunker
+Enemy radioman calls napalm strike
+Enemy radioman calls nuke strike
+Enemy radioman calls mortar barrage
+Enemy radioman calls zeppelin strike
+Enemy radioman calls airco strike
+Enemy radioman calls cluster strike
+
+Supply points kaldi
+You have to be alive to order supplies
+Vest delivered to your team base!
+Vest delivered to your general!
+No general in the bunker!
+General zaten ölü!
+Your team has no general
+Laws delivered to your team base!
+Grenades delivered to your team base!
+Medikit delivered to your team base!
+Cluster grenades delivered to your team base!
+HAC delivered to Artillery!
+You've recieved HAC-25, BE CAREFUL
+ERROR: Paratrooper bot file not found
+Paratrooper already in the field, type /kick to kick it
+[Artillery support]: Affirmative!
+[Pilot]: Affirmative!
+Strike currently in progress
+Not enough supply points
+Your battery is full, type /tap to tap into enemy communication
+Field Battery drained!
+has started tapping into enemy communication (shown in red)
+Field battery is not ready yet
+seconds left
+Already tapping...
+Construction failed!
+Deconstruction failed!
+Reparation failed!
+Construction complete!
+Statgun retrieved!
+Basarili bir sekilde onarildi!
+Constructing...
+Deconstructing...
+Repairing...
+Repairing Statgun, do not move!
+Stand near to a Statgun to repair it!
+You have to be alive to fix a stationary gun
+Retrieving Statgun, do not move!
+Stand near to a Statgun to retrieve it!
+You have to be alive to get a stationary gun
+Construction started! Do not move!
+Statgun not ready yet. Wait
+seconds.
+Another process in progress, please wait
+Statgun already in game. Type /get near it to get it
+You have to be alive to build a stationary gun
+Mayin yerlestirildi, buradan uzaklas!
+Mayin yerlestirildi!
+Hiç mayinin kalmadi!
+Beklemek zorundasin
+You have to be alive to place a mine
+Statgun rigged!
+Mine rigged!
+You have to be alive to rig something
+Bomba yerlestirildi Type /activate (/act) aktiflestirmek için bombayi
+Bomba 3-8 sn arasinda zamanlanabilir.
+(REPORT)
+is an enemy
+Enemy Supply Points:
+Enemy Radioman is tapping!
+No enemy in sight!
+Stealth activated!
+No stealthpack avalilable
+Syntax Error: /place <zaman(sn)> | Örnegin: /place 3
+hiç bomba kalmadi
+You have to be alive to place a bomb
+Timer activated!
+No inactive bombs placed!
+You have to be alive to activate timers
+You have to be alive to observer enemy
+Ready to observe the enemy!
+A spy is nearby!
+Bomba kiti birakildi!
+Mortar launched!
+Target is out of range (behind an obstacle)
+Target is out of range (too far)
+Mortar's ready! use /mortar to fire!
+Mortar ran out of ammo.
+Player moved, mortar disabled
+Mortar destroyed enemy statgun!
+Grenade kit ready! use /nade to drop it.
+You have no grenade kit at the moment
+You can't mark on enemy bunker
+Place marked!
+Mark must be placed on the ground
+You can only mark outside
+You have to be alive to place a marker
+Mortar's not ready yet. Wait
+Already fireing...
+You have to mark first
+You have to be alive to fire a mortar
+Tactical Trenchwar'a Hosgeldiniz
+Type !help to get started.
+Type /commands tüm komutlari listelemek için
+This is not a command!
+To write a command press / without pressing "t" (chat key)

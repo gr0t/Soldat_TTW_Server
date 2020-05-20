@@ -1,0 +1,209 @@
+
+
+[2020-04-19 21:41:20] Failed to read store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf.tmp'
+[2020-04-19 21:41:21] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 21:41:22] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 21:41:32] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 21:41:33] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 21:46:10] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 21:47:13] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 21:47:14] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 21:47:15] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 21:49:09] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 21:49:11] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 21:49:12] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 21:54:42] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 21:54:43] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 21:54:44] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:05:50] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:05:51] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 22:05:51] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:07:22] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:07:24] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 22:07:25] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:09:11] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:09:13] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 22:09:14] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:13:53] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:13:54] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 22:13:55] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:15:14] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:15:15] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:18:34] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:18:36] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:19:26] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:19:28] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 22:19:29] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:25:34] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:25:35] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:26:03] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:26:04] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 22:26:05] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:27:38] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:27:39] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 22:27:40] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:28:16] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:28:17] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 22:28:18] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:28:49] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:28:50] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 22:28:51] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:30:43] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:30:45] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:32:21] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:32:22] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 22:32:24] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:33:54] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:33:55] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 22:34:01] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:41:20] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:41:21] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 22:41:22] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:44:12] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:44:13] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:45:02] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:45:03] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 22:45:04] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:45:26] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:45:27] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 22:45:32] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:46:02] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:46:02] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 22:46:03] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:47:23] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:47:25] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 22:47:26] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:53:57] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:53:58] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 22:53:59] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:54:55] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:54:57] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:55:11] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:55:13] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-04-19 22:55:40] Loaded store 'install' from 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf' successfully
+[2020-04-19 22:55:42] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+[2020-04-19 22:55:43] Flushed store 'install' to 'C:\Users\Garrett\Desktop\Soldat Server\config\config.vdf'
+
+
+[2020-05-08 20:20:19] Loaded store 'install' from 'C:\Users\Garrett\Desktop\New folder\Soldat TTW Server\config\config.vdf' successfully
+[2020-05-08 20:20:24] Flushed store 'install' to 'C:\Users\Garrett\Desktop\New folder\Soldat TTW Server\config\config.vdf'
+
+
+[2020-05-08 20:22:04] Loaded store 'install' from 'C:\Users\Garrett\Desktop\New folder\Soldat TTW Server\config\config.vdf' successfully
+[2020-05-08 20:22:05] Flushed store 'install' to 'C:\Users\Garrett\Desktop\New folder\Soldat TTW Server\config\config.vdf'
+
+
+[2020-05-08 21:02:18] Loaded store 'install' from 'C:\Users\Garrett\Desktop\New folder\Soldat TTW Server\config\config.vdf' successfully
+[2020-05-08 21:02:20] Flushed store 'install' to 'C:\Users\Garrett\Desktop\New folder\Soldat TTW Server\config\config.vdf'
+
+
+[2020-05-08 21:23:18] Loaded store 'install' from 'C:\Users\Garrett\Desktop\New folder\Soldat TTW Server\config\config.vdf' successfully
+[2020-05-08 21:23:19] Flushed store 'install' to 'C:\Users\Garrett\Desktop\New folder\Soldat TTW Server\config\config.vdf'
+[2020-05-08 21:23:20] Flushed store 'install' to 'C:\Users\Garrett\Desktop\New folder\Soldat TTW Server\config\config.vdf'
+
+
+[2020-05-09 20:58:45] Loaded store 'install' from 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf' successfully
+[2020-05-09 20:58:47] Flushed store 'install' to 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf'
+
+
+[2020-05-09 21:02:07] Loaded store 'install' from 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf' successfully
+[2020-05-09 21:02:08] Flushed store 'install' to 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf'
+
+
+[2020-05-11 16:28:55] Loaded store 'install' from 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf' successfully
+[2020-05-11 16:28:56] Flushed store 'install' to 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf'
+
+
+[2020-05-11 16:38:19] Loaded store 'install' from 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf' successfully
+[2020-05-11 16:38:21] Flushed store 'install' to 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf'
+[2020-05-11 17:08:21] Flushed store 'install' to 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf'
+
+
+[2020-05-11 17:15:24] Loaded store 'install' from 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf' successfully
+[2020-05-11 17:15:26] Flushed store 'install' to 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf'
+
+
+[2020-05-11 17:47:22] Loaded store 'install' from 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf' successfully
+[2020-05-11 17:47:24] Flushed store 'install' to 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf'
+
+
+[2020-05-11 19:06:27] Loaded store 'install' from 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf' successfully
+[2020-05-11 19:06:28] Flushed store 'install' to 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf'
+
+
+[2020-05-13 20:09:18] Loaded store 'install' from 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf' successfully
+[2020-05-13 20:09:19] Flushed store 'install' to 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf'
+
+
+[2020-05-13 20:14:23] Loaded store 'install' from 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf' successfully
+[2020-05-13 20:14:25] Flushed store 'install' to 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf'
+
+
+[2020-05-14 15:13:12] Loaded store 'install' from 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf' successfully
+[2020-05-14 15:13:13] Flushed store 'install' to 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf'
+
+
+[2020-05-14 15:44:46] Loaded store 'install' from 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf' successfully
+[2020-05-14 15:44:48] Flushed store 'install' to 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf'
+
+
+[2020-05-14 16:17:27] Loaded store 'install' from 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf' successfully
+[2020-05-14 16:17:28] Flushed store 'install' to 'C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\config\config.vdf'

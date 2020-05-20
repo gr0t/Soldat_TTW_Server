@@ -1,0 +1,21 @@
+20-04-11 21:21:42    Console Log Started
+20-04-11 21:21:42 Welcome to Soldat 1.7.1
+20-04-11 21:21:42  [*] Preparing scripts to be launched
+20-04-11 21:21:42  [*] [gbl] Loading bytecode
+20-04-11 21:21:42  [*] [gbl] Bytecode loaded
+20-04-11 21:21:42  [*] Compiling Gun Game -> GunGame.pas...
+20-04-11 21:21:42  [*] Gun Game compiled
+20-04-11 21:21:42  [*] Done
+20-04-11 21:21:42 [GBL] Updating global banlist.
+20-04-11 21:21:42 [Error] GetURL: Function Disabled (SafeMode = ON)
+20-04-11 21:21:42 Steelix -by BN
+20-04-11 21:21:42  Connection for file server started. Port: 23083
+20-04-11 21:21:42 Registering server @ 88.99.234.252
+20-04-11 21:22:15 73.132.125.236:50397|571918EE790 requesting game...
+20-04-11 21:22:21 Garrett joining game (73.132.125.236:50397) HWID:571918EE790
+20-04-11 21:22:21 Garrett has joined the game.
+20-04-11 21:22:42 [Garrett] !levels
+20-04-11 21:22:59 [Garrett] !commands
+20-04-11 21:23:10 [Garrett] !levels
+20-04-11 21:23:20 [Garrett] !help
+20-04-11 21:23:40 Garrett has left the game.

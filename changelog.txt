@@ -1,0 +1,41 @@
+* SERVER VERSION 2.8.2(steam version) - GAME VERSION 1.7.1 *
+
+- Removed (WM) prefix from the server name
+- Added AutoRecord server config option
+- Added /RECORDSTART, /RECORDSTOP, /RECORDSTATUS commands
+- Added server-side demo recording
+- Enabled VAC system on the steam version
+- Added SlowTickWarning server config option
+- Added SC3 procedure TActivePlayer.RequestDiscordToken()
+- Added SC3 TGame.OnSteamAuth event
+- Added SC3 TActivePlayer.SteamID and TActivePlayer.SteamIDString properties
+- Added SteamIDAsHWID server config option
+- Added Steam user authentication
+- Added UDP-based log forwarder
+- Fixed exploit that allowed to bypass HWID bans
+- Fixed bullet-hitpoints intersection check
+- Fixed exploit that allowed to change someone's weapon selection
+- Fixed backported PRNG algorithm from the client
+- Fixed an issue with one of safety checks that was dropping legitimate bullets with high velocity
+- Fixed regenerating polygons not calling OnPlayerDamage
+- Modified TPlayer.Health and TPlayer.Vest are RW now
+- Added ScriptMath unit
+- Added arctan to SC2
+- Fixed console executed commands not calling Game.OnAdminCommand in SC3
+- Modified SC3 Player.OnBeforeRespawn now returns spawn position
+- Added SC3 TActivePlayer.ChangeTeam(Team, JoinType)
+- Modified SC3 TActivePlayer.Dummy is now RW
+- Modified SC3 TActivePlayer.Alive is now read only (R)
+- Added missing TActivePlayer.PlaySound()
+- Moved OnBeforeMapChange event to fire at round end (5s before "real" map switch)
+- Fixed SC3 OnLeaveGame giving wrong team parameter, possibly crashing the server
+- Marked SC3 OnTCPCommand as deprecated
+- Fixed SC3 OnAdminCommand sometimes not honoring the result
+- Fixed SC3 TActivePlayer.ChangeTeam not honoring Team parameter correctly
+- Fixed ForceWeapon function working with wrong Gun objects
+- Added Players.Active[] and Players.Active.Count to SC3
+- Modified SC3 TTeam.Players[] property to return TActivePlayer instead of TPlayer
+- Removed TTeam.Add
+- Modified KickPlayer fails on admin only if it's a ping, flood or vote related kick
+- Added OnBeforeJoinTeam event to SC3
+- Fixed TActivePlayer.Ping is always 1 #666

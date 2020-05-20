@@ -1,0 +1,61 @@
+20-04-10 18:45:33    Console Log Started
+20-04-10 18:45:33 Welcome to Soldat 1.7.1
+20-04-10 18:45:33  [*] Preparing scripts to be launched
+20-04-10 18:45:33  [*] [gbl] Loading bytecode
+20-04-10 18:45:33  [*] [gbl] Bytecode loaded
+20-04-10 18:45:33  [*] Compiling Gun Game -> GunGame.pas...
+20-04-10 18:45:33  [*] Gun Game compiled
+20-04-10 18:45:33  [*] Done
+20-04-10 18:45:33 [GBL] Updating global banlist.
+20-04-10 18:45:33 [Error] GetURL: Function Disabled (SafeMode = ON)
+20-04-10 18:45:33 Steelix -by BN
+20-04-10 18:45:33  Connection for file server started. Port: 23083
+20-04-10 18:45:33 Registering server @ 88.99.234.252
+20-04-10 18:46:21 73.132.125.236:63466|571918EE790 requesting game...
+20-04-10 18:46:43 Garrett joining game (73.132.125.236:63466) HWID:571918EE790
+20-04-10 18:46:43 Garrett has joined the game.
+20-04-10 18:47:47 Admin connected (127.0.0.1).
+20-04-10 18:47:47 Admin connected (73.132.125.236).
+20-04-10 18:47:47 /maxplayers (127.0.0.1)
+20-04-10 18:47:47 Max players is 10
+20-04-10 18:47:47 /maxrespawntime (127.0.0.1)
+20-04-10 18:47:47 Maximum Respawn time is 5 seconds
+20-04-10 18:47:47 /respawntime (127.0.0.1)
+20-04-10 18:47:47 Respawn time is 1 seconds
+20-04-10 18:47:47 /limit (127.0.0.1)
+20-04-10 18:47:47 Current kill/point/capture limit is 30
+20-04-10 18:47:47 /timelimit (127.0.0.1)
+20-04-10 18:47:47 Current time limit is 10 minutes
+20-04-10 18:47:47 /friendlyfire (127.0.0.1)
+20-04-10 18:47:47 Friendly Fire is 0
+20-04-10 18:47:47 /scripting (127.0.0.1)
+20-04-10 18:47:47 Scripting is currently Enabled (1)
+20-04-10 18:47:47 /balance (127.0.0.1)
+20-04-10 18:47:47 Bot Balance is off (0)
+20-04-10 18:47:47 /bonus (127.0.0.1)
+20-04-10 18:47:47 Current bonus frequency is 0
+20-04-10 18:47:47 /vote% (127.0.0.1)
+20-04-10 18:47:47 Voting percent is 60
+20-04-10 18:47:47 /maxplayers (73.132.125.236)
+20-04-10 18:47:47 Max players is 10
+20-04-10 18:47:47 /maxrespawntime (73.132.125.236)
+20-04-10 18:47:47 Maximum Respawn time is 5 seconds
+20-04-10 18:47:47 /respawntime (73.132.125.236)
+20-04-10 18:47:47 Respawn time is 1 seconds
+20-04-10 18:47:47 /limit (73.132.125.236)
+20-04-10 18:47:47 Current kill/point/capture limit is 30
+20-04-10 18:47:48 /timelimit (73.132.125.236)
+20-04-10 18:47:48 Current time limit is 10 minutes
+20-04-10 18:47:48 /friendlyfire (73.132.125.236)
+20-04-10 18:47:48 Friendly Fire is 0
+20-04-10 18:47:48 /scripting (73.132.125.236)
+20-04-10 18:47:48 Scripting is currently Enabled (1)
+20-04-10 18:47:48 /balance (73.132.125.236)
+20-04-10 18:47:48 Bot Balance is off (0)
+20-04-10 18:47:48 /bonus (73.132.125.236)
+20-04-10 18:47:48 Current bonus frequency is 0
+20-04-10 18:47:48 /vote% (73.132.125.236)
+20-04-10 18:47:48 Voting percent is 60
+20-04-10 18:48:20 70.92.98.16:23073|57DD71EEB4E requesting game...
+20-04-10 18:49:34 Garrett has left the game.
+20-04-10 18:50:33 Time Left: 5 minutes

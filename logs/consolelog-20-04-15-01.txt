@@ -1,0 +1,27 @@
+20-04-15 17:05:45    Console Log Started
+20-04-15 17:05:45 Welcome to Soldat 1.7.1
+20-04-15 17:05:45  [*] Preparing scripts to be launched
+20-04-15 17:05:45  [*] [gbl] Loading bytecode
+20-04-15 17:05:45  [*] [gbl] Bytecode loaded
+20-04-15 17:05:45  [*] Compiling GunGame -> GunGame.pas...
+20-04-15 17:05:45  [*] GunGame compiled
+20-04-15 17:05:45  [*] Done
+20-04-15 17:05:45 [GBL] Updating global banlist.
+20-04-15 17:05:45 [Error] GetURL: Function Disabled (SafeMode = ON)
+20-04-15 17:05:45 Steelix -by BN
+20-04-15 17:05:45  Connection for file server started. Port: 23083
+20-04-15 17:05:45 Registering server @ 88.99.234.252
+20-04-15 17:10:45 Time Left: 5 minutes
+20-04-15 17:11:45 Time Left: 4 minutes
+20-04-15 17:12:45 Time Left: 3 minutes
+20-04-15 17:13:45 Time Left: 2 minutes
+20-04-15 17:14:45 Time Left: 1 minutes
+20-04-15 17:15:45 Next map: Daybreak
+20-04-15 17:15:51 Daybreak by chakapoko maker
+20-04-15 17:20:51 Time Left: 5 minutes
+20-04-15 17:21:51 Time Left: 4 minutes
+20-04-15 17:22:51 Time Left: 3 minutes
+20-04-15 17:23:51 Time Left: 2 minutes
+20-04-15 17:24:21 Shutting down server...
+20-04-15 17:24:21 Shutting down FileServer...
+20-04-15 17:24:21 Shutting down admin server...

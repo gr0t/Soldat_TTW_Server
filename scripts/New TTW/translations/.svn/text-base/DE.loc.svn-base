@@ -1,0 +1,305 @@
+Spinat? Whäää
+Deliziös!
+Hamburger!
+Ahhhhhh.
+Genau das Richtige!
+Hunger beseitigt!
+Jawoll!
+Wer braucht schon Sanitäter?
+Äpfel sind gut für deine Gesundheit!
+Du fühlst dich viel besser
+Inf
+STT
+San
+Gen
+Fun
+Sab
+Mas
+Eli
+Spi
+Art
+Infanterist
+Sturmsoldat
+Arzt
+General
+Funker
+Saboteur
+Maschinist
+Elite
+Spion
+Artillerie
+Kurz-Befehle:
+AUFGBAE
+Du brauchst nur 4 Taunts, um alle Klassen spielen zu können
+Hexer Befehle können als Synonyme verwendet werden (/heal, /def, /ofs, /smn)
+* Tactical Trenchwar *
+Bei Tactical Trenchwar ist Teamarbeit wichtig, jeder Soldat hat
+eine bestimmte Aufgabe im Team. Es gibt 10 verfügbare Aufgaben.
+Schreibe /apply für eine Liste aller Aufgabe
+Schreibe /commands um die Liste der Befehle zu sehen
+Wähle eine Aufgabe. Tippe dafür:
+/short  Sturmtruppe (Kurzstreckenwaffen)
+/long   Infanterie (Langstreckenwaffen)
+/gen    General, erobert Bunker
+/medic  Sanitäter
+/eng    Maschinist, mit stationärem Geschütz und Minen
+/rad    Funker, der Unterstüzung anfordert
+/elite  Scharfschütze
+/art    Artillerie-Mann
+/spy    Spion, mit Zeitzünder-Bomben und Tarnmodus
+/sabo   Saboteur, entschärft Minen und zerstört stat. Geschütze
+Globale Befehle:
+/apply - Liste aller verfügbaren Aufgabe
+/list  - Belegte Aufgaben im Team
+/free  - Unbelegte Aufgaben
+/table - Tabelle der Alias-Befehle
+/maps  - Liste der Karten
+/quick - Wählt eine zufällige Aufgabe
+Aufgabenspezifische Befehle:
+/mre    - Esspacket, regeneriert 50% hp
+Du gehörst nun zur Infanterie
+Du besitzt ein Esspacket. Um es zu essen, schreibe /mre (regeneriert 50% hp)
+Du gehörst nun zur Sturmtruppe
+/kit    - lege ein Erste-Hilfe-Set neben dir ab
+Du bist der Sanitäter
+Tausche deine Waffen nahe eines Kameraden, um ihn zu heilen. Du kannst auch Erste-Hilfe-Sets ablegen.
+Deine Lebenspunkte regenerieren sich automatisch, wenn du dich nicht bewegst.
+/conq   - erobert den Bunker in dem du bist
+Du bist der General
+Deine Aufgabe ist es, Bunker zu erobern, damit dein 
+Team darin spawnen kann.
+/tap    - hört den feindlichen Funk ab
+/supply - Liste des Nachschubs, den du anforden kannst
+/strike - Liste der möglichen Luftangriffe
+Du bist der Funker
+Deine Aufgabe ist das Anfordern von Gütern und Luftangriffen.
+Du kannst auch den feindlichen Funk abhören.
+Unterstützungsgüter (werden in den Bunker geliefert)
+/grenade  Packung mit Granaten
+/vest     Kugelsichere Weste (mit /vestgen direkt für den General)
+/medi     Erste-Hilfe-Set
+/cluster  Packung mit Cluster-Granaten
+/law      5 LAW leichte Raketenwerfer 
+/hac      schweres Artilleriegeschütz
+Andere Unterstützung:
+/para     Fallschirmjäger über dem feindlichen Bunker
+Liste der Luftangriffe: /strike
+Verfügbare Luftangriffe:
+/zeppelin - Zeppelin-Bomber
+/airco    - schneller Airco-Luftangriff
+/barrage  - Granaten-Sperrfeuer
+/napalm   - Napalm-Luftangriff
+/cluststr - Cluster-Luftangriff
+/nuke 	   - Atombombenangriff
+/enemy    - Luftangriff auf die feindliche Basis
+
+/build  - baut ein stationäres Geschütz auf
+/get    - baut ein stationäres Geschütz ab
+/fix    - repariert ein kaputtes stationäres Geschütz
+/mine   - Platziert eine Landmine
+Du bist der Maschinist
+Du kannst stationäre Geschütze aufbauen und Landminen platzieren
+/rig    - zerstört ein nahegelegenes stat. Geschütz oder entschärft eine Landmine
+Du bist der Saboteur
+Du kannst mit /rig Minen entschärfen und stationäre Geschütze sabotieren
+/place <time> - Platziert eine Bombe mit Zeitzünder
+/act          - Aktiviert den Zeitzünder
+/obs          - spioniert einen nahen Feind aus
+/stealth      - aktiviert Tarnmodus
+Du bist nun der Spion
+Du kannst einmal pro Leben in den Tarnmodus gehen.
+Du kannst Bomben mit Zeitzünder legen, die auch stat. Geschütze zerstören,
+und Feinde ausspionieren.
+Der Scharfschütze hat keine spezifischen Befehle.
+Du bist nun der Scharfschütze
+Deine Aufgabe ist es, Sniper-Deckung zu geben.
+/nade    - legt eine Packung mit Granaten ab
+/mark    - legt Markierung für den Artilleriebeschuss fest
+/mortar  - feuert Artillerieangriff ab
+Du bist nun der Artillerie-Mann
+Du kannst Packungen mit Granaten ablegen und die Artillerie bedienen.
+Stationäres Geschütz kann nun gebaut werden!
+Euer stationäres Geschütz wurde zerstört!
+Eine Mine hat das feindliche Geschütz zerstört!
+ist in deine Mine getreten!
+Du bist in eine Landmine getreten!
+Du bist in deine eigene Mine getreten!
++1 Landmine bereit!
+Der Airco-Luftangriff kann nicht hierher beordert werden
+Das Sperrfeuer kann nicht hierher beordert werden
+Basis-Beschuss
+Napalm-Luftangriff
+Atombombenangriff
+Granaten-Sperrfeuer
+Zeppelin-Bomber
+Airco-Luftangriff
+Cluster-Luftangriff
+
+Der Luftangriff hat das gegenerische Geschütz zerstört!
+Du hast bereits diese Aufgabe
+ist euer Sanitäter
+ist euer General
+ist euer Funker
+ist euer Saboteur
+ist euer Maschinist
+ist euer Scharfschütze
+ist euer Spion
+ist euer Artillerie-Mann
+besetzt von
+ist frei geworden.
+Versorgungspunkte
+<-- DURCHBRUCH
+ hat jemand die Front durchbrechen sehen!
+--> DURCHBRUCH
+/\ DACH /\
+ hat jemand auf dem Dach des Bunkers bemerkt!
+> DRINNEN <
+ hat jemand innerhalb des Bunkers bemerkt!
+< SAUBER >
+ erklärt den Bereich für gesichert!
+GEN MIT WESTE
+ hat einen feindlichen General mit Panzerung bemerkt!
+Verarzten
+Du wirst verarztet...
+Soldat ist wiederhergestellt!
+Wiederhergestellt!
+Erste-Hilfe-Set abgelegt
+Erste-Hilfe-Set verfügbar! Tippe /kit um es abzulegen
+Du hast im Moment kein Erste-Hilfe-Set
+Du must am Leben sein, um ein Erste-Hilfe-Set abzulegen
+Du hast kein Esspacket mehr.
+Du bist bereits tot
+Sabotiere Bunker... Nicht bewegen!
+Erobere Bunker... Nicht bewegen!
+Sabotage fehlgeschlagen!
+Erobern fehlgeschlagen!
+Dein Team hat einen Bunker sabotiert!
+Dein Team hat den Feind um einen Bunker zurückgeworfen!
+Der Feind hat deinen Bunker sabotiert!
+Der Feind hat dein Team um einen Bunker zurückgeworfen!
+Bunker sabotiert!
+Dein Team ist einen Bunker vorgedrungen!
+Bunker erobert!
+Der Feind hat einen Bunker erobert!
+Sabotieren...
+Erobern...
+Dies ist eure eigene Basis.
+Dies ist die feindliche Basis, du kannst sie nicht erobern.
+Der Bunker befindet sich hinter der Frontlinie!
+Dein Team kontrolliert bereits diesen Bunker!
+Du kannst diesen Bunker nur sabotieren, wenn du alle anderen erobert hast
+Du kannst diesen Bunker nur sabotieren, wenn ihn der Feind erobert hat
+Wird bereits erobert...
+Du musst am Leben sein, um einen Bunker zu erobern
+Feindlicher Funker fordert kugelsichere Weste an
+Feindlicher Funker fordert kugelsichere Weste für den General an
+Feindlicher Funker fordert LAWs an
+Feindlicher Funker fordert Granaten an
+Feindlicher Funker fordert Erste-Hilfe-Set an
+Feindlicher Funker fordert Cluster Granaten an
+Feindlicher Funker fordert schweres Artilleriegeschütz an
+Feindlicher Funker fordert Fallschirmjäger an
+Feindlicher Funker beordert Luftangriff auf unseren Bunker
+Feindlicher Funker beordert Napalm-Luftangriff
+Feindlicher Funker beordert Atombombenangriff
+Feindlicher Funker beordert Granaten-Sperrfeuer
+Feindlicher Funker beordert Zeppelin-Bomber
+Feindlicher Funker beordert Airco-Luftangriff
+Feindlicher Funker beordert Cluster-Luftangriff
+
+verbleibende Versorgungspunkte
+Du must am Leben sein, um Unterstützung anzufordern
+Weste in die Basis geliefert!
+Vest delivered to your general!
+Kein General innerhalb des Bunkers!
+Der General ist bereits tot.
+Dein Team besitzt keinen General.
+Laws in die Basis geliefert!
+Granaten in die Basis geliefert!
+Erste-Hilfe-Set in die Basis geliefert!
+Cluster Granaten in die Basis geliefert!
+HAC der Artillerie übergeben
+Dir wurde die HAC-25 übergeben, VORSICHT
+ERROR: Fallschirmjäger bot-Datei nicht gefunden
+Fallschirmjäger bereits im Feld, tippe /kick um ihn zu entfernen
+[Artillerie]: Jawohl!
+[Pilot]: Wird ausgeführt!
+Luftangriff findet bereits statt
+Nicht genug Versorgungspunkte
+Deine Batterie ist voll, tippe /tap um den feindlichen Funk abzuhören
+Batterie verbraucht!
+hört nun den feindlichen Funk ab (sichtbar in rot)
+Die Batterie ist noch nicht bereit
+verbleibende Sekunden
+Bereits am Abhören...
+Konstruktion fehlgeschlagen!
+Dekonstruktion fehlgeschlagen!
+Reparation fehlgeschlagen!
+Konstruktion abgeschlossen!
+Geschütz abgebaut!
+Erfolgreich repariert!
+Aufbauen...
+Abbauen...
+Reparieren...
+Repariere Geschütz, nicht bewegen!
+Stelle dich an ein Geschütz, um es zu reparieren!
+Du must am Leben sein, um ein Geschütz zu reparieren
+Baue Geschütz ab, nicht bewegen!
+Stelle dich an ein Geschütz, um es abzubauen!
+Du musst am Leben sein, um ein Geschütz abzubauen
+Konstruktion begonnen! Nicht bewegen!
+Geschütz noch nicht bereit. Warte
+Sekunden.
+Bereits anders beschäftigt, bitte warten
+Geschütz befindet sich bereits im Spiel. Tippe /get um es dort abzubauen
+Du musst am Leben sein, um ein Geschütz zu bauen
+Mine gelegt! Hau schnell ab!
+Mine gelegt!
+Du hast keine Mine mehr!
+Warte
+Du musst am Leben sein, um eine Mine zu setzen
+Geschütz sabotiert!
+Mine entschärft!
+Du musst am Leben sein, um etwas zu sabotieren
+Bombe platziert! Tippe /activate (/act) um den Zeitzünder zu aktivieren
+Der zeitzünder kann auf 3 bis 8 Sekunden eingestellt werden
+(REPORT)
+ist ein feindlicher
+Feindliche Versorgungspunkte:
+Feindlicher Funker ist am Abhören!
+Kein Feind in Sicht!
+Tarnmodus aktiviert!
+Tarnmodus nicht verfügbar
+Syntax Error: /place <time> | Beispiel: /place 3
+Keine Bombe mehr übrig!
+Du musst am Leben sein, um eine Bombe zu platzieren
+Zeitzünder aktiviert!
+Keine inaktiven Bomben platziert
+Du musst am Leben sein, um den Zeitzünder zu aktivieren
+Du musst am Leben sein, um den Feind zu beobachten
+Bereit zum Spionieren!
+Ein Spion ist nah!
+Granaten abgelegt!
+Artillerieangriff abgefeuert!
+Ziel ist ausser Reichweite (hinter Hindernis)
+Ziel ist ausser Reichweite (zu weit)
+Artillerie ist bereit! Verwende /mortar zum Abfeueren!
+Artillerie hat keine Munition mehr.
+Spieler bewegt, Artillerie gestoppt
+Artillerieangriff hat feindliches Geschütz zerstört!
+Packung mit Granaten bereit! Verwende /nade um sie abzulegen.
+Du hast im Moment keine Granaten
+You can't mark on enemy bunker
+Bereich markiert!
+Markierung muss auf den Boden gesetzt werden
+Du kannst die Markierung nur draussen setzen
+Du musst am Leben sein um die Markierung zu setzen
+Artillerie nicht bereit. Warte
+Bereits am Feuern...
+Du musst erst die Markierung setzen
+Du musst am Leben sein, um die Artillerie abzufeuern!
+Willkommen zu Tactical Trenchwars (Taktischer Grabenkrieg)
+Schreibe !help wenn du neu bist.
+Schreibe /commands für die Liste von Befehlen
+Dies ist kein Befehl!
+Um einen Befehl zu schreiben, drücke / (Shift + 7) ohne vorher "t" zu drücken (Sprech-Taste)

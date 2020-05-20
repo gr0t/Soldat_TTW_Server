@@ -1,0 +1,41 @@
+20-04-11 16:51:57    Log Started
+20-04-11 16:51:57 Opened C:\Users\Garrett\Desktop\Soldat Server\soldat.ini
+20-04-11 16:51:57 Creating network interface.
+20-04-11 16:51:57 Loading Animations.
+20-04-11 16:51:57 Loading Lobby Servers List
+20-04-11 16:51:57 Loading Maps List
+20-04-11 16:51:57 Loading Map.
+20-04-11 16:51:57 Creating Weapons.
+20-04-11 16:51:57 Starting Game Server.
+20-04-11 16:51:57 TCP/IP File Server started
+20-04-11 16:52:32  Net - Garrett connected 4-11-2020 16:52:32
+20-04-11 16:52:38  Net - Garrett disconnected 4-11-2020 16:52:38
+20-04-11 16:53:08  Net - Garrett connected 4-11-2020 16:53:08
+20-04-11 16:55:09  Net - Garrett disconnected 4-11-2020 16:55:09
+20-04-11 17:21:54 TCP/IP File Server started
+20-04-11 17:33:26  Net - benjygamer2019 connected 4-11-2020 17:33:26
+20-04-11 17:33:56  Net - benjygamer2019 disconnected 4-11-2020 17:33:56
+20-04-11 17:35:01  Net - Bitem connected 4-11-2020 17:35:01
+20-04-11 17:35:07  Net - Bitem disconnected 4-11-2020 17:35:07
+20-04-11 17:36:40  Net - adolfovs1990 connected 4-11-2020 17:36:40
+20-04-11 17:36:42  Net - XXYuuki connected 4-11-2020 17:36:42
+20-04-11 17:36:42  Net - Bitem connected 4-11-2020 17:36:42
+20-04-11 17:36:44  Net - Redkiwii connected 4-11-2020 17:36:44
+20-04-11 17:36:45  Net - Dantapark connected 4-11-2020 17:36:45
+20-04-11 17:37:13  Net - Bitem disconnected 4-11-2020 17:37:13
+20-04-11 17:37:33  Net - Baken connected 4-11-2020 17:37:33
+20-04-11 17:38:15  Net - adolfovs1990 disconnected 4-11-2020 17:38:15
+20-04-11 17:38:16  Net - Dantapark disconnected 4-11-2020 17:38:16
+20-04-11 17:38:18  Net - Baken disconnected 4-11-2020 17:38:18
+20-04-11 17:38:20  Net - Redkiwii disconnected 4-11-2020 17:38:20
+20-04-11 17:39:02  Net - XXYuuki disconnected 4-11-2020 17:39:02
+20-04-11 17:51:54 TCP/IP File Server started
+20-04-11 17:59:05  Net - Major connected 4-11-2020 17:59:05
+20-04-11 18:00:28  Net - Major disconnected 4-11-2020 18:00:28
+20-04-11 18:15:09  Net - bregallad connected 4-11-2020 18:15:09
+20-04-11 18:15:30  Net - bregallad disconnected 4-11-2020 18:15:30
+20-04-11 18:18:04  Net - Nikolicious connected 4-11-2020 18:18:04
+20-04-11 18:18:48  Net - Nikolicious disconnected 4-11-2020 18:18:48
+20-04-11 18:21:54 TCP/IP File Server started
+20-04-11 18:51:54 TCP/IP File Server started
+20-04-11 19:21:54 TCP/IP File Server started

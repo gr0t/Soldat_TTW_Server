@@ -1,0 +1,23 @@
+[BOT]
+Name=Barbarian
+Color1=clWhite
+Color2=$00242DCE
+Skin_Color=7956792
+Hair_Color=$00151515
+Favourite_Weapon=Desert Eagles
+Secondary_Weapon=0
+Friend=
+Accuracy=1
+Shoot_Dead=0
+Grenade_Frequency=10000
+Camping=0
+OnStartUse=255
+Hair=1
+Headgear=0
+Chain=1
+Chat_Frequency=10
+Chat_Kill=
+Chat_Dead=
+Chat_Lowhealth=
+Chat_SeeEnemy=
+Chat_Winning=

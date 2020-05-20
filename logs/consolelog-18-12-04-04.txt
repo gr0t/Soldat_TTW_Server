@@ -1,0 +1,17 @@
+18-12-04 16:29:38    Console Log Started
+18-12-04 16:29:38 Welcome to Soldat 1.7.1
+18-12-04 16:29:38  [*] Preparing scripts to be launched
+18-12-04 16:29:38  [*] Compiling Basic -> basic.pas...
+18-12-04 16:29:38  [*] Basic compiled
+18-12-04 16:29:38  [*] Done
+18-12-04 16:29:38  [*] Basic -> Settings loaded successfully
+18-12-04 16:29:38 Mapslist Updated
+18-12-04 16:29:38 CMD list Updated
+18-12-04 16:29:38 Aero -by BN
+18-12-04 16:29:38  Connection for file server started. Port: 23083
+18-12-04 16:29:38 Registering server @ 88.99.234.252
+18-12-04 16:34:38 Time Left: 5 minutes
+18-12-04 16:35:38 Time Left: 4 minutes
+18-12-04 16:36:12 Shutting down server...
+18-12-04 16:36:12 Shutting down FileServer...
+18-12-04 16:36:12 Shutting down admin server...

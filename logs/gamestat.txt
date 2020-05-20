@@ -1,0 +1,15 @@
+In-Game Statistics
+Players: 1
+Map: ttw_Anoxi
+Gamemode: Capture the Flag
+Timeleft: 99997:12
+Team 1: 0
+Team 2: 0
+Team 3: 0
+Team 4: 0
+Players list: (name/kills/deaths/team/ping)
+Bomber Squadron
+0
+0
+5
+0

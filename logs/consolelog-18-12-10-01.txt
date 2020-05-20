@@ -1,0 +1,227 @@
+18-12-10 17:12:05    Console Log Started
+18-12-10 17:12:05 Welcome to Soldat 1.7.1
+18-12-10 17:12:05  [*] Preparing scripts to be launched
+18-12-10 17:12:05  [*] Compiling Basic -> basic.pas...
+18-12-10 17:12:05  [*] Basic compiled
+18-12-10 17:12:05  [*] Done
+18-12-10 17:12:05  [*] Basic -> Settings loaded successfully
+18-12-10 17:12:05 Mapslist Updated
+18-12-10 17:12:05 CMD list Updated
+18-12-10 17:12:05 ctf_Ash by chakapoko maker
+18-12-10 17:12:05  Connection for file server started. Port: 23083
+18-12-10 17:12:06 Registering server @ 88.99.234.252
+18-12-10 17:12:13 Admin connected (127.0.0.1).
+18-12-10 17:12:13 Admin connected (192.168.1.1).
+18-12-10 17:12:13 /maxplayers (127.0.0.1)
+18-12-10 17:12:13 Max players is 8
+18-12-10 17:12:13 /maxrespawntime (127.0.0.1)
+18-12-10 17:12:13 Maximum Respawn time is 5 seconds
+18-12-10 17:12:13 /respawntime (127.0.0.1)
+18-12-10 17:12:13 Respawn time is 3 seconds
+18-12-10 17:12:13 /limit (127.0.0.1)
+18-12-10 17:12:13 Current kill/point/capture limit is 6
+18-12-10 17:12:13 /timelimit (127.0.0.1)
+18-12-10 17:12:13 Current time limit is 10 minutes
+18-12-10 17:12:13 /friendlyfire (127.0.0.1)
+18-12-10 17:12:13 Friendly Fire is 0
+18-12-10 17:12:13 /scripting (127.0.0.1)
+18-12-10 17:12:13 Scripting is currently Enabled (1)
+18-12-10 17:12:13 /balance (127.0.0.1)
+18-12-10 17:12:13 Bot Balance is off (0)
+18-12-10 17:12:13 /bonus (127.0.0.1)
+18-12-10 17:12:13 Current bonus frequency is 0
+18-12-10 17:12:13 /vote% (127.0.0.1)
+18-12-10 17:12:13 Voting percent is 60
+18-12-10 17:12:13 /maxplayers (192.168.1.1)
+18-12-10 17:12:13 Max players is 8
+18-12-10 17:12:13 /maxrespawntime (192.168.1.1)
+18-12-10 17:12:13 Maximum Respawn time is 5 seconds
+18-12-10 17:12:13 /respawntime (192.168.1.1)
+18-12-10 17:12:13 Respawn time is 3 seconds
+18-12-10 17:12:13 /limit (192.168.1.1)
+18-12-10 17:12:13 Current kill/point/capture limit is 6
+18-12-10 17:12:13 /timelimit (192.168.1.1)
+18-12-10 17:12:13 Current time limit is 10 minutes
+18-12-10 17:12:13 /friendlyfire (192.168.1.1)
+18-12-10 17:12:13 Friendly Fire is 0
+18-12-10 17:12:13 /scripting (192.168.1.1)
+18-12-10 17:12:13 Scripting is currently Enabled (1)
+18-12-10 17:12:13 /balance (192.168.1.1)
+18-12-10 17:12:13 Bot Balance is off (0)
+18-12-10 17:12:13 /bonus (192.168.1.1)
+18-12-10 17:12:13 Current bonus frequency is 0
+18-12-10 17:12:13 /vote% (192.168.1.1)
+18-12-10 17:12:13 Voting percent is 60
+18-12-10 17:17:06 Time Left: 5 minutes
+18-12-10 17:18:06 Time Left: 4 minutes
+18-12-10 17:19:06 Time Left: 3 minutes
+18-12-10 17:20:06 Time Left: 2 minutes
+18-12-10 17:21:06 Time Left: 1 minutes
+18-12-10 17:22:06 Next map: ctf_Wretch
+18-12-10 17:22:11 Wretch by AdamD
+18-12-10 17:27:11 Time Left: 5 minutes
+18-12-10 17:28:11 Time Left: 4 minutes
+18-12-10 17:29:11 Time Left: 3 minutes
+18-12-10 17:30:11 Time Left: 2 minutes
+18-12-10 17:31:11 Time Left: 1 minutes
+18-12-10 17:32:11 Next map: ctf_Rotten
+18-12-10 17:32:16 Rotten by Biggles
+18-12-10 17:37:16 Time Left: 5 minutes
+18-12-10 17:38:16 Time Left: 4 minutes
+18-12-10 17:39:16 Time Left: 3 minutes
+18-12-10 17:40:16 Time Left: 2 minutes
+18-12-10 17:41:16 Time Left: 1 minutes
+18-12-10 17:42:16 Next map: ctf_Nuubia
+18-12-10 17:42:22 by Troskal and friends
+18-12-10 17:47:22 Time Left: 5 minutes
+18-12-10 17:48:22 Time Left: 4 minutes
+18-12-10 17:49:22 Time Left: 3 minutes
+18-12-10 17:50:22 Time Left: 2 minutes
+18-12-10 17:51:22 Time Left: 1 minutes
+18-12-10 17:52:22 Next map: ctf_Lanubya
+18-12-10 17:52:27 Lanubya by wraithlike
+18-12-10 17:57:27 Time Left: 5 minutes
+18-12-10 17:58:27 Time Left: 4 minutes
+18-12-10 17:59:27 Time Left: 3 minutes
+18-12-10 18:00:27 Time Left: 2 minutes
+18-12-10 18:01:27 Time Left: 1 minutes
+18-12-10 18:02:27 Next map: ctf_Snakebite
+18-12-10 18:02:32 Snakebite orig. by chakapoko maker
+18-12-10 18:07:32 Time Left: 5 minutes
+18-12-10 18:08:32 Time Left: 4 minutes
+18-12-10 18:09:32 Time Left: 3 minutes
+18-12-10 18:10:32 Time Left: 2 minutes
+18-12-10 18:11:32 Time Left: 1 minutes
+18-12-10 18:12:32 Next map: ctf_Steel
+18-12-10 18:12:38 Steel by Boxo, KC, Vigg
+18-12-10 18:17:38 Time Left: 5 minutes
+18-12-10 18:18:38 Time Left: 4 minutes
+18-12-10 18:19:38 Time Left: 3 minutes
+18-12-10 18:20:38 Time Left: 2 minutes
+18-12-10 18:21:38 Time Left: 1 minutes
+18-12-10 18:22:38 Next map: ctf_Viet
+18-12-10 18:22:43 Viet
+18-12-10 18:27:43 Time Left: 5 minutes
+18-12-10 18:28:43 Time Left: 4 minutes
+18-12-10 18:29:43 Time Left: 3 minutes
+18-12-10 18:30:43 Time Left: 2 minutes
+18-12-10 18:31:43 Time Left: 1 minutes
+18-12-10 18:32:43 Next map: ctf_Ash
+18-12-10 18:32:48 ctf_Ash by chakapoko maker
+18-12-10 18:37:48 Time Left: 5 minutes
+18-12-10 18:38:48 Time Left: 4 minutes
+18-12-10 18:39:48 Time Left: 3 minutes
+18-12-10 18:40:48 Time Left: 2 minutes
+18-12-10 18:41:48 Time Left: 1 minutes
+18-12-10 18:43:11 Next map: ctf_Wretch
+18-12-10 18:43:16 Wretch by AdamD
+18-12-10 18:48:16 Time Left: 5 minutes
+18-12-10 18:49:16 Time Left: 4 minutes
+18-12-10 18:50:16 Time Left: 3 minutes
+18-12-10 18:51:16 Time Left: 2 minutes
+18-12-10 18:52:16 Time Left: 1 minutes
+18-12-10 18:53:16 Next map: ctf_Rotten
+18-12-10 18:53:22 Rotten by Biggles
+18-12-10 18:58:22 Time Left: 5 minutes
+18-12-10 18:59:22 Time Left: 4 minutes
+18-12-10 19:00:22 Time Left: 3 minutes
+18-12-10 19:01:22 Time Left: 2 minutes
+18-12-10 19:02:22 Time Left: 1 minutes
+18-12-10 19:03:22 Next map: ctf_Nuubia
+18-12-10 19:03:27 by Troskal and friends
+18-12-10 19:08:27 Time Left: 5 minutes
+18-12-10 19:09:27 Time Left: 4 minutes
+18-12-10 19:10:27 Time Left: 3 minutes
+18-12-10 19:11:27 Time Left: 2 minutes
+18-12-10 19:12:27 Time Left: 1 minutes
+18-12-10 19:13:27 Next map: ctf_Lanubya
+18-12-10 19:13:32 Lanubya by wraithlike
+18-12-10 19:18:32 Time Left: 5 minutes
+18-12-10 19:19:32 Time Left: 4 minutes
+18-12-10 19:20:32 Time Left: 3 minutes
+18-12-10 19:21:32 Time Left: 2 minutes
+18-12-10 19:22:32 Time Left: 1 minutes
+18-12-10 19:23:32 Next map: ctf_Snakebite
+18-12-10 19:23:38 Snakebite orig. by chakapoko maker
+18-12-10 19:28:38 Time Left: 5 minutes
+18-12-10 19:29:38 Time Left: 4 minutes
+18-12-10 19:30:38 Time Left: 3 minutes
+18-12-10 19:31:38 Time Left: 2 minutes
+18-12-10 19:32:38 Time Left: 1 minutes
+18-12-10 19:33:38 Next map: ctf_Steel
+18-12-10 19:33:43 Steel by Boxo, KC, Vigg
+18-12-10 19:38:43 Time Left: 5 minutes
+18-12-10 19:39:43 Time Left: 4 minutes
+18-12-10 19:40:43 Time Left: 3 minutes
+18-12-10 19:41:43 Time Left: 2 minutes
+18-12-10 19:42:43 Time Left: 1 minutes
+18-12-10 19:43:43 Next map: ctf_Viet
+18-12-10 19:43:48 Viet
+18-12-10 19:48:48 Time Left: 5 minutes
+18-12-10 19:49:48 Time Left: 4 minutes
+18-12-10 19:50:48 Time Left: 3 minutes
+18-12-10 19:51:48 Time Left: 2 minutes
+18-12-10 19:52:48 Time Left: 1 minutes
+18-12-10 19:53:48 Next map: ctf_Ash
+18-12-10 19:53:54 ctf_Ash by chakapoko maker
+18-12-10 19:58:54 Time Left: 5 minutes
+18-12-10 19:59:54 Time Left: 4 minutes
+18-12-10 20:00:54 Time Left: 3 minutes
+18-12-10 20:01:54 Time Left: 2 minutes
+18-12-10 20:02:54 Time Left: 1 minutes
+18-12-10 20:03:54 Next map: ctf_Wretch
+18-12-10 20:03:59 Wretch by AdamD
+18-12-10 20:08:59 Time Left: 5 minutes
+18-12-10 20:09:59 Time Left: 4 minutes
+18-12-10 20:10:59 Time Left: 3 minutes
+18-12-10 20:11:59 Time Left: 2 minutes
+18-12-10 20:12:59 Time Left: 1 minutes
+18-12-10 20:13:59 Next map: ctf_Rotten
+18-12-10 20:14:04 Rotten by Biggles
+18-12-10 20:19:04 Time Left: 5 minutes
+18-12-10 20:20:04 Time Left: 4 minutes
+18-12-10 20:21:04 Time Left: 3 minutes
+18-12-10 20:22:04 Time Left: 2 minutes
+18-12-10 20:23:04 Time Left: 1 minutes
+18-12-10 20:24:04 Next map: ctf_Nuubia
+18-12-10 20:24:10 by Troskal and friends
+18-12-10 20:29:10 Time Left: 5 minutes
+18-12-10 20:30:10 Time Left: 4 minutes
+18-12-10 20:31:10 Time Left: 3 minutes
+18-12-10 20:32:10 Time Left: 2 minutes
+18-12-10 20:33:10 Time Left: 1 minutes
+18-12-10 20:34:10 Next map: ctf_Lanubya
+18-12-10 20:34:15 Lanubya by wraithlike
+18-12-10 20:39:15 Time Left: 5 minutes
+18-12-10 20:40:15 Time Left: 4 minutes
+18-12-10 20:41:15 Time Left: 3 minutes
+18-12-10 20:42:15 Time Left: 2 minutes
+18-12-10 20:43:15 Time Left: 1 minutes
+18-12-10 20:44:15 Next map: ctf_Snakebite
+18-12-10 20:44:20 Snakebite orig. by chakapoko maker
+18-12-10 20:49:20 Time Left: 5 minutes
+18-12-10 20:50:20 Time Left: 4 minutes
+18-12-10 20:51:20 Time Left: 3 minutes
+18-12-10 20:52:20 Time Left: 2 minutes
+18-12-10 20:53:20 Time Left: 1 minutes
+18-12-10 20:54:20 Next map: ctf_Steel
+18-12-10 20:54:26 Steel by Boxo, KC, Vigg
+18-12-10 20:59:25 Time Left: 5 minutes
+18-12-10 21:00:25 Time Left: 4 minutes
+18-12-10 21:01:25 Time Left: 3 minutes
+18-12-10 21:02:25 Time Left: 2 minutes
+18-12-10 21:03:25 Time Left: 1 minutes
+18-12-10 21:04:25 Next map: ctf_Viet
+18-12-10 21:04:31 Viet
+18-12-10 21:09:31 Time Left: 5 minutes
+18-12-10 21:10:31 Time Left: 4 minutes
+18-12-10 21:11:31 Time Left: 3 minutes
+18-12-10 21:12:31 Time Left: 2 minutes
+18-12-10 21:13:31 Time Left: 1 minutes
+18-12-10 21:14:31 Next map: ctf_Ash
+18-12-10 21:14:36 ctf_Ash by chakapoko maker
+18-12-10 21:17:52 Shutting down server...
+18-12-10 21:17:52 Shutting down FileServer...
+18-12-10 21:17:52 Shutting down admin server...
+18-12-10 21:17:52 Admin disconnected (127.0.0.1).
+18-12-10 21:17:52 Admin disconnected (192.168.1.1).

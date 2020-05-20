@@ -1,0 +1,186 @@
+procedure DropNadeKit(ID: byte);
+begin
+	SpawnKit(player[ID].X + iif_sint8(GetPlayerStat(ID, 'Direction') = '>', 20, -20), player[ID].Y - 10, 17);
+	WriteConsole(ID, t(282, player[ID].translation, 'Grenade kit dropped'), GOOD);
+	SendToLive('nade ' +inttostr(player[ID].Team));
+end;
+
+procedure ResetMortar(Team: byte);
+begin
+	Artillery[Team].Mortar.Timer := MORTARWAITTIME;
+end;
+
+procedure LaunchMortar(ID: byte);
+var
+	inrange: boolean;
+	vec: tVector;
+begin
+	GetPlayerXY(ID, Artillery[player[ID].team].Mortar.X, Artillery[player[ID].team].Mortar.Y);
+	Artillery[player[ID].team].Mortar.X := Artillery[player[ID].team].Mortar.X + iif_sint8(GetPlayerStat(ID, 'Direction') = '>', 10, -10);
+	Artillery[player[ID].team].Mortar.Y := Artillery[player[ID].team].Mortar.Y - 15;
+	Artillery[player[ID].team].Mortar.Angle := BallisticAim(Artillery[player[ID].team].Mortar.X, Artillery[player[ID].team].Mortar.Y, Artillery[player[ID].team].Marker.X, Artillery[player[ID].team].Marker.Y, MORTARSPEED, 0.06, inrange);
+	if inrange then begin
+		vec.vx := MORTARSPEED*cos(Artillery[player[ID].team].Mortar.Angle);
+		vec.vy := MORTARSPEED*sin(Artillery[player[ID].team].Mortar.Angle);
+		vec.t := 1000;
+		BallisticCast(Artillery[player[ID].team].Mortar.X, Artillery[player[ID].team].Mortar.Y, 0.06, vec);
+		if IsInRange(Artillery[player[ID].team].Marker.X, Artillery[player[ID].team].Marker.Y, vec.X, vec.Y, 50) then begin
+			Artillery[player[ID].team].Mortar.Timer := -MORTARFIRETIME;
+			WriteConsole(ID, t(283, player[ID].translation, 'Mortar launched!'), GOOD);
+		end else
+			WriteConsole(ID, t(284, player[ID].translation, 'Target is out of range (behind an obstacle)'), BAD);
+	end else
+		WriteConsole(ID, t(285, player[ID].translation, 'Target is out of range (too far)'), BAD);
+end;
+
+procedure ArtilleryAOI(Team: byte; Ticks: integer);
+var
+	i, j, k, l: byte;
+	vec: tVector;
+begin
+	player[Artillery[Team].ID].VX := GetPlayerStat(Artillery[Team].ID, 'VelX');
+	player[Artillery[Team].ID].VY := GetPlayerStat(Artillery[Team].ID, 'VelY');
+	GetPlayerXY(Artillery[Team].ID, player[Artillery[Team].ID].X, player[Artillery[Team].ID].Y);
+	if Artillery[Team].Mortar.Timer > 0 then begin
+		Artillery[Team].Mortar.Timer := Artillery[Team].Mortar.Timer - 1;
+		if Artillery[Team].Mortar.Timer = 0 then begin
+			WriteConsole(Artillery[Team].ID, t(286, player[Artillery[Team].ID].translation, 'Mortar''s ready! use /mortar to fire!'), GOOD);
+		end;
+	end else if Artillery[Team].Mortar.Timer < 0 then begin
+		GetPlayerXY(Artillery[Team].ID, player[Artillery[Team].ID].X, player[Artillery[Team].ID].Y);
+		if IsInRange(player[Artillery[Team].ID].X, player[Artillery[Team].ID].Y, Artillery[Team].Mortar.X, Artillery[Team].Mortar.Y, 20) then begin
+			vec.vx := MORTARSPEED*cos(Artillery[Team].Mortar.Angle+RandFlt(-5*DEG_2_RAD, 5*DEG_2_RAD));
+			vec.vy := MORTARSPEED*sin(Artillery[Team].Mortar.Angle+RandFlt(-5*DEG_2_RAD, 5*DEG_2_RAD));
+			vec.t := 600;
+			CreateBullet(Artillery[Team].Mortar.X, Artillery[Team].Mortar.Y, vec.vx, vec.vy, 100, 4, Artillery[Team].ID);
+			CreateBullet(Artillery[Team].Mortar.X, Artillery[Team].Mortar.Y, vec.vx, vec.vy, 100, 10, Artillery[Team].ID);
+			BallisticCast(Artillery[Team].Mortar.X, Artillery[Team].Mortar.Y, 0.06, vec);
+			SetArrayLength(Artillery[Team].Mortar.RigArea, GetArrayLength(Artillery[Team].Mortar.RigArea)+1);
+			Artillery[Team].Mortar.RigArea[GetArrayLength(Artillery[Team].Mortar.RigArea)-1].X := vec.x;
+			Artillery[Team].Mortar.RigArea[GetArrayLength(Artillery[Team].Mortar.RigArea)-1].Y := vec.Y;
+			Artillery[Team].Mortar.RigArea[GetArrayLength(Artillery[Team].Mortar.RigArea)-1].X := vec.x;
+			Artillery[Team].Mortar.RigArea[GetArrayLength(Artillery[Team].Mortar.RigArea)-1].start := GetTickCount()+600-vec.t;
+			Artillery[Team].Mortar.Timer := Artillery[Team].Mortar.Timer + 1;
+			if Artillery[Team].Mortar.Timer = 0 then begin
+				WriteConsole(Artillery[Team].ID, t(287, player[Artillery[Team].ID].translation, 'Mortar ran out of ammo.'), BAD)
+				ResetMortar(Team);
+			end else DrawTextX(Artillery[Team].ID, 30, '[' + inttostr(absI(Artillery[Team].Mortar.Timer)) + ']', 100, GOOD, 0.1, 20, 370)	
+		end else begin
+			WriteConsole(Artillery[Team].ID, t(288, player[Artillery[Team].ID].translation, 'Player moved, mortar disabled'), BAD);
+			ResetMortar(Team);
+		end;
+	end;
+	
+	if GetArrayLength(Artillery[Team].Mortar.RigArea) > 0 then begin
+		j := GetArrayLength(Artillery[Team].Mortar.RigArea)-1;
+		for i := 0 to j do
+			if Ticks+30 >= Artillery[Team].Mortar.RigArea[i].start then begin
+				k := GetStatgunAt(Artillery[Team].Marker.X, Artillery[Team].Marker.Y, 50);
+				if k > 0 then begin
+					DestroyStat(k);
+					Teams[Team].StatgunRefreshTimer := STATGUN_COOLDOWN_TIME;
+					if GetArrayLength(Teams[k].member) > 0 then
+						for l := 0 to GetArrayLength(Teams[k].member)-1 do
+							WriteConsole(Teams[k].member[l], t(122, player[Teams[k].member[l]].translation, 'Your team''s statgun has been destroyed!'), BAD);
+					k := 2/k;
+					if GetArrayLength(Teams[k].member) > 0 then
+						for k := 0 to GetArrayLength(Teams[k].member)-1 do
+							WriteConsole(Teams[k].member[l], t(289, player[Teams[k].member[l]].translation, 'Mortar destroyed enemy statgun!'), GOOD);
+				end;
+				for k := 1 to MAXMINES do
+					if IsInRange(Artillery[Team].Marker.X, Artillery[Team].Marker.Y, Mines[k].X, Mines[k].Y, 50) then begin
+						DestroyMine(k, true);
+					end;
+				if i = j then
+					SetArrayLength(Artillery[Team].Mortar.RigArea, GetArrayLength(Artillery[Team].Mortar.RigArea)-1)
+				else begin
+					j := j - 1;
+					for k := i to j do begin
+						Artillery[Team].Mortar.RigArea[k].X := Artillery[Team].Mortar.RigArea[k+1].X;
+						Artillery[Team].Mortar.RigArea[k].Y := Artillery[Team].Mortar.RigArea[k+1].Y;
+						Artillery[Team].Mortar.RigArea[k].start := Artillery[Team].Mortar.RigArea[k+1].start;
+					end;
+					SetArrayLength(Artillery[Team].Mortar.RigArea, j+1);
+				end;
+			end;
+	end;
+	
+	if Artillery[Team].NadeTimer > 0 then begin
+		Artillery[Team].NadeTimer := Artillery[Team].NadeTimer - 1;
+		if Artillery[Team].NadeTimer = 0 then begin
+			WriteConsole(Artillery[Team].ID, t(290, player[Artillery[Team].ID].translation, 'Grenade kit ready! use /nade to drop it.'), GOOD);
+		end;
+	end else if Artillery[Team].NadeTimer = -1 then begin
+		if abs(player[Artillery[Team].ID].vx + player[Artillery[Team].ID].vy) < 0.2 then begin
+			DropNadeKit(Artillery[Team].ID);
+			Artillery[Team].NadeTimer := NADEWAITTIME;
+		end;
+	end;
+end;
+
+procedure OnArtilleryRespawn(ID: byte);
+begin
+	Artillery[player[ID].team].NadeTimer := NADEWAITTIME;
+end;
+
+procedure OnArtilleryDeath(Team: byte);
+begin
+	if Artillery[Team].Mortar.Timer < 0 then ResetMortar(Team);
+end;
+
+function OnArtilleryCommand(ID: byte; var Text: string): boolean;
+var
+	dist: single;
+	i: byte;
+begin
+	Result := True;
+	case LowerCase(GetPiece(Text, ' ', 0)) of
+		'/nade': begin
+			if player[ID].alive then begin
+				if Artillery[player[ID].team].NadeTimer = 0 then begin
+					if Abs(player[ID].vx) > 2 then
+						Artillery[player[ID].team].NadeTimer := -1
+					else begin
+						DropNadeKit(ID);
+						Artillery[player[ID].team].NadeTimer := NADEWAITTIME;
+					end;
+				end else WriteConsole(ID, t(291, player[ID].translation, 'You have no grenade kit at the moment'), BAD);
+			end else WriteConsole(ID, t(169, player[ID].translation, 'You have to be alive to drop a kit'), BAD);
+		end;
+		'/mark': begin
+			if player[ID].alive then begin
+				GetPlayerXY(ID, player[ID].X, player[ID].Y);
+				if RayCast(player[ID].X, player[ID].Y, player[ID].X, player[ID].Y-700, dist, 701) then 
+				begin
+					//if not RayCast(player[ID].X, player[ID].Y, player[ID].X, player[ID].Y+10, dist, 11) then 
+					//begin
+						if IsBetween(Bunker[Teams[2/player[ID].team].bunker].X1, Bunker[Teams[2/player[ID].team].bunker].X2, player[ID].X) then					
+						begin
+							WriteConsole(ID, t(292, player[ID].translation, 'You can''t mark on enemy bunker'), BAD);
+							exit;
+						end;
+						Artillery[player[ID].team].Marker.active := true;
+						Artillery[player[ID].team].Marker.X := player[ID].X;
+						Artillery[player[ID].team].Marker.Y := player[ID].Y-10;
+						WriteConsole(ID, t(293, player[ID].translation, 'Place marked!'), GOOD);
+					//end else WriteConsole(ID, t(294, player[ID].translation, 'Mark must be placed on the ground'), BAD);
+				end else WriteConsole(ID, t(295, player[ID].translation, 'You can only mark outside'), BAD);
+			end else WriteConsole(ID, t(296, player[ID].translation, 'You have to be alive to place a marker'), BAD);
+		end;
+		'/mortar': begin
+			if player[ID].alive then begin
+				if Artillery[player[ID].team].Marker.active then begin
+					if Artillery[player[ID].team].Mortar.Timer = 0 then begin
+						LaunchMortar(ID);
+						SendToLive('nuke ' +inttostr(player[ID].Team));
+					end else begin
+						if Artillery[player[ID].team].Mortar.Timer > 0 then 
+							WriteConsole(ID, t(297, player[ID].translation, 'Mortar''s not ready yet. Wait') + ' ' + IntToStr(Artillery[player[ID].team].Mortar.Timer) + ' ' + t(252, player[ID].translation, 'seconds.'), BAD)
+						else WriteConsole(ID, t(298, player[ID].translation, 'Already fireing...'), BAD);
+					end;
+				end else WriteConsole(ID, t(299, player[ID].translation, 'You have to mark first'), BAD);
+			end else WriteConsole(ID, t(300, player[ID].translation, 'You have to be alive to fire a mortar'), BAD);
+		end;
+		else Result := False;
+	end;
+end;

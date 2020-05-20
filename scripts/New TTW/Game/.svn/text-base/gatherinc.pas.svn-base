@@ -1,0 +1,33 @@
+//Gather to TTW
+function SetGatherDir(ValueToSet: string): boolean;
+begin
+	GatherDir := ValueToSet +'.';
+	Result := True;
+	WriteLn(' [*] '+ScriptName+': '+ ValueToSet +' found');
+	CalculateCosts(True);
+end;
+
+procedure SetGatherOn(ValueToSet: Integer);
+begin
+	GatherOn := ValueToSet;
+	WriteLn(' [*] '+ScriptName+': GatherOn set to: '+ IntToStr(ValueToSet));
+end;
+
+function GetPlayerTask(ID: Byte): Integer;
+begin
+	Result := Player[ID].Task;
+end;
+
+function GetNumBunkers(): Integer;
+begin
+	Result := GetArrayLength(Bunker);
+end;
+
+procedure SetGatherPause(ValueToSet: Boolean);
+begin
+	Pause := ValueToSet;
+	
+	if Pause = False then
+		BackUp.HWID := '';
+	WriteLn(' [*] '+ScriptName+': Gather pause set to: '+ iif(Pause, 'True', 'False'));
+end;

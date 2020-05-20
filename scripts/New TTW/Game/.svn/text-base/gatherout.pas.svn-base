@@ -1,0 +1,22 @@
+//TTW to Gather
+//Results the tickets of a Team
+function GetTicks(Team: byte): Integer;
+begin
+	Result := CrossFunc([Team], GatherDir +'GetTicks');
+end;
+
+//Updates the bunkers for gather script
+procedure updateBunkers();
+begin
+	if (GatherDir <> '') and (GatherOn = 2) then
+		CrossFunc([Teams[1].Bunker + 1, GetArrayLength(Bunker) - Teams[2].Bunker], GatherDir +'SetBunkerNumbers');
+end;
+
+
+procedure SendToLive(Text: String);
+begin
+	if GatherDir = '' then exit;
+	if GatherOn <> 2 then exit;
+	
+	WriteLn('--- ' + Text);
+end;

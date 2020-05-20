@@ -1,0 +1,603 @@
+18-12-02 12:58:23    Console Log Started
+18-12-02 12:58:23 Welcome to Soldat 1.7.1
+18-12-02 12:58:23  [*] Preparing scripts to be launched
+18-12-02 12:58:23  [*] Compiling Basic -> basic.pas...
+18-12-02 12:58:23  [*] Basic compiled
+18-12-02 12:58:23  [*] Done
+18-12-02 12:58:23  [*] Basic -> Settings loaded successfully
+18-12-02 12:58:23 Mapslist Updated
+18-12-02 12:58:23 CMD list Updated
+18-12-02 12:58:23 Htf_desert
+18-12-02 12:58:23  Connection for file server started. Port: 23083
+18-12-02 12:58:23 Registering server @ 88.99.234.252
+18-12-02 12:59:19 192.168.1.1:55322|571918EE790 requesting game...
+18-12-02 12:59:21 Garrett joining game (192.168.1.1:55322) HWID:571918EE790
+18-12-02 12:59:21 Garrett has joined bravo team.
+18-12-02 12:59:32 [Garrett] !cmds
+18-12-02 12:59:41 [Garrett] !whoisadmin
+18-12-02 12:59:53 Garrett added to Game Admins
+18-12-02 12:59:59 [Garrett] !whoisadmin
+18-12-02 13:00:15 Garrett got the Yellow Flag
+18-12-02 13:00:48 Garrett got the Yellow Flag
+18-12-02 13:03:06 Garrett got the Yellow Flag
+18-12-02 13:03:23 Time Left: 5 minutes
+18-12-02 13:03:45 [Garrett] !5
+18-12-02 13:03:45 Garrett has joined spectators.
+18-12-02 13:04:15 Admin connected (192.168.1.1).
+18-12-02 13:04:15 /maxplayers (192.168.1.1)
+18-12-02 13:04:15 Max players is 10
+18-12-02 13:04:15 /maxrespawntime (192.168.1.1)
+18-12-02 13:04:15 Maximum Respawn time is 5 seconds
+18-12-02 13:04:15 /respawntime (192.168.1.1)
+18-12-02 13:04:15 Respawn time is 3 seconds
+18-12-02 13:04:15 /limit (192.168.1.1)
+18-12-02 13:04:15 Current kill/point/capture limit is 80
+18-12-02 13:04:15 /timelimit (192.168.1.1)
+18-12-02 13:04:15 Current time limit is 10 minutes
+18-12-02 13:04:15 /friendlyfire (192.168.1.1)
+18-12-02 13:04:15 Friendly Fire is 0
+18-12-02 13:04:15 /scripting (192.168.1.1)
+18-12-02 13:04:15 Scripting is currently Enabled (1)
+18-12-02 13:04:15 /balance (192.168.1.1)
+18-12-02 13:04:15 Bot Balance is off (0)
+18-12-02 13:04:15 /bonus (192.168.1.1)
+18-12-02 13:04:15 Current bonus frequency is 0
+18-12-02 13:04:15 /vote% (192.168.1.1)
+18-12-02 13:04:15 Voting percent is 60
+18-12-02 13:04:23 Time Left: 4 minutes
+18-12-02 13:05:08 /maxplayers 11 (192.168.1.1)
+18-12-02 13:05:08 Max players changed to 11
+18-12-02 13:05:23 Time Left: 3 minutes
+18-12-02 13:06:23 Time Left: 2 minutes
+18-12-02 13:07:23 Time Left: 1 minutes
+18-12-02 13:08:23 Next map: htf_Baire
+18-12-02 13:08:28 htf_Baire (Keron Cyst)
+18-12-02 13:12:58 24.133.82.98:12731|1EA2DA89D27 requesting game...
+18-12-02 13:13:04 Zoo [Kaan] joining game (24.133.82.98:12731) HWID:1EA2DA89D27
+18-12-02 13:13:04 Zoo [Kaan] has joined alpha team.
+18-12-02 13:13:15 Garrett has joined bravo team.
+18-12-02 13:13:21 (1) Zoo [Kaan] killed (2) Garrett with Grenade
+18-12-02 13:13:27 [Zoo [Kaan]] yo
+18-12-02 13:13:28 Time Left: 5 minutes
+18-12-02 13:13:42 Zoo [Kaan] got the Yellow Flag
+18-12-02 13:14:07 [Zoo [Kaan]] xd
+18-12-02 13:14:28 Time Left: 4 minutes
+18-12-02 13:15:19 (1) Zoo [Kaan] killed (2) Garrett with Spas-12
+18-12-02 13:15:25 (1) Zoo [Kaan] killed (2) Garrett with Spas-12
+18-12-02 13:15:28 Time Left: 3 minutes
+18-12-02 13:16:10 [Zoo [Kaan]] hm
+18-12-02 13:16:15 [Zoo [Kaan]] xd
+18-12-02 13:16:28 Time Left: 2 minutes
+18-12-02 13:16:52 (1) Zoo [Kaan] killed (2) Garrett with Spas-12
+18-12-02 13:17:22 (1) Zoo [Kaan] killed (2) Garrett with Spas-12
+18-12-02 13:17:28 Time Left: 1 minutes
+18-12-02 13:17:29 [Zoo [Kaan]] hm
+18-12-02 13:17:33 (2) Garrett killed (1) Zoo [Kaan] with Barrett M82A1
+18-12-02 13:17:37 Garrett got the Yellow Flag
+18-12-02 13:17:49 (1) Zoo [Kaan] killed (2) Garrett with Barrett M82A1
+18-12-02 13:17:53 Zoo [Kaan] got the Yellow Flag
+18-12-02 13:18:00 [Garrett] Don't think I can come back from this one lol]
+18-12-02 13:18:02 (1) Zoo [Kaan] killed (2) Garrett with Barrett M82A1
+18-12-02 13:18:07 [Zoo [Kaan]] :D
+18-12-02 13:18:13 (1) Zoo [Kaan] killed (2) Garrett with Barrett M82A1
+18-12-02 13:18:18 [Zoo [Kaan]] we need more players
+18-12-02 13:18:20 (2) Garrett killed (1) Zoo [Kaan] with Barrett M82A1
+18-12-02 13:18:22 [Garrett] Yeah
+18-12-02 13:18:24 [Zoo [Kaan]] too big
+18-12-02 13:18:27 Garrett got the Yellow Flag
+18-12-02 13:18:27 (1) Zoo [Kaan] killed (2) Garrett with Grenade
+18-12-02 13:18:28 Next map: htf_Dorothy
+18-12-02 13:18:34 Dorothy
+18-12-02 13:18:41 Zoo [Kaan] got the Yellow Flag
+18-12-02 13:20:17 (2) Garrett killed (1) Zoo [Kaan] with Barrett M82A1
+18-12-02 13:20:19 [Zoo [Kaan]] huh
+18-12-02 13:20:24 Garrett got the Yellow Flag
+18-12-02 13:20:28 (1) Zoo [Kaan] killed (2) Garrett with Spas-12
+18-12-02 13:20:32 Zoo [Kaan] got the Yellow Flag
+18-12-02 13:21:13 (1) Zoo [Kaan] killed (2) Garrett with Grenade
+18-12-02 13:22:04 89.241.1.55:23073|6396A6BE291 requesting game...
+18-12-02 13:22:08 Storm` joining game (89.241.1.55:23073) HWID:6396A6BE291
+18-12-02 13:22:08 Storm` has joined as spectator.
+18-12-02 13:22:18 [Zoo [Kaan]] xd
+18-12-02 13:22:38 Storm` has joined alpha team.
+18-12-02 13:22:44 (1) Storm` killed (2) Garrett with Steyr AUG
+18-12-02 13:22:47 [Zoo [Kaan]] go bravo
+18-12-02 13:22:48 [Zoo [Kaan]] xd
+18-12-02 13:22:48 Storm` has joined bravo team.
+18-12-02 13:22:56 (2) Storm` killed (1) Zoo [Kaan] with Steyr AUG
+18-12-02 13:22:57 Storm` got the Yellow Flag
+18-12-02 13:23:03 (1) Zoo [Kaan] killed (2) Garrett with Steyr AUG
+18-12-02 13:23:08 (2) Storm` killed (1) Zoo [Kaan] with Steyr AUG
+18-12-02 13:23:17 (2) Garrett killed (1) Zoo [Kaan] with Steyr AUG
+18-12-02 13:23:20 [Zoo [Kaan]] huh
+18-12-02 13:23:27 (1) Zoo [Kaan] killed (2) Garrett with Steyr AUG
+18-12-02 13:23:32 (2) Storm` killed (1) Zoo [Kaan] with Grenade
+18-12-02 13:23:34 Time Left: 5 minutes
+18-12-02 13:23:37 (1) Zoo [Kaan] killed (2) Garrett with Combat Knife
+18-12-02 13:23:40 (2) Storm` killed (1) Zoo [Kaan] with Steyr AUG
+18-12-02 13:23:44 [Zoo [Kaan]] eu server?
+18-12-02 13:23:45 84.160.118.177:13608|5A3BEA52ECB requesting game...
+18-12-02 13:23:48 Major Lazor joining game (84.160.118.177:13608) HWID:5A3BEA52ECB
+18-12-02 13:23:48 Major Lazor has joined alpha team.
+18-12-02 13:23:49 [Storm`] dunno
+18-12-02 13:23:52 (1) Zoo [Kaan] killed (2) Garrett with Steyr AUG
+18-12-02 13:23:52 (2) Storm` killed (1) Major Lazor with Steyr AUG
+18-12-02 13:23:57 (2) Storm` killed (1) Zoo [Kaan] with Grenade
+18-12-02 13:24:01 [Zoo [Kaan]] my ping 250 lol
+18-12-02 13:24:07 (1) Zoo [Kaan] killed (2) Storm` with Steyr AUG
+18-12-02 13:24:10 (1) Major Lazor killed (2) Garrett with Ak-74
+18-12-02 13:24:14 Zoo [Kaan] got the Yellow Flag
+18-12-02 13:24:21 (1) Zoo [Kaan] killed (2) Storm` with Steyr AUG
+18-12-02 13:24:22 [Garrett] What country are you from?
+18-12-02 13:24:26 (1) Major Lazor killed (2) Garrett with Ak-74
+18-12-02 13:24:28 [Storm`] cambodia
+18-12-02 13:24:30 (2) Storm` killed (1) Major Lazor with Steyr AUG
+18-12-02 13:24:31 [Zoo [Kaan]] turkey
+18-12-02 13:24:32 (2) Garrett killed (1) Zoo [Kaan] with Steyr AUG
+18-12-02 13:24:34 Time Left: 4 minutes
+18-12-02 13:24:36 Major Lazor got the Yellow Flag
+18-12-02 13:24:36 (2) Storm` killed (1) Major Lazor with Combat Knife
+18-12-02 13:24:36 Storm` got the Yellow Flag
+18-12-02 13:24:37 (1) Zoo [Kaan] killed (2) Garrett with Steyr AUG
+18-12-02 13:24:40 (1) Zoo [Kaan] killed (2) Storm` with Steyr AUG
+18-12-02 13:24:43 Zoo [Kaan] got the Yellow Flag
+18-12-02 13:24:54 (2) Garrett killed (1) Major Lazor with Hands
+18-12-02 13:24:56 (1) Zoo [Kaan] killed (2) Garrett with Steyr AUG
+18-12-02 13:24:56 Major Lazor has left alpha team.
+18-12-02 13:25:03 (1) Zoo [Kaan] killed (2) Garrett with Grenade
+18-12-02 13:25:12 (1) Zoo [Kaan] killed (2) Storm` with Steyr AUG
+18-12-02 13:25:14 [Garrett] Yeah. This is a server based in the US so thats probably why your ping is so high.
+18-12-02 13:25:14 [Zoo [Kaan]] xdd
+18-12-02 13:25:19 (2) Storm` killed (1) Zoo [Kaan] with HK MP5
+18-12-02 13:25:25 Storm` got the Yellow Flag
+18-12-02 13:25:25 [Zoo [Kaan]] west coast?
+18-12-02 13:25:27 [Garrett] East
+18-12-02 13:25:33 (1) Zoo [Kaan] killed (2) Garrett with Combat Knife
+18-12-02 13:25:34 Time Left: 3 minutes
+18-12-02 13:25:41 (2) Garrett killed (1) Zoo [Kaan] with Steyr AUG
+18-12-02 13:25:42 [Zoo [Kaan]] so my net is shit now
+18-12-02 13:25:49 (2) Storm` killed (1) Zoo [Kaan] with Grenade
+18-12-02 13:26:12 (2) Storm` killed (1) Zoo [Kaan] with HK MP5
+18-12-02 13:26:20 (1) Zoo [Kaan] killed (2) Garrett with Grenade
+18-12-02 13:26:34 (1) Zoo [Kaan] killed (2) Storm` with M79
+18-12-02 13:26:34 Time Left: 2 minutes
+18-12-02 13:26:36 Zoo [Kaan] got the Yellow Flag
+18-12-02 13:26:36 (2) Garrett killed (1) Zoo [Kaan] with Steyr AUG
+18-12-02 13:26:36 Storm` has left bravo team.
+18-12-02 13:26:38 Garrett got the Yellow Flag
+18-12-02 13:26:54 (1) Zoo [Kaan] killed (2) Garrett with M79
+18-12-02 13:26:57 Zoo [Kaan] got the Yellow Flag
+18-12-02 13:27:07 (1) Zoo [Kaan] killed (2) Garrett with Grenade
+18-12-02 13:27:10 [Garrett] Nice!
+18-12-02 13:27:31 (2) Garrett killed (1) Zoo [Kaan] with Steyr AUG
+18-12-02 13:27:32 [Zoo [Kaan]] I'm sure you hate me now I just escape xd
+18-12-02 13:27:33 Garrett got the Yellow Flag
+18-12-02 13:27:34 Time Left: 1 minutes
+18-12-02 13:27:36 [Garrett] :p
+18-12-02 13:27:44 (1) Zoo [Kaan] killed (2) Garrett with Barrett M82A1
+18-12-02 13:27:48 [Zoo [Kaan]] wow
+18-12-02 13:27:51 Zoo [Kaan] got the Yellow Flag
+18-12-02 13:28:01 (1) Zoo [Kaan] killed (2) Garrett with Barrett M82A1
+18-12-02 13:28:08 (1) Zoo [Kaan] killed (2) Garrett with Barrett M82A1
+18-12-02 13:28:08 (2) Garrett killed (1) Zoo [Kaan] with M79
+18-12-02 13:28:13 Zoo [Kaan] got the Yellow Flag
+18-12-02 13:28:19 (1) Zoo [Kaan] killed (2) Garrett with Barrett M82A1
+18-12-02 13:28:31 (2) Garrett killed (1) Zoo [Kaan] with Barrett M82A1
+18-12-02 13:28:34 Next map: htf_Feast
+18-12-02 13:28:37 [Zoo [Kaan]] hf bro :)
+18-12-02 13:28:39 Feast => by Eagles_Arrows
+18-12-02 13:28:41 [Garrett] Thanks!
+18-12-02 13:28:42 Zoo [Kaan] has left alpha team.
+18-12-02 13:29:07 Garrett got the Yellow Flag
+18-12-02 13:29:21 [Garrett] !5
+18-12-02 13:29:21 Garrett has joined spectators.
+18-12-02 13:33:39 Time Left: 5 minutes
+18-12-02 13:34:14 213.192.98.20:23073| requesting game...
+18-12-02 13:34:17 mistrz kierownicy ucieka joining game (213.192.98.20:23073) HWID:6922C91A70F
+18-12-02 13:34:17 mistrz kierownicy ucieka has joined alpha team.
+18-12-02 13:34:29 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:34:36 Garrett has joined bravo team.
+18-12-02 13:34:39 Time Left: 4 minutes
+18-12-02 13:34:49 (2) Garrett killed (1) mistrz kierownicy ucieka with Steyr AUG
+18-12-02 13:34:49 Garrett got the Yellow Flag
+18-12-02 13:34:57 (2) Garrett killed (1) mistrz kierownicy ucieka with Steyr AUG
+18-12-02 13:35:39 Time Left: 3 minutes
+18-12-02 13:35:41 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:35:43 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:35:59 Garrett got the Yellow Flag
+18-12-02 13:36:32 (2) Garrett killed (1) mistrz kierownicy ucieka with Steyr AUG
+18-12-02 13:36:38 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:36:39 Time Left: 2 minutes
+18-12-02 13:36:59 (2) Garrett killed (1) mistrz kierownicy ucieka with Steyr AUG
+18-12-02 13:37:08 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:37:09 [Garrett] Nice!
+18-12-02 13:37:10 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:37:13 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:37:18 (2) Garrett killed (1) mistrz kierownicy ucieka with Steyr AUG
+18-12-02 13:37:20 Garrett got the Yellow Flag
+18-12-02 13:37:22 [mistrz kierownicy ucieka] dobre
+18-12-02 13:37:28 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:37:29 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:37:37 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:37:39 Time Left: 1 minutes
+18-12-02 13:37:57 (2) Garrett killed (1) mistrz kierownicy ucieka with Grenade
+18-12-02 13:38:00 Garrett got the Yellow Flag
+18-12-02 13:38:09 (2) Garrett killed (1) mistrz kierownicy ucieka with Steyr AUG
+18-12-02 13:38:17 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:38:18 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:38:33 (2) Garrett killed (1) mistrz kierownicy ucieka with Steyr AUG
+18-12-02 13:38:38 Garrett got the Yellow Flag
+18-12-02 13:38:39 Next map: htf_Zajacz
+18-12-02 13:38:44 htf_Zajacz (Keron Cyst)
+18-12-02 13:38:52 (2) Garrett killed (1) mistrz kierownicy ucieka with Steyr AUG
+18-12-02 13:38:52 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:38:53 [Garrett] Nice!
+18-12-02 13:39:01 Garrett got the Yellow Flag
+18-12-02 13:39:16 (2) Garrett killed (1) mistrz kierownicy ucieka with Steyr AUG
+18-12-02 13:39:23 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:39:27 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:39:45 (2) Garrett killed (1) mistrz kierownicy ucieka with Steyr AUG
+18-12-02 13:39:49 Garrett got the Yellow Flag
+18-12-02 13:39:50 [mistrz kierownicy ucieka] ciul
+18-12-02 13:40:18 (2) Garrett killed (1) mistrz kierownicy ucieka with Steyr AUG
+18-12-02 13:40:25 [mistrz kierownicy ucieka] cos nie idzie
+18-12-02 13:40:39 (2) Garrett killed (1) mistrz kierownicy ucieka with Steyr AUG
+18-12-02 13:40:49 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:40:55 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:41:02 (2) Garrett killed (1) mistrz kierownicy ucieka with Combat Knife
+18-12-02 13:41:03 Garrett got the Yellow Flag
+18-12-02 13:41:09 (2) Garrett killed (1) mistrz kierownicy ucieka with Combat Knife
+18-12-02 13:41:48 (1) mistrz kierownicy ucieka killed (2) Garrett with Grenade
+18-12-02 13:41:50 [Garrett] Nice!
+18-12-02 13:41:59 Garrett got the Yellow Flag
+18-12-02 13:42:02 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:42:09 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:42:10 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:42:12 Garrett got the Yellow Flag
+18-12-02 13:42:18 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:42:26 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:42:36 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:42:47 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:42:51 Garrett got the Yellow Flag
+18-12-02 13:43:22 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:43:26 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:43:43 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:43:44 Time Left: 5 minutes
+18-12-02 13:43:57 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:44:08 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:44:11 Garrett got the Yellow Flag
+18-12-02 13:44:12 [mistrz kierownicy ucieka] tnie dobrze
+18-12-02 13:44:15 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:44:19 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:44:28 Garrett got the Yellow Flag
+18-12-02 13:44:29 [mistrz kierownicy ucieka] o w dupeaaa
+18-12-02 13:44:44 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:44:44 Time Left: 4 minutes
+18-12-02 13:44:50 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:45:06 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:45:06 Garrett got the Yellow Flag
+18-12-02 13:45:44 Time Left: 3 minutes
+18-12-02 13:46:12 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:46:16 [mistrz kierownicy ucieka] niezle
+18-12-02 13:46:18 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:46:41 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:46:44 Time Left: 2 minutes
+18-12-02 13:46:45 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:46:51 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:46:52 Garrett got the Yellow Flag
+18-12-02 13:47:21 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:47:25 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:47:28 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:47:30 Garrett got the Yellow Flag
+18-12-02 13:47:31 [mistrz kierownicy ucieka] cholera
+18-12-02 13:47:44 Time Left: 1 minutes
+18-12-02 13:47:56 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:48:02 [mistrz kierownicy ucieka] farciarz
+18-12-02 13:48:12 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:48:19 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:48:24 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:48:44 Next map: htf_Desert
+18-12-02 13:48:50 Htf_desert
+18-12-02 13:48:56 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:49:13 (1) mistrz kierownicy ucieka killed (2) Garrett with Grenade
+18-12-02 13:49:17 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:49:25 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:49:27 [mistrz kierownicy ucieka] eh
+18-12-02 13:49:34 Garrett got the Yellow Flag
+18-12-02 13:49:38 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:49:40 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:49:51 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:49:51 Garrett got the Yellow Flag
+18-12-02 13:49:57 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:50:04 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:50:07 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:50:34 Garrett got the Yellow Flag
+18-12-02 13:50:42 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:50:45 [mistrz kierownicy ucieka] wow
+18-12-02 13:50:52 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:51:10 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:51:13 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:51:18 [Garrett] brb
+18-12-02 13:51:24 [mistrz kierownicy ucieka] ?
+18-12-02 13:51:47 (1) mistrz kierownicy ucieka killed (2) Garrett with Grenade
+18-12-02 13:52:00 (1) mistrz kierownicy ucieka killed (2) Garrett with Grenade
+18-12-02 13:52:10 (1) mistrz kierownicy ucieka killed (2) Garrett with Grenade
+18-12-02 13:52:13 [Garrett] back
+18-12-02 13:52:23 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:52:46 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:52:50 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:52:58 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:53:03 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:53:09 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:53:16 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:53:34 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:53:35 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:53:42 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:53:45 Garrett got the Yellow Flag
+18-12-02 13:53:50 Time Left: 5 minutes
+18-12-02 13:53:59 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:54:05 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:54:08 [mistrz kierownicy ucieka] ni noeie
+18-12-02 13:54:14 (1) mistrz kierownicy ucieka killed (2) Garrett with Grenade
+18-12-02 13:54:15 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:54:20 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:54:25 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:54:31 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:54:50 Time Left: 4 minutes
+18-12-02 13:54:50 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:54:50 (2) Garrett killed (1) mistrz kierownicy ucieka with Combat Knife
+18-12-02 13:54:55 [mistrz kierownicy ucieka] wet za wet
+18-12-02 13:54:59 Garrett got the Yellow Flag
+18-12-02 13:55:00 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:55:25 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:55:25 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:55:30 [mistrz kierownicy ucieka] 7a4
+18-12-02 13:55:33 Garrett got the Yellow Flag
+18-12-02 13:55:46 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:55:50 Time Left: 3 minutes
+18-12-02 13:55:50 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:55:53 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:55:55 Garrett got the Yellow Flag
+18-12-02 13:56:02 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:56:04 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:56:13 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:56:23 Garrett got the Yellow Flag
+18-12-02 13:56:33 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:56:50 Time Left: 2 minutes
+18-12-02 13:56:54 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:56:59 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:57:07 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:57:23 Garrett got the Yellow Flag
+18-12-02 13:57:39 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:57:42 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:57:49 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:57:50 Time Left: 1 minutes
+18-12-02 13:58:06 (1) mistrz kierownicy ucieka killed (2) Garrett with Grenade
+18-12-02 13:58:06 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:58:12 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:58:14 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 13:58:16 Garrett got the Yellow Flag
+18-12-02 13:58:50 Next map: htf_Baire
+18-12-02 13:58:51 [Garrett] gg
+18-12-02 13:58:55 htf_Baire (Keron Cyst)
+18-12-02 13:59:02 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 13:59:18 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:59:34 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 13:59:43 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 14:00:00 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 14:00:03 Garrett got the Yellow Flag
+18-12-02 14:00:18 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 14:00:18 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 14:00:25 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 14:00:30 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 14:00:32 Garrett got the Yellow Flag
+18-12-02 14:00:58 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 14:01:10 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 14:01:21 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 14:01:23 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 14:01:35 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 14:01:40 Garrett got the Yellow Flag
+18-12-02 14:02:13 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 14:02:28 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 14:02:32 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 14:03:25 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 14:03:25 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 14:03:31 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 14:03:46 (2) Garrett killed (1) mistrz kierownicy ucieka with Grenade
+18-12-02 14:03:50 Garrett got the Yellow Flag
+18-12-02 14:03:53 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 14:03:54 213.127.77.122:8827|4641ECF16E2 requesting game...
+18-12-02 14:03:55 Time Left: 5 minutes
+18-12-02 14:03:59 oesbe joining game (213.127.77.122:8827) HWID:4641ECF16E2
+18-12-02 14:03:59 oesbe has joined alpha team.
+18-12-02 14:04:01 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 14:04:07 (2) Garrett killed (1) oesbe with M79
+18-12-02 14:04:17 (2) Garrett killed (1) oesbe with M79
+18-12-02 14:04:24 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 14:04:27 Garrett got the Yellow Flag
+18-12-02 14:04:33 [mistrz kierownicy ucieka] nowego zawodnika biejesz?
+18-12-02 14:04:42 (2) Garrett killed (1) oesbe with M79
+18-12-02 14:04:45 [oesbe] japierdole :D
+18-12-02 14:04:52 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 14:04:55 Time Left: 4 minutes
+18-12-02 14:04:57 [mistrz kierownicy ucieka] z/w
+18-12-02 14:05:00 (1) oesbe killed (2) Garrett with USSOCOM
+18-12-02 14:05:03 [mistrz kierownicy ucieka] moment
+18-12-02 14:05:05 oesbe got the Yellow Flag
+18-12-02 14:05:11 (2) Garrett killed (1) mistrz kierownicy ucieka with Combat Knife
+18-12-02 14:05:27 (1) oesbe killed (2) Garrett with M79
+18-12-02 14:05:39 (1) oesbe killed (2) Garrett with USSOCOM
+18-12-02 14:05:46 (1) oesbe killed (2) Garrett with M79
+18-12-02 14:05:46 (2) Garrett killed (1) oesbe with M79
+18-12-02 14:05:55 Time Left: 3 minutes
+18-12-02 14:05:56 oesbe got the Yellow Flag
+18-12-02 14:06:03 (1) oesbe killed (2) Garrett with M79
+18-12-02 14:06:17 (1) mistrz kierownicy ucieka killed (2) Garrett with M79
+18-12-02 14:06:17 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 14:06:21 [mistrz kierownicy ucieka] ciul
+18-12-02 14:06:25 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 14:06:27 (1) oesbe killed (2) Garrett with M79
+18-12-02 14:06:33 (2) Garrett killed (1) mistrz kierownicy ucieka with M79
+18-12-02 14:06:39 (1) oesbe killed (2) Garrett with USSOCOM
+18-12-02 14:06:51 (1) oesbe killed (2) Garrett with USSOCOM
+18-12-02 14:06:55 Time Left: 2 minutes
+18-12-02 14:07:10 (1) oesbe killed (2) Garrett with Grenade
+18-12-02 14:07:34 (1) oesbe killed (2) Garrett with USSOCOM
+18-12-02 14:07:41 (1) oesbe killed (2) Garrett with M79
+18-12-02 14:07:49 (2) Garrett killed (1) oesbe with M79
+18-12-02 14:07:50 Garrett got the Yellow Flag
+18-12-02 14:07:55 Time Left: 1 minutes
+18-12-02 14:07:58 (1) oesbe killed (2) Garrett with M79
+18-12-02 14:08:02 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 14:08:17 [mistrz kierownicy ucieka] 2 na 1?
+18-12-02 14:08:26 oesbe has joined bravo team.
+18-12-02 14:08:32 [oesbe] teraz tak :D
+18-12-02 14:08:34 (2) oesbe killed (1) mistrz kierownicy ucieka with M79
+18-12-02 14:08:37 oesbe got the Yellow Flag
+18-12-02 14:08:41 (2) oesbe killed (1) mistrz kierownicy ucieka with M79
+18-12-02 14:08:42 [mistrz kierownicy ucieka] tto szybko
+18-12-02 14:08:46 /gamemode 1 (192.168.1.1)
+18-12-02 14:08:46  [*] Basic -> Settings loaded successfully
+18-12-02 14:08:46 Mapslist Updated
+18-12-02 14:08:46 CMD list Updated
+18-12-02 14:08:46 Htf_desert
+18-12-02 14:08:46 Port already open
+18-12-02 14:08:46  Connection for file server started. Port: 23083
+18-12-02 14:08:46 Registering server @ 88.99.234.252
+18-12-02 14:08:46 /respawntime 2 (192.168.1.1)
+18-12-02 14:08:46 Respawn time changed to 2 seconds
+18-12-02 14:08:53 192.168.1.1:55322|571918EE790 requesting game...
+18-12-02 14:08:54 Garrett joining game (192.168.1.1:55322) HWID:571918EE790
+18-12-02 14:08:54 Garrett has joined the game.
+18-12-02 14:08:55 213.192.98.20:23073| requesting game...
+18-12-02 14:08:56 mistrz kierownicy ucieka joining game (213.192.98.20:23073) HWID:6922C91A70F
+18-12-02 14:08:56 mistrz kierownicy ucieka has joined the game.
+18-12-02 14:09:06 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 14:09:12 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:09:19 (0) mistrz kierownicy ucieka killed (0) Garrett with Grenade
+18-12-02 14:09:30 (0) Garrett killed (0) mistrz kierownicy ucieka with M79
+18-12-02 14:09:32 Garrett got the Yellow Flag
+18-12-02 14:09:36 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:09:39 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 14:09:45 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:09:54 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:10:37 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:10:47 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:10:59 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:11:05 (0) mistrz kierownicy ucieka killed (0) Garrett with Grenade
+18-12-02 14:11:14 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:11:32 [mistrz kierownicy ucieka] tylko ty jestes?
+18-12-02 14:11:37 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:11:49 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:12:05 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:12:19 (0) mistrz kierownicy ucieka killed (0) Garrett with Grenade
+18-12-02 14:12:38 (0) mistrz kierownicy ucieka killed (0) Garrett with Grenade
+18-12-02 14:12:41 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:12:41 Next map: htf_Baire
+18-12-02 14:12:47 htf_Baire (Keron Cyst)
+18-12-02 14:12:52 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 14:13:02 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:13:06 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:13:23 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:13:35 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:13:42 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:13:49 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:14:04 (0) Garrett killed (0) mistrz kierownicy ucieka with M79
+18-12-02 14:14:06 Garrett got the Yellow Flag
+18-12-02 14:14:10 [mistrz kierownicy ucieka] gdzies ty byl?
+18-12-02 14:14:22 [Garrett] ?
+18-12-02 14:14:54 (0) Garrett killed (0) mistrz kierownicy ucieka with M79
+18-12-02 14:15:17 (0) Garrett killed (0) mistrz kierownicy ucieka with M79
+18-12-02 14:16:05 (0) mistrz kierownicy ucieka killed (0) Garrett with Grenade
+18-12-02 14:16:08 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 14:16:26 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:16:48 (0) mistrz kierownicy ucieka killed (0) Garrett with M79
+18-12-02 14:17:15 (0) Garrett killed (0) mistrz kierownicy ucieka with M79
+18-12-02 14:17:15 [mistrz kierownicy ucieka] jestes?
+18-12-02 14:17:16 Garrett got the Yellow Flag
+18-12-02 14:17:23 201.250.68.114:23073|7DBD4F1D17A requesting game...
+18-12-02 14:17:27 [mistrz kierownicy ucieka] moze dream team na innej mapie?
+18-12-02 14:17:30 rick sanchez joining game (201.250.68.114:23073) HWID:7DBD4F1D17A
+18-12-02 14:17:30 rick sanchez has joined the game.
+18-12-02 14:17:38 Garrett has joined bravo team.
+18-12-02 14:17:38 Garrett has joined spectators.
+18-12-02 14:17:41 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 14:17:47 Time Left: 5 minutes
+18-12-02 14:18:04 rick sanchez gets a ping warning
+18-12-02 14:18:12 rick sanchez has joined alpha team.
+18-12-02 14:18:26 (1) rick sanchez killed (0) mistrz kierownicy ucieka with Combat Knife
+18-12-02 14:18:27 rick sanchez got the Yellow Flag
+18-12-02 14:18:47 Time Left: 4 minutes
+18-12-02 14:18:53 rick sanchez gets a ping warning
+18-12-02 14:19:00 rick sanchez gets a ping warning
+18-12-02 14:19:07 rick sanchez gets a ping warning
+18-12-02 14:19:14 rick sanchez gets a ping warning
+18-12-02 14:19:21 rick sanchez gets a ping warning
+18-12-02 14:19:35 rick sanchez gets a ping warning
+18-12-02 14:19:42 rick sanchez gets a ping warning
+18-12-02 14:19:47 Time Left: 3 minutes
+18-12-02 14:19:49 rick sanchez gets a ping warning
+18-12-02 14:19:55 (1) rick sanchez killed (0) mistrz kierownicy ucieka with Grenade
+18-12-02 14:19:56 rick sanchez gets a ping warning
+18-12-02 14:20:00 (0) mistrz kierownicy ucieka killed (1) rick sanchez with M79
+18-12-02 14:20:05 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 14:20:10 rick sanchez gets a ping warning
+18-12-02 14:20:13 (1) rick sanchez killed (0) mistrz kierownicy ucieka with Barrett M82A1
+18-12-02 14:20:16 rick sanchez got the Yellow Flag
+18-12-02 14:20:17 rick sanchez gets a ping warning
+18-12-02 14:20:17 rick sanchez has been kicked and banned for 15 minutes (Ping Kick)
+18-12-02 14:20:23 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 14:20:28 [mistrz kierownicy ucieka] kurwa
+18-12-02 14:20:32 [mistrz kierownicy ucieka] ciul pierdolony
+18-12-02 14:20:47 Time Left: 2 minutes
+18-12-02 14:21:47 Time Left: 1 minutes
+18-12-02 14:21:53 [mistrz kierownicy ucieka] a ty gdzie,garecik?
+18-12-02 14:22:36 [Garrett] musze isc, dobrze sie bawic
+18-12-02 14:22:44 [mistrz kierownicy ucieka] aha
+18-12-02 14:22:47 Next map: htf_Dorothy
+18-12-02 14:22:52 Dorothy
+18-12-02 14:22:56 Garrett has left spectators
+18-12-02 14:23:04 mistrz kierownicy ucieka got the Yellow Flag
+18-12-02 14:23:21 mistrz kierownicy ucieka has left the game.
+18-12-02 14:23:54 /gamemode 6 (192.168.1.1)
+18-12-02 14:23:54  [*] Basic -> Settings loaded successfully
+18-12-02 14:23:54 Mapslist Updated
+18-12-02 14:23:54 CMD list Updated
+18-12-02 14:23:54 Htf_desert
+18-12-02 14:23:54 Port already open
+18-12-02 14:23:54  Connection for file server started. Port: 23083
+18-12-02 14:23:54 Registering server @ 88.99.234.252
+18-12-02 14:28:54 Time Left: 5 minutes
+18-12-02 14:29:54 Time Left: 4 minutes
+18-12-02 14:30:54 Time Left: 3 minutes
+18-12-02 14:31:54 Time Left: 2 minutes
+18-12-02 14:32:54 Time Left: 1 minutes
+18-12-02 14:33:54 Next map: htf_Baire
+18-12-02 14:33:59 htf_Baire (Keron Cyst)
+18-12-02 14:34:23 IP number 201.250.68.114 (Ping Kick) unbanned
+18-12-02 14:34:23 Hardware ID 7DBD4F1D17A (Ping Kick) unbanned
+18-12-02 14:38:59 Time Left: 5 minutes
+18-12-02 14:39:28 212.252.98.9:57067|B0F4DD69F1C requesting game...
+18-12-02 14:39:30 `JacksLostYouth joining game (212.252.98.9:57067) HWID:B0F4DD69F1C
+18-12-02 14:39:30 `JacksLostYouth has joined alpha team.
+18-12-02 14:39:49 `JacksLostYouth got the Yellow Flag
+18-12-02 14:39:59 Time Left: 4 minutes
+18-12-02 14:40:24 [`JacksLostYouth] !cmds
+18-12-02 14:40:29 [`JacksLostYouth] !whoisadmin
+18-12-02 14:40:43 [`JacksLostYouth] !map
+18-12-02 14:40:45 [`JacksLostYouth] !maps
+18-12-02 14:40:53 `JacksLostYouth has left alpha team.
+18-12-02 14:40:59 Time Left: 3 minutes
+18-12-02 14:41:59 Time Left: 2 minutes
+18-12-02 14:42:59 Time Left: 1 minutes
+18-12-02 14:43:59 Next map: htf_Dorothy
+18-12-02 14:44:04 Dorothy
+18-12-02 14:49:04 Time Left: 5 minutes
+18-12-02 14:50:04 Time Left: 4 minutes
+18-12-02 14:51:04 Time Left: 3 minutes
+18-12-02 14:52:04 Time Left: 2 minutes
+18-12-02 14:53:04 Time Left: 1 minutes
+18-12-02 14:54:04 Next map: htf_Feast
+18-12-02 14:54:10 Feast => by Eagles_Arrows
+18-12-02 14:59:05 Time Left: 5 minutes
+18-12-02 15:00:05 Time Left: 4 minutes

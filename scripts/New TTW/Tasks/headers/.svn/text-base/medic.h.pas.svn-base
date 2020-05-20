@@ -1,0 +1,45 @@
+const
+	MEDIC_SELF_HEAL = 9;
+	MEDIC_TEAM_HEAL = 15;
+	MEDIC_HEAL_RANGE= 60;
+	MEDIKITWAITTIME = 20; 
+	
+
+type
+	tMedic = record
+		ID: byte;
+		KitTimer: shortint;
+	end;
+
+var
+	Medic: array[1..2] of tMedic;
+
+procedure MedicCommands(ID: byte);
+begin
+	WriteConsole(ID, t(63, Player[ID].Translation, '/kit    - drops a medical kit near you'),C_COLOUR);
+end;
+
+procedure MedicInfo(ID: byte);
+begin
+	WriteConsole(ID, t(64, player[ID].translation, 'You are the Medic'), H_COLOUR);
+	WriteConsole(ID, t(65, player[ID].translation, 'Switch weapon near teammates to heal them. You can also drop medikits.'), I_COLOUR);			
+	WriteConsole(ID, t(66, player[ID].translation, 'Your health will be regenerated automatically while you are not moving.'), I_COLOUR);
+	MedicCommands(ID);
+end;
+
+procedure AssignMedic(ID, Team: byte);
+begin
+	Medic[Team].ID := ID;
+	//player[ID].weapons[3] := true;
+	player[ID].weapons[4] := true;
+	//player[ID].weapons[6] := true;
+	player[ID].weapons[11] := true;
+	Medic[Team].KitTimer := round(MEDIKITWAITTIME / 3);
+	MedicInfo(ID);
+end;
+
+procedure ResetMedic(Team: byte; left: boolean);
+begin
+	if left then Medic[Team].ID := 0;
+	Medic[Team].KitTimer := MEDIKITWAITTIME;
+end;

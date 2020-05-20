@@ -1,0 +1,88 @@
+procedure SelfHeal(ID: byte);
+begin
+	if GetPlayerStat(ID, 'health') < MaxHP then
+		if abs(player[ID].VX + player[ID].VY) < 0.2 then
+			if GetStatgunAt(player[ID].X, player[ID].Y, 50) = 0 then
+				GiveHealth(ID, MEDIC_SELF_HEAL);
+end;
+
+procedure Heal(Doc, ID: byte);
+begin
+	if GetPlayerStat(ID, 'health') < MaxHP then begin
+		if not GiveHealth(ID, MEDIC_TEAM_HEAL) then begin
+			DrawTextX(Doc, 30, t(162, player[Doc].translation, 'Healing'),100, $0000FF, 0.1, 20, 370 );
+			DrawTextX(ID, 30, t(163, player[ID].translation, 'You are being healed...'),100, $0000FF, 0.1, 20, 370 );
+		end else begin
+			DrawTextX(Doc, 40, t(164, player[Doc].translation, 'Soldier is at full health'),100, RGB(50,50,255), 0.1, 20, 370 );
+			DrawTextX(ID, 40, t(165, player[ID].translation, 'Fully healed!'),100, RGB(50,50,255), 0.1, 20, 370 );
+		end;
+	end;
+end;
+
+procedure DropMedkit(ID: byte);
+begin
+	SpawnKit(player[ID].X + iif_sint8(GetPlayerStat(ID, 'Direction') = '>', 20, -20), player[ID].Y - 10, 16);
+	WriteConsole( ID, t(166, player[ID].translation, 'Medical kit dropped'), GOOD );
+	SendToLive('medkit '+inttostr(player[ID].Team))
+end;
+
+procedure Medkits(Team: byte);
+begin
+	if Medic[Team].KitTimer > 0 then begin
+		Medic[Team].KitTimer := Medic[Team].KitTimer - 1;
+		if Medic[Team].KitTimer = 0 then
+			WriteConsole(Medic[Team].ID, t(167, player[Medic[Team].ID].translation, 'Medical kit available! Type /kit to drop a medikit'), GOOD );
+	end else if Medic[Team].KitTimer = -1 then
+		if abs(player[Medic[Team].ID].vx + player[Medic[Team].ID].vy) < 0.2 then begin
+			DropMedkit(Medic[Team].ID);
+			Medic[Team].KitTimer := MEDIKITWAITTIME;
+		end;
+end;
+
+procedure MedicAOI(Team: byte);
+begin
+	player[Medic[Team].ID].VX := GetPlayerStat(Medic[Team].ID, 'VelX');
+	player[Medic[Team].ID].VY := GetPlayerStat(Medic[Team].ID, 'VelY');
+	GetPlayerXY(Medic[Team].ID, player[Medic[Team].ID].X, player[Medic[Team].ID].Y);
+	SelfHeal(Medic[Team].ID);
+	Medkits(Team);
+end;
+
+procedure OnMedicRespawn(ID: byte);
+begin
+end;
+
+function OnMedicCommand(ID: byte; var Text: string): boolean;
+begin
+	Result := True;
+	case LowerCase(GetPiece(Text, ' ', 0)) of
+		'/kit': begin
+			if player[ID].alive then begin
+				if Medic[player[ID].team].KitTimer = 0 then begin
+					if Abs(player[ID].vx) > 2 then
+						Medic[player[ID].team].KitTimer := -1
+					else begin
+						DropMedkit(ID);
+						Medic[player[ID].team].KitTimer := MEDIKITWAITTIME;
+					end;
+				end else WriteConsole(ID, t(168, player[ID].translation, 'You have no medical kit at the moment'), BAD);
+			end else WriteConsole(ID, t(169, player[ID].translation, 'You have to be alive to drop a kit'), BAD);
+		end;
+		
+		else Result := False;
+	end;
+end;
+
+procedure OnMedicWeaponChange(ID, PrimaryNum, SecondaryNum: Byte);
+var
+	i: byte;
+begin
+	GetPlayerXY(ID, player[ID].X, player[ID].Y);
+	for i := 1 to MaxID do
+		if i <> ID then
+			if player[i].alive then begin
+				GetPlayerXY(i, player[i].X, player[i].Y);
+				if IsInRange(player[ID].X, player[ID].Y, player[i].X, player[i].Y, MEDIC_HEAL_RANGE) then
+					Heal(ID, i);
+			end;
+end;

@@ -1,0 +1,1777 @@
+20-05-08 21:02:18    Console Log Started
+20-05-08 21:02:18 Welcome to Soldat 1.7.1
+20-05-08 21:02:18  [*] Preparing scripts to be launched
+20-05-08 21:02:18  [*] Compiling Gather_new -> Gather.pas...
+20-05-08 21:02:18  [*] Compiling Gather_new -> TTWGather.pas...
+20-05-08 21:02:18  [*] Compiling Gather_new -> TWGather.pas...
+20-05-08 21:02:18  [*] Compiling Gather_new -> ONSGather.pas...
+20-05-08 21:02:18  [*] Compiling Gather_new -> MModGather.pas...
+20-05-08 21:02:18  [*] Compiling Gather_new -> MMGather.pas...
+20-05-08 21:02:18  [*] Compiling Gather_new -> PORGather.pas...
+20-05-08 21:02:18  [*] Compiling Gather_new -> M79cGather.pas...
+20-05-08 21:02:18  [*] Compiling Gather_new -> Events.pas...
+20-05-08 21:02:18  [*] Gather_new compiled
+20-05-08 21:02:18  [*] [gbl] Loading bytecode
+20-05-08 21:02:18  [*] [gbl] Bytecode loaded
+20-05-08 21:02:18  [*] Compiling New TTW -> header.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/headers/text.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/headers/strikes.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/headers/core.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/headers/kits.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/headers/locale.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/headers/bunkers.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/headers/mines.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/headers/statguns.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/headers/burning_areas.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/headers/paraqueue.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> functions/functions.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> functions/iif.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> functions/geoip_functions.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> functions/ballistic_functions.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> functions/mersenne.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> functions/quicksort.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> functions/array_tools.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/gatherout.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/kits.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/burning_areas.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/locale.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/messages.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/text.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/bunkers.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/lang.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/spectator_interface.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Tasks/headers/long.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Tasks/headers/short.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Tasks/headers/medic.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Tasks/headers/general.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Tasks/headers/radioman.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Tasks/headers/engineer.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Tasks/headers/saboteur.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Tasks/headers/spy.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Tasks/headers/elite.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Tasks/headers/artillery.h.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/paraqueue.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/statguns.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/mines.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/strikes/enemybase.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/strikes/napalm.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/strikes/cluster.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/strikes/burst.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/strikes/nuke.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/strikes/airco.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/strikes/zeppelin.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/strikes/barrage.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/strikes.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/core.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Tasks/medic.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Tasks/long.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Tasks/short.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Tasks/general.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Tasks/radioman.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Tasks/engineer.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Tasks/saboteur.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Tasks/spy.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Tasks/artillery.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/reset.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> Game/gatherinc.pas...
+20-05-08 21:02:18  [*] Compiling New TTW -> events.pas...
+20-05-08 21:02:18  [*] New TTW -> [Hint] (5761:2): Variable 'I' never used
+20-05-08 21:02:18  [*] New TTW compiled
+20-05-08 21:02:18  [*] Done
+20-05-08 21:02:18 Server password changed to 1
+20-05-08 21:02:18 [GBL] Updating global banlist.
+20-05-08 21:02:18 [Error] GetURL: Function Disabled (SafeMode = ON)
+20-05-08 21:02:18 Friendly Fire is 60
+20-05-08 21:02:18 <New TTW> Loaded DE translation (56)
+20-05-08 21:02:18 <New TTW> Loaded FR translation (74)
+20-05-08 21:02:18 <New TTW> Loaded HR translation (97)
+20-05-08 21:02:18 <New TTW> Loaded NL translation (161)
+20-05-08 21:02:18 <New TTW> Loaded PL translation (174)
+20-05-08 21:02:18 <New TTW> Loaded RU translation (185)
+20-05-08 21:02:18 <New TTW> Loaded TR translation (217)
+20-05-08 21:02:18 Anoxi, The End.
+20-05-08 21:02:18 <New TTW> Initializing bunkers...
+20-05-08 21:02:18 <New TTW> File not found, parsing map...
+20-05-08 21:02:18 <New TTW> Done, 7 bunkers loaded
+20-05-08 21:02:18 Realistic Mode ON
+20-05-08 21:02:18 Loaded weapons mod "Tactical Trenchwars v1.6.4"
+20-05-08 21:02:18  Connection for file server started. Port: 23083
+20-05-08 21:02:18 [WARNING] Can't keep up, tick took 727670687ms
+20-05-08 21:02:19 [STEAM] Connected to Steam
+20-05-08 21:02:20 [STEAM] GSPolicyResponse_t (VAC): 1
+20-05-08 21:02:20  [*] Looking for modes...
+20-05-08 21:02:20  [*] New TTW: Gather_new found
+20-05-08 21:02:20  [*] Found Modecore TTW
+20-05-08 21:02:20  [*] GatherMode: TTW
+20-05-08 21:02:20  [*] New TTW: Gather pause set to: False
+20-05-08 21:02:20  [*] New TTW: GatherOn set to: 0
+20-05-08 21:02:26 Anoxi, The End.
+20-05-08 21:02:26 <New TTW> Initializing bunkers...
+20-05-08 21:02:26 <New TTW> File not found, parsing map...
+20-05-08 21:02:26 <New TTW> Done, 7 bunkers loaded
+20-05-08 21:02:26 [WARNING] Can't keep up, tick took 109ms
+20-05-08 21:03:15 Admin connected (127.0.0.1).
+20-05-08 21:03:15 Admin connected (73.132.125.236).
+20-05-08 21:03:15 /maxplayers (127.0.0.1)
+20-05-08 21:03:15 Max players is 32
+20-05-08 21:03:15 /maxrespawntime (127.0.0.1)
+20-05-08 21:03:15 Maximum Respawn time is 6 seconds
+20-05-08 21:03:15 /respawntime (127.0.0.1)
+20-05-08 21:03:15 Respawn time is 5 seconds
+20-05-08 21:03:15 /limit (127.0.0.1)
+20-05-08 21:03:15 Current kill/point/capture limit is 50
+20-05-08 21:03:15 /timelimit (127.0.0.1)
+20-05-08 21:03:15 Current time limit is 99999 minutes
+20-05-08 21:03:15 /friendlyfire (127.0.0.1)
+20-05-08 21:03:15 Friendly Fire is 60
+20-05-08 21:03:15 /scripting (127.0.0.1)
+20-05-08 21:03:15 Scripting is currently Enabled (1)
+20-05-08 21:03:15 /balance (127.0.0.1)
+20-05-08 21:03:15 Bot Balance is off (0)
+20-05-08 21:03:15 /bonus (127.0.0.1)
+20-05-08 21:03:15 Current bonus frequency is 0
+20-05-08 21:03:15 /vote% (127.0.0.1)
+20-05-08 21:03:15 Voting percent is 60
+20-05-08 21:03:15 /maxplayers (73.132.125.236)
+20-05-08 21:03:15 Max players is 32
+20-05-08 21:03:15 /maxrespawntime (73.132.125.236)
+20-05-08 21:03:15 Maximum Respawn time is 6 seconds
+20-05-08 21:03:15 /respawntime (73.132.125.236)
+20-05-08 21:03:15 Respawn time is 5 seconds
+20-05-08 21:03:15 /limit (73.132.125.236)
+20-05-08 21:03:15 Current kill/point/capture limit is 50
+20-05-08 21:03:15 /timelimit (73.132.125.236)
+20-05-08 21:03:15 Current time limit is 99999 minutes
+20-05-08 21:03:15 /friendlyfire (73.132.125.236)
+20-05-08 21:03:15 Friendly Fire is 60
+20-05-08 21:03:15 /scripting (73.132.125.236)
+20-05-08 21:03:15 Scripting is currently Enabled (1)
+20-05-08 21:03:15 /balance (73.132.125.236)
+20-05-08 21:03:15 Bot Balance is off (0)
+20-05-08 21:03:15 /bonus (73.132.125.236)
+20-05-08 21:03:15 Current bonus frequency is 0
+20-05-08 21:03:15 /vote% (73.132.125.236)
+20-05-08 21:03:15 Voting percent is 60
+20-05-08 21:03:56 73.132.125.236:23076|571918EE790 requesting game...
+20-05-08 21:04:03 Garrett joining game (73.132.125.236:23076) HWID:571918EE790
+20-05-08 21:04:03 Garrett has joined alpha team.
+20-05-08 21:04:03 <New TTW> Garrett assigned to task 2
+20-05-08 21:04:03 [WARNING] Can't keep up, tick took 375ms
+20-05-08 21:04:03 --- hwid 571918EE790 Garrett
+20-05-08 21:04:03 [STEAM] Succesfully authenticated: Garrett (73.132.125.236:23076) as 76561198001340283 [S41074555] 
+20-05-08 21:04:04 --- hwid 571918EE790 Garrett
+20-05-08 21:04:05 --- hwid 571918EE790 Garrett
+20-05-08 21:04:06 --- hwid 571918EE790 Garrett
+20-05-08 21:04:07 --- hwid 571918EE790 Garrett
+20-05-08 21:04:08 --- hwid 571918EE790 Garrett
+20-05-08 21:04:09 --- hwid 571918EE790 Garrett
+20-05-08 21:04:10 --- hwid 571918EE790 Garrett
+20-05-08 21:04:11 --- hwid 571918EE790 Garrett
+20-05-08 21:04:12 --- hwid 571918EE790 Garrett
+20-05-08 21:04:13 --- hwid 571918EE790 Garrett
+20-05-08 21:04:14 --- hwid 571918EE790 Garrett
+20-05-08 21:04:15 --- hwid 571918EE790 Garrett
+20-05-08 21:04:16 --- hwid 571918EE790 Garrett
+20-05-08 21:04:17 --- hwid 571918EE790 Garrett
+20-05-08 21:04:18 --- hwid 571918EE790 Garrett
+20-05-08 21:04:19 --- hwid 571918EE790 Garrett
+20-05-08 21:04:20 --- hwid 571918EE790 Garrett
+20-05-08 21:04:21 --- hwid 571918EE790 Garrett
+20-05-08 21:04:22 --- hwid 571918EE790 Garrett
+20-05-08 21:04:23 --- hwid 571918EE790 Garrett
+20-05-08 21:04:24 --- hwid 571918EE790 Garrett
+20-05-08 21:04:25 [Garrett] !help
+20-05-08 21:04:25 --- hwid 571918EE790 Garrett
+20-05-08 21:04:26 --- hwid 571918EE790 Garrett
+20-05-08 21:04:27 --- hwid 571918EE790 Garrett
+20-05-08 21:04:28 --- hwid 571918EE790 Garrett
+20-05-08 21:04:29 --- hwid 571918EE790 Garrett
+20-05-08 21:04:30 --- hwid 571918EE790 Garrett
+20-05-08 21:04:31 --- hwid 571918EE790 Garrett
+20-05-08 21:04:32 --- hwid 571918EE790 Garrett
+20-05-08 21:04:33 --- hwid 571918EE790 Garrett
+20-05-08 21:04:34 --- hwid 571918EE790 Garrett
+20-05-08 21:04:35 [CMD] SRI (Garrett): /commands
+20-05-08 21:04:35 --- hwid 571918EE790 Garrett
+20-05-08 21:04:36 --- hwid 571918EE790 Garrett
+20-05-08 21:04:37 --- hwid 571918EE790 Garrett
+20-05-08 21:04:38 --- hwid 571918EE790 Garrett
+20-05-08 21:04:39 --- hwid 571918EE790 Garrett
+20-05-08 21:04:40 --- hwid 571918EE790 Garrett
+20-05-08 21:04:41 --- hwid 571918EE790 Garrett
+20-05-08 21:04:42 --- hwid 571918EE790 Garrett
+20-05-08 21:04:43 --- hwid 571918EE790 Garrett
+20-05-08 21:04:44 --- hwid 571918EE790 Garrett
+20-05-08 21:04:45 --- hwid 571918EE790 Garrett
+20-05-08 21:04:46 --- hwid 571918EE790 Garrett
+20-05-08 21:04:47 --- hwid 571918EE790 Garrett
+20-05-08 21:04:48 --- hwid 571918EE790 Garrett
+20-05-08 21:04:49 --- hwid 571918EE790 Garrett
+20-05-08 21:04:50 --- hwid 571918EE790 Garrett
+20-05-08 21:04:51 --- hwid 571918EE790 Garrett
+20-05-08 21:04:52 --- hwid 571918EE790 Garrett
+20-05-08 21:04:53 --- hwid 571918EE790 Garrett
+20-05-08 21:04:54 --- hwid 571918EE790 Garrett
+20-05-08 21:04:55 --- hwid 571918EE790 Garrett
+20-05-08 21:04:56 --- hwid 571918EE790 Garrett
+20-05-08 21:04:57 --- hwid 571918EE790 Garrett
+20-05-08 21:04:58 --- hwid 571918EE790 Garrett
+20-05-08 21:04:59 --- hwid 571918EE790 Garrett
+20-05-08 21:05:00 --- hwid 571918EE790 Garrett
+20-05-08 21:05:01 --- hwid 571918EE790 Garrett
+20-05-08 21:05:02 --- hwid 571918EE790 Garrett
+20-05-08 21:05:03 --- hwid 571918EE790 Garrett
+20-05-08 21:05:04 --- hwid 571918EE790 Garrett
+20-05-08 21:05:05 --- hwid 571918EE790 Garrett
+20-05-08 21:05:06 --- hwid 571918EE790 Garrett
+20-05-08 21:05:07 --- hwid 571918EE790 Garrett
+20-05-08 21:05:08 --- hwid 571918EE790 Garrett
+20-05-08 21:05:09 --- hwid 571918EE790 Garrett
+20-05-08 21:05:10 --- hwid 571918EE790 Garrett
+20-05-08 21:05:11 --- hwid 571918EE790 Garrett
+20-05-08 21:05:12 --- hwid 571918EE790 Garrett
+20-05-08 21:05:13 --- hwid 571918EE790 Garrett
+20-05-08 21:05:14 --- hwid 571918EE790 Garrett
+20-05-08 21:05:15 --- hwid 571918EE790 Garrett
+20-05-08 21:05:16 --- hwid 571918EE790 Garrett
+20-05-08 21:05:17 --- hwid 571918EE790 Garrett
+20-05-08 21:05:18 --- hwid 571918EE790 Garrett
+20-05-08 21:05:19 --- hwid 571918EE790 Garrett
+20-05-08 21:05:20 --- hwid 571918EE790 Garrett
+20-05-08 21:05:21 --- hwid 571918EE790 Garrett
+20-05-08 21:05:22 --- hwid 571918EE790 Garrett
+20-05-08 21:05:23 --- hwid 571918EE790 Garrett
+20-05-08 21:05:24 --- hwid 571918EE790 Garrett
+20-05-08 21:05:25 --- hwid 571918EE790 Garrett
+20-05-08 21:05:26 --- hwid 571918EE790 Garrett
+20-05-08 21:05:27 --- hwid 571918EE790 Garrett
+20-05-08 21:05:28 --- hwid 571918EE790 Garrett
+20-05-08 21:05:29 --- hwid 571918EE790 Garrett
+20-05-08 21:05:30 --- hwid 571918EE790 Garrett
+20-05-08 21:05:31 --- hwid 571918EE790 Garrett
+20-05-08 21:05:32 --- hwid 571918EE790 Garrett
+20-05-08 21:05:33 --- hwid 571918EE790 Garrett
+20-05-08 21:05:34 --- hwid 571918EE790 Garrett
+20-05-08 21:05:35 --- hwid 571918EE790 Garrett
+20-05-08 21:05:36 --- hwid 571918EE790 Garrett
+20-05-08 21:05:37 --- hwid 571918EE790 Garrett
+20-05-08 21:05:38 --- hwid 571918EE790 Garrett
+20-05-08 21:05:39 --- hwid 571918EE790 Garrett
+20-05-08 21:05:40 --- hwid 571918EE790 Garrett
+20-05-08 21:05:41 --- hwid 571918EE790 Garrett
+20-05-08 21:05:42 --- hwid 571918EE790 Garrett
+20-05-08 21:05:43 --- hwid 571918EE790 Garrett
+20-05-08 21:05:44 --- hwid 571918EE790 Garrett
+20-05-08 21:05:45 --- hwid 571918EE790 Garrett
+20-05-08 21:05:46 --- hwid 571918EE790 Garrett
+20-05-08 21:05:47 --- hwid 571918EE790 Garrett
+20-05-08 21:05:48 --- hwid 571918EE790 Garrett
+20-05-08 21:05:49 --- hwid 571918EE790 Garrett
+20-05-08 21:05:50 --- hwid 571918EE790 Garrett
+20-05-08 21:05:51 --- hwid 571918EE790 Garrett
+20-05-08 21:05:52 --- hwid 571918EE790 Garrett
+20-05-08 21:05:53 --- hwid 571918EE790 Garrett
+20-05-08 21:05:54 --- hwid 571918EE790 Garrett
+20-05-08 21:05:55 --- hwid 571918EE790 Garrett
+20-05-08 21:05:56 --- hwid 571918EE790 Garrett
+20-05-08 21:05:57 --- hwid 571918EE790 Garrett
+20-05-08 21:05:58 --- hwid 571918EE790 Garrett
+20-05-08 21:05:59 --- hwid 571918EE790 Garrett
+20-05-08 21:06:00 --- hwid 571918EE790 Garrett
+20-05-08 21:06:01 --- hwid 571918EE790 Garrett
+20-05-08 21:06:02 --- hwid 571918EE790 Garrett
+20-05-08 21:06:03 --- hwid 571918EE790 Garrett
+20-05-08 21:06:04 --- hwid 571918EE790 Garrett
+20-05-08 21:06:05 --- hwid 571918EE790 Garrett
+20-05-08 21:06:06 [WARNING] Can't keep up, tick took 203ms
+20-05-08 21:06:06 --- hwid 571918EE790 Garrett
+20-05-08 21:06:07 --- hwid 571918EE790 Garrett
+20-05-08 21:06:08 --- hwid 571918EE790 Garrett
+20-05-08 21:06:09 --- hwid 571918EE790 Garrett
+20-05-08 21:06:10 --- hwid 571918EE790 Garrett
+20-05-08 21:06:11 --- hwid 571918EE790 Garrett
+20-05-08 21:06:12 --- hwid 571918EE790 Garrett
+20-05-08 21:06:13 --- hwid 571918EE790 Garrett
+20-05-08 21:06:14 --- hwid 571918EE790 Garrett
+20-05-08 21:06:15 --- hwid 571918EE790 Garrett
+20-05-08 21:06:16 --- hwid 571918EE790 Garrett
+20-05-08 21:06:17 --- hwid 571918EE790 Garrett
+20-05-08 21:06:18 --- hwid 571918EE790 Garrett
+20-05-08 21:06:19 --- hwid 571918EE790 Garrett
+20-05-08 21:06:20 --- hwid 571918EE790 Garrett
+20-05-08 21:06:21 --- hwid 571918EE790 Garrett
+20-05-08 21:06:22 --- hwid 571918EE790 Garrett
+20-05-08 21:06:23 --- hwid 571918EE790 Garrett
+20-05-08 21:06:24 --- hwid 571918EE790 Garrett
+20-05-08 21:06:25 --- hwid 571918EE790 Garrett
+20-05-08 21:06:26 Time Left: 99995 minutes
+20-05-08 21:06:26 --- hwid 571918EE790 Garrett
+20-05-08 21:06:27 --- hwid 571918EE790 Garrett
+20-05-08 21:06:28 --- hwid 571918EE790 Garrett
+20-05-08 21:06:29 --- hwid 571918EE790 Garrett
+20-05-08 21:06:30 --- hwid 571918EE790 Garrett
+20-05-08 21:06:31 --- hwid 571918EE790 Garrett
+20-05-08 21:06:32 --- hwid 571918EE790 Garrett
+20-05-08 21:06:33 --- hwid 571918EE790 Garrett
+20-05-08 21:06:34 --- hwid 571918EE790 Garrett
+20-05-08 21:06:35 --- hwid 571918EE790 Garrett
+20-05-08 21:06:36 --- hwid 571918EE790 Garrett
+20-05-08 21:06:37 --- hwid 571918EE790 Garrett
+20-05-08 21:06:38 --- hwid 571918EE790 Garrett
+20-05-08 21:06:39 --- hwid 571918EE790 Garrett
+20-05-08 21:06:40 --- hwid 571918EE790 Garrett
+20-05-08 21:06:41 --- hwid 571918EE790 Garrett
+20-05-08 21:06:42 --- hwid 571918EE790 Garrett
+20-05-08 21:06:43 --- hwid 571918EE790 Garrett
+20-05-08 21:06:44 --- hwid 571918EE790 Garrett
+20-05-08 21:06:45 --- hwid 571918EE790 Garrett
+20-05-08 21:06:46 --- hwid 571918EE790 Garrett
+20-05-08 21:06:47 --- hwid 571918EE790 Garrett
+20-05-08 21:06:48 --- hwid 571918EE790 Garrett
+20-05-08 21:06:49 --- hwid 571918EE790 Garrett
+20-05-08 21:06:50 --- hwid 571918EE790 Garrett
+20-05-08 21:06:51 --- hwid 571918EE790 Garrett
+20-05-08 21:06:52 --- hwid 571918EE790 Garrett
+20-05-08 21:06:53 --- hwid 571918EE790 Garrett
+20-05-08 21:06:54 --- hwid 571918EE790 Garrett
+20-05-08 21:06:55 --- hwid 571918EE790 Garrett
+20-05-08 21:06:56 --- hwid 571918EE790 Garrett
+20-05-08 21:06:57 --- hwid 571918EE790 Garrett
+20-05-08 21:06:58 --- hwid 571918EE790 Garrett
+20-05-08 21:06:59 --- hwid 571918EE790 Garrett
+20-05-08 21:07:00 --- hwid 571918EE790 Garrett
+20-05-08 21:07:01 --- hwid 571918EE790 Garrett
+20-05-08 21:07:02 --- hwid 571918EE790 Garrett
+20-05-08 21:07:03 --- hwid 571918EE790 Garrett
+20-05-08 21:07:04 --- hwid 571918EE790 Garrett
+20-05-08 21:07:05 --- hwid 571918EE790 Garrett
+20-05-08 21:07:06 --- hwid 571918EE790 Garrett
+20-05-08 21:07:07 --- hwid 571918EE790 Garrett
+20-05-08 21:07:08 --- hwid 571918EE790 Garrett
+20-05-08 21:07:09 --- hwid 571918EE790 Garrett
+20-05-08 21:07:09 [CMD] SRI (Garrett): /ticks
+20-05-08 21:07:10 --- hwid 571918EE790 Garrett
+20-05-08 21:07:11 --- hwid 571918EE790 Garrett
+20-05-08 21:07:12 --- hwid 571918EE790 Garrett
+20-05-08 21:07:13 --- hwid 571918EE790 Garrett
+20-05-08 21:07:14 [CMD] SRI (Garrett): /gen
+20-05-08 21:07:14 <New TTW> Garrett assigned to task 4
+20-05-08 21:07:14 [WARNING] Can't keep up, tick took 360ms
+20-05-08 21:07:14 --- hwid 571918EE790 Garrett
+20-05-08 21:07:15 --- hwid 571918EE790 Garrett
+20-05-08 21:07:16 --- hwid 571918EE790 Garrett
+20-05-08 21:07:17 --- hwid 571918EE790 Garrett
+20-05-08 21:07:18 --- hwid 571918EE790 Garrett
+20-05-08 21:07:19 --- hwid 571918EE790 Garrett
+20-05-08 21:07:20 --- hwid 571918EE790 Garrett
+20-05-08 21:07:21 --- hwid 571918EE790 Garrett
+20-05-08 21:07:22 --- hwid 571918EE790 Garrett
+20-05-08 21:07:23 --- hwid 571918EE790 Garrett
+20-05-08 21:07:24 --- hwid 571918EE790 Garrett
+20-05-08 21:07:25 --- hwid 571918EE790 Garrett
+20-05-08 21:07:26 --- hwid 571918EE790 Garrett
+20-05-08 21:07:27 --- hwid 571918EE790 Garrett
+20-05-08 21:07:28 --- hwid 571918EE790 Garrett
+20-05-08 21:07:29 --- hwid 571918EE790 Garrett
+20-05-08 21:07:30 --- hwid 571918EE790 Garrett
+20-05-08 21:07:31 --- hwid 571918EE790 Garrett
+20-05-08 21:07:32 --- hwid 571918EE790 Garrett
+20-05-08 21:07:33 --- hwid 571918EE790 Garrett
+20-05-08 21:07:34 --- hwid 571918EE790 Garrett
+20-05-08 21:07:35 --- hwid 571918EE790 Garrett
+20-05-08 21:07:36 --- hwid 571918EE790 Garrett
+20-05-08 21:07:37 --- hwid 571918EE790 Garrett
+20-05-08 21:07:38 --- hwid 571918EE790 Garrett
+20-05-08 21:07:39 --- hwid 571918EE790 Garrett
+20-05-08 21:07:40 --- hwid 571918EE790 Garrett
+20-05-08 21:07:41 --- hwid 571918EE790 Garrett
+20-05-08 21:07:42 --- hwid 571918EE790 Garrett
+20-05-08 21:07:43 --- hwid 571918EE790 Garrett
+20-05-08 21:07:44 [CMD] Gen (Garrett): /conq
+20-05-08 21:07:44 --- hwid 571918EE790 Garrett
+20-05-08 21:07:45 --- hwid 571918EE790 Garrett
+20-05-08 21:07:46 --- hwid 571918EE790 Garrett
+20-05-08 21:07:47 --- hwid 571918EE790 Garrett
+20-05-08 21:07:48 --- hwid 571918EE790 Garrett
+20-05-08 21:07:49 --- hwid 571918EE790 Garrett
+20-05-08 21:07:50 --- hwid 571918EE790 Garrett
+20-05-08 21:07:51 --- hwid 571918EE790 Garrett
+20-05-08 21:07:52 --- hwid 571918EE790 Garrett
+20-05-08 21:07:53 --- hwid 571918EE790 Garrett
+20-05-08 21:07:54 --- hwid 571918EE790 Garrett
+20-05-08 21:07:55 --- hwid 571918EE790 Garrett
+20-05-08 21:07:56 --- hwid 571918EE790 Garrett
+20-05-08 21:07:57 --- hwid 571918EE790 Garrett
+20-05-08 21:07:58 --- hwid 571918EE790 Garrett
+20-05-08 21:07:59 --- hwid 571918EE790 Garrett
+20-05-08 21:08:00 --- hwid 571918EE790 Garrett
+20-05-08 21:08:01 --- hwid 571918EE790 Garrett
+20-05-08 21:08:02 --- hwid 571918EE790 Garrett
+20-05-08 21:08:03 --- hwid 571918EE790 Garrett
+20-05-08 21:08:04 [CMD] Gen (Garrett): /conq
+20-05-08 21:08:04 --- hwid 571918EE790 Garrett
+20-05-08 21:08:05 --- hwid 571918EE790 Garrett
+20-05-08 21:08:06 --- hwid 571918EE790 Garrett
+20-05-08 21:08:07 --- hwid 571918EE790 Garrett
+20-05-08 21:08:08 --- hwid 571918EE790 Garrett
+20-05-08 21:08:09 --- hwid 571918EE790 Garrett
+20-05-08 21:08:10 --- hwid 571918EE790 Garrett
+20-05-08 21:08:11 --- hwid 571918EE790 Garrett
+20-05-08 21:08:12 --- hwid 571918EE790 Garrett
+20-05-08 21:08:13 --- hwid 571918EE790 Garrett
+20-05-08 21:08:13 [CMD] Gen (Garrett): /ticks
+20-05-08 21:08:14 --- hwid 571918EE790 Garrett
+20-05-08 21:08:15 --- hwid 571918EE790 Garrett
+20-05-08 21:08:16 --- hwid 571918EE790 Garrett
+20-05-08 21:08:17 --- hwid 571918EE790 Garrett
+20-05-08 21:08:18 --- hwid 571918EE790 Garrett
+20-05-08 21:08:19 --- hwid 571918EE790 Garrett
+20-05-08 21:08:20 --- hwid 571918EE790 Garrett
+20-05-08 21:08:21 --- hwid 571918EE790 Garrett
+20-05-08 21:08:22 --- hwid 571918EE790 Garrett
+20-05-08 21:08:23 --- hwid 571918EE790 Garrett
+20-05-08 21:08:24 --- hwid 571918EE790 Garrett
+20-05-08 21:08:25 --- hwid 571918EE790 Garrett
+20-05-08 21:08:26 --- hwid 571918EE790 Garrett
+20-05-08 21:08:27 --- hwid 571918EE790 Garrett
+20-05-08 21:08:28 --- hwid 571918EE790 Garrett
+20-05-08 21:08:29 --- hwid 571918EE790 Garrett
+20-05-08 21:08:30 --- hwid 571918EE790 Garrett
+20-05-08 21:08:31 --- hwid 571918EE790 Garrett
+20-05-08 21:08:32 --- hwid 571918EE790 Garrett
+20-05-08 21:08:33 --- hwid 571918EE790 Garrett
+20-05-08 21:08:34 --- hwid 571918EE790 Garrett
+20-05-08 21:08:35 --- hwid 571918EE790 Garrett
+20-05-08 21:08:36 --- hwid 571918EE790 Garrett
+20-05-08 21:08:37 --- hwid 571918EE790 Garrett
+20-05-08 21:08:38 --- hwid 571918EE790 Garrett
+20-05-08 21:08:39 --- hwid 571918EE790 Garrett
+20-05-08 21:08:40 --- hwid 571918EE790 Garrett
+20-05-08 21:08:41 --- hwid 571918EE790 Garrett
+20-05-08 21:08:42 --- hwid 571918EE790 Garrett
+20-05-08 21:08:43 --- hwid 571918EE790 Garrett
+20-05-08 21:08:44 --- hwid 571918EE790 Garrett
+20-05-08 21:08:45 --- hwid 571918EE790 Garrett
+20-05-08 21:08:46 --- hwid 571918EE790 Garrett
+20-05-08 21:08:47 --- hwid 571918EE790 Garrett
+20-05-08 21:08:48 --- hwid 571918EE790 Garrett
+20-05-08 21:08:49 --- hwid 571918EE790 Garrett
+20-05-08 21:08:50 --- hwid 571918EE790 Garrett
+20-05-08 21:08:51 --- hwid 571918EE790 Garrett
+20-05-08 21:08:52 --- hwid 571918EE790 Garrett
+20-05-08 21:08:53 --- hwid 571918EE790 Garrett
+20-05-08 21:08:54 --- hwid 571918EE790 Garrett
+20-05-08 21:08:55 --- hwid 571918EE790 Garrett
+20-05-08 21:08:56 --- hwid 571918EE790 Garrett
+20-05-08 21:08:57 --- hwid 571918EE790 Garrett
+20-05-08 21:08:58 --- hwid 571918EE790 Garrett
+20-05-08 21:08:59 --- hwid 571918EE790 Garrett
+20-05-08 21:09:00 --- hwid 571918EE790 Garrett
+20-05-08 21:09:01 --- hwid 571918EE790 Garrett
+20-05-08 21:09:02 --- hwid 571918EE790 Garrett
+20-05-08 21:09:03 --- hwid 571918EE790 Garrett
+20-05-08 21:09:04 --- hwid 571918EE790 Garrett
+20-05-08 21:09:05 --- hwid 571918EE790 Garrett
+20-05-08 21:09:06 --- hwid 571918EE790 Garrett
+20-05-08 21:09:07 --- hwid 571918EE790 Garrett
+20-05-08 21:09:08 --- hwid 571918EE790 Garrett
+20-05-08 21:09:09 --- hwid 571918EE790 Garrett
+20-05-08 21:09:10 --- hwid 571918EE790 Garrett
+20-05-08 21:09:11 --- hwid 571918EE790 Garrett
+20-05-08 21:09:12 --- hwid 571918EE790 Garrett
+20-05-08 21:09:13 --- hwid 571918EE790 Garrett
+20-05-08 21:09:14 --- hwid 571918EE790 Garrett
+20-05-08 21:09:15 --- hwid 571918EE790 Garrett
+20-05-08 21:09:16 --- hwid 571918EE790 Garrett
+20-05-08 21:09:17 --- hwid 571918EE790 Garrett
+20-05-08 21:09:18 --- hwid 571918EE790 Garrett
+20-05-08 21:09:19 --- hwid 571918EE790 Garrett
+20-05-08 21:09:20 --- hwid 571918EE790 Garrett
+20-05-08 21:09:21 --- hwid 571918EE790 Garrett
+20-05-08 21:09:22 --- hwid 571918EE790 Garrett
+20-05-08 21:09:23 --- hwid 571918EE790 Garrett
+20-05-08 21:09:24 --- hwid 571918EE790 Garrett
+20-05-08 21:09:25 --- hwid 571918EE790 Garrett
+20-05-08 21:09:26 --- hwid 571918EE790 Garrett
+20-05-08 21:09:27 --- hwid 571918EE790 Garrett
+20-05-08 21:09:28 --- hwid 571918EE790 Garrett
+20-05-08 21:09:29 --- hwid 571918EE790 Garrett
+20-05-08 21:09:30 --- hwid 571918EE790 Garrett
+20-05-08 21:09:31 --- hwid 571918EE790 Garrett
+20-05-08 21:09:32 --- hwid 571918EE790 Garrett
+20-05-08 21:09:33 --- hwid 571918EE790 Garrett
+20-05-08 21:09:34 --- hwid 571918EE790 Garrett
+20-05-08 21:09:35 --- hwid 571918EE790 Garrett
+20-05-08 21:09:36 --- hwid 571918EE790 Garrett
+20-05-08 21:09:37 --- hwid 571918EE790 Garrett
+20-05-08 21:09:38 --- hwid 571918EE790 Garrett
+20-05-08 21:09:39 --- hwid 571918EE790 Garrett
+20-05-08 21:09:40 --- hwid 571918EE790 Garrett
+20-05-08 21:09:41 --- hwid 571918EE790 Garrett
+20-05-08 21:09:42 --- hwid 571918EE790 Garrett
+20-05-08 21:09:43 --- hwid 571918EE790 Garrett
+20-05-08 21:09:44 --- hwid 571918EE790 Garrett
+20-05-08 21:09:45 --- hwid 571918EE790 Garrett
+20-05-08 21:09:46 --- hwid 571918EE790 Garrett
+20-05-08 21:09:47 --- hwid 571918EE790 Garrett
+20-05-08 21:09:48 --- hwid 571918EE790 Garrett
+20-05-08 21:09:49 --- hwid 571918EE790 Garrett
+20-05-08 21:09:50 --- hwid 571918EE790 Garrett
+20-05-08 21:09:51 --- hwid 571918EE790 Garrett
+20-05-08 21:09:52 --- hwid 571918EE790 Garrett
+20-05-08 21:09:53 --- hwid 571918EE790 Garrett
+20-05-08 21:09:54 --- hwid 571918EE790 Garrett
+20-05-08 21:09:55 --- hwid 571918EE790 Garrett
+20-05-08 21:09:56 --- hwid 571918EE790 Garrett
+20-05-08 21:09:57 --- hwid 571918EE790 Garrett
+20-05-08 21:09:58 --- hwid 571918EE790 Garrett
+20-05-08 21:09:59 --- hwid 571918EE790 Garrett
+20-05-08 21:10:00 --- hwid 571918EE790 Garrett
+20-05-08 21:10:01 --- hwid 571918EE790 Garrett
+20-05-08 21:10:02 --- hwid 571918EE790 Garrett
+20-05-08 21:10:03 --- hwid 571918EE790 Garrett
+20-05-08 21:10:04 --- hwid 571918EE790 Garrett
+20-05-08 21:10:05 --- hwid 571918EE790 Garrett
+20-05-08 21:10:06 --- hwid 571918EE790 Garrett
+20-05-08 21:10:07 --- hwid 571918EE790 Garrett
+20-05-08 21:10:08 --- hwid 571918EE790 Garrett
+20-05-08 21:10:09 --- hwid 571918EE790 Garrett
+20-05-08 21:10:10 --- hwid 571918EE790 Garrett
+20-05-08 21:10:11 --- hwid 571918EE790 Garrett
+20-05-08 21:10:12 --- hwid 571918EE790 Garrett
+20-05-08 21:10:13 --- hwid 571918EE790 Garrett
+20-05-08 21:10:14 --- hwid 571918EE790 Garrett
+20-05-08 21:10:15 --- hwid 571918EE790 Garrett
+20-05-08 21:10:16 --- hwid 571918EE790 Garrett
+20-05-08 21:10:17 --- hwid 571918EE790 Garrett
+20-05-08 21:10:18 --- hwid 571918EE790 Garrett
+20-05-08 21:10:19 --- hwid 571918EE790 Garrett
+20-05-08 21:10:20 --- hwid 571918EE790 Garrett
+20-05-08 21:10:21 --- hwid 571918EE790 Garrett
+20-05-08 21:10:22 --- hwid 571918EE790 Garrett
+20-05-08 21:10:23 --- hwid 571918EE790 Garrett
+20-05-08 21:10:24 --- hwid 571918EE790 Garrett
+20-05-08 21:10:25 --- hwid 571918EE790 Garrett
+20-05-08 21:10:26 --- hwid 571918EE790 Garrett
+20-05-08 21:10:27 --- hwid 571918EE790 Garrett
+20-05-08 21:10:28 --- hwid 571918EE790 Garrett
+20-05-08 21:10:29 --- hwid 571918EE790 Garrett
+20-05-08 21:10:30 --- hwid 571918EE790 Garrett
+20-05-08 21:10:31 --- hwid 571918EE790 Garrett
+20-05-08 21:10:32 --- hwid 571918EE790 Garrett
+20-05-08 21:10:33 --- hwid 571918EE790 Garrett
+20-05-08 21:10:34 --- hwid 571918EE790 Garrett
+20-05-08 21:10:35 --- hwid 571918EE790 Garrett
+20-05-08 21:10:36 --- hwid 571918EE790 Garrett
+20-05-08 21:10:37 --- hwid 571918EE790 Garrett
+20-05-08 21:10:38 --- hwid 571918EE790 Garrett
+20-05-08 21:10:39 --- hwid 571918EE790 Garrett
+20-05-08 21:10:40 --- hwid 571918EE790 Garrett
+20-05-08 21:10:41 --- hwid 571918EE790 Garrett
+20-05-08 21:10:42 --- hwid 571918EE790 Garrett
+20-05-08 21:10:43 --- hwid 571918EE790 Garrett
+20-05-08 21:10:44 --- hwid 571918EE790 Garrett
+20-05-08 21:10:45 --- hwid 571918EE790 Garrett
+20-05-08 21:10:46 --- hwid 571918EE790 Garrett
+20-05-08 21:10:47 --- hwid 571918EE790 Garrett
+20-05-08 21:10:48 --- hwid 571918EE790 Garrett
+20-05-08 21:10:49 --- hwid 571918EE790 Garrett
+20-05-08 21:10:50 --- hwid 571918EE790 Garrett
+20-05-08 21:10:51 --- hwid 571918EE790 Garrett
+20-05-08 21:10:52 --- hwid 571918EE790 Garrett
+20-05-08 21:10:53 --- hwid 571918EE790 Garrett
+20-05-08 21:10:54 --- hwid 571918EE790 Garrett
+20-05-08 21:10:55 --- hwid 571918EE790 Garrett
+20-05-08 21:10:56 --- hwid 571918EE790 Garrett
+20-05-08 21:10:57 --- hwid 571918EE790 Garrett
+20-05-08 21:10:58 --- hwid 571918EE790 Garrett
+20-05-08 21:10:59 --- hwid 571918EE790 Garrett
+20-05-08 21:11:00 --- hwid 571918EE790 Garrett
+20-05-08 21:11:01 --- hwid 571918EE790 Garrett
+20-05-08 21:11:02 --- hwid 571918EE790 Garrett
+20-05-08 21:11:03 --- hwid 571918EE790 Garrett
+20-05-08 21:11:04 --- hwid 571918EE790 Garrett
+20-05-08 21:11:05 --- hwid 571918EE790 Garrett
+20-05-08 21:11:06 --- hwid 571918EE790 Garrett
+20-05-08 21:11:07 --- hwid 571918EE790 Garrett
+20-05-08 21:11:08 --- hwid 571918EE790 Garrett
+20-05-08 21:11:09 --- hwid 571918EE790 Garrett
+20-05-08 21:11:10 --- hwid 571918EE790 Garrett
+20-05-08 21:11:11 --- hwid 571918EE790 Garrett
+20-05-08 21:11:12 --- hwid 571918EE790 Garrett
+20-05-08 21:11:13 --- hwid 571918EE790 Garrett
+20-05-08 21:11:14 --- hwid 571918EE790 Garrett
+20-05-08 21:11:15 --- hwid 571918EE790 Garrett
+20-05-08 21:11:16 --- hwid 571918EE790 Garrett
+20-05-08 21:11:17 Garrett has left alpha team.
+20-05-08 21:11:17 [WARNING] Can't keep up, tick took 125ms
+20-05-08 21:11:21 73.132.125.236:23076|571918EE790 requesting game...
+20-05-08 21:11:26 Time Left: 99990 minutes
+20-05-08 21:11:27 Garrett joining game (73.132.125.236:23076) HWID:571918EE790
+20-05-08 21:11:27 Garrett has joined alpha team.
+20-05-08 21:11:27 <New TTW> Garrett assigned to task 2
+20-05-08 21:11:27 [WARNING] Can't keep up, tick took 359ms
+20-05-08 21:11:27 --- hwid 571918EE790 Garrett
+20-05-08 21:11:28 [STEAM] Succesfully authenticated: Garrett (73.132.125.236:23076) as 76561198001340283 [S41074555] 
+20-05-08 21:11:28 --- hwid 571918EE790 Garrett
+20-05-08 21:11:29 --- hwid 571918EE790 Garrett
+20-05-08 21:11:30 --- hwid 571918EE790 Garrett
+20-05-08 21:11:31 --- hwid 571918EE790 Garrett
+20-05-08 21:11:32 --- hwid 571918EE790 Garrett
+20-05-08 21:11:33 --- hwid 571918EE790 Garrett
+20-05-08 21:11:34 --- hwid 571918EE790 Garrett
+20-05-08 21:11:35 --- hwid 571918EE790 Garrett
+20-05-08 21:11:36 --- hwid 571918EE790 Garrett
+20-05-08 21:11:37 --- hwid 571918EE790 Garrett
+20-05-08 21:11:38 --- hwid 571918EE790 Garrett
+20-05-08 21:11:39 --- hwid 571918EE790 Garrett
+20-05-08 21:11:40 --- hwid 571918EE790 Garrett
+20-05-08 21:11:41 --- hwid 571918EE790 Garrett
+20-05-08 21:11:42 --- hwid 571918EE790 Garrett
+20-05-08 21:11:43 --- hwid 571918EE790 Garrett
+20-05-08 21:11:44 --- hwid 571918EE790 Garrett
+20-05-08 21:11:45 --- hwid 571918EE790 Garrett
+20-05-08 21:11:46 --- hwid 571918EE790 Garrett
+20-05-08 21:11:47 --- hwid 571918EE790 Garrett
+20-05-08 21:11:48 --- hwid 571918EE790 Garrett
+20-05-08 21:11:49 --- hwid 571918EE790 Garrett
+20-05-08 21:11:50 --- hwid 571918EE790 Garrett
+20-05-08 21:11:51 --- hwid 571918EE790 Garrett
+20-05-08 21:11:52 --- hwid 571918EE790 Garrett
+20-05-08 21:11:53 --- hwid 571918EE790 Garrett
+20-05-08 21:11:54 [CMD] SRI (Garrett): /ready
+20-05-08 21:11:54 --- hwid 571918EE790 Garrett
+20-05-08 21:11:55 --- hwid 571918EE790 Garrett
+20-05-08 21:11:56 --- hwid 571918EE790 Garrett
+20-05-08 21:11:57 --- hwid 571918EE790 Garrett
+20-05-08 21:11:58 --- hwid 571918EE790 Garrett
+20-05-08 21:11:59 --- hwid 571918EE790 Garrett
+20-05-08 21:12:00 --- hwid 571918EE790 Garrett
+20-05-08 21:12:00 [CMD] SRI (Garrett): /start
+20-05-08 21:12:01 --- hwid 571918EE790 Garrett
+20-05-08 21:12:02 --- hwid 571918EE790 Garrett
+20-05-08 21:12:03 --- hwid 571918EE790 Garrett
+20-05-08 21:12:03 [CMD] SRI (Garrett): /ready
+20-05-08 21:12:04 --- hwid 571918EE790 Garrett
+20-05-08 21:12:05 --- hwid 571918EE790 Garrett
+20-05-08 21:12:06 --- hwid 571918EE790 Garrett
+20-05-08 21:12:07 --- hwid 571918EE790 Garrett
+20-05-08 21:12:08 --- hwid 571918EE790 Garrett
+20-05-08 21:12:09 --- hwid 571918EE790 Garrett
+20-05-08 21:12:10 --- hwid 571918EE790 Garrett
+20-05-08 21:12:11 --- hwid 571918EE790 Garrett
+20-05-08 21:12:12 --- hwid 571918EE790 Garrett
+20-05-08 21:12:13 --- hwid 571918EE790 Garrett
+20-05-08 21:12:14 --- hwid 571918EE790 Garrett
+20-05-08 21:12:15 --- hwid 571918EE790 Garrett
+20-05-08 21:12:16 --- hwid 571918EE790 Garrett
+20-05-08 21:12:17 --- hwid 571918EE790 Garrett
+20-05-08 21:12:18 --- hwid 571918EE790 Garrett
+20-05-08 21:12:19 --- hwid 571918EE790 Garrett
+20-05-08 21:12:20 --- hwid 571918EE790 Garrett
+20-05-08 21:12:21 --- hwid 571918EE790 Garrett
+20-05-08 21:12:22 --- hwid 571918EE790 Garrett
+20-05-08 21:12:23 --- hwid 571918EE790 Garrett
+20-05-08 21:12:24 --- hwid 571918EE790 Garrett
+20-05-08 21:12:25 --- hwid 571918EE790 Garrett
+20-05-08 21:12:26 --- hwid 571918EE790 Garrett
+20-05-08 21:12:27 --- hwid 571918EE790 Garrett
+20-05-08 21:12:28 --- hwid 571918EE790 Garrett
+20-05-08 21:12:29 --- hwid 571918EE790 Garrett
+20-05-08 21:12:30 --- hwid 571918EE790 Garrett
+20-05-08 21:12:31 --- hwid 571918EE790 Garrett
+20-05-08 21:12:32 --- hwid 571918EE790 Garrett
+20-05-08 21:12:33 --- hwid 571918EE790 Garrett
+20-05-08 21:12:34 --- hwid 571918EE790 Garrett
+20-05-08 21:12:35 --- hwid 571918EE790 Garrett
+20-05-08 21:12:36 --- hwid 571918EE790 Garrett
+20-05-08 21:12:37 --- hwid 571918EE790 Garrett
+20-05-08 21:12:38 --- hwid 571918EE790 Garrett
+20-05-08 21:12:39 --- hwid 571918EE790 Garrett
+20-05-08 21:12:40 --- hwid 571918EE790 Garrett
+20-05-08 21:12:41 --- hwid 571918EE790 Garrett
+20-05-08 21:12:42 --- hwid 571918EE790 Garrett
+20-05-08 21:12:43 --- hwid 571918EE790 Garrett
+20-05-08 21:12:44 --- hwid 571918EE790 Garrett
+20-05-08 21:12:45 --- hwid 571918EE790 Garrett
+20-05-08 21:12:46 --- hwid 571918EE790 Garrett
+20-05-08 21:12:47 --- hwid 571918EE790 Garrett
+20-05-08 21:12:48 --- hwid 571918EE790 Garrett
+20-05-08 21:12:49 --- hwid 571918EE790 Garrett
+20-05-08 21:12:50 --- hwid 571918EE790 Garrett
+20-05-08 21:12:51 --- hwid 571918EE790 Garrett
+20-05-08 21:12:52 --- hwid 571918EE790 Garrett
+20-05-08 21:12:53 --- hwid 571918EE790 Garrett
+20-05-08 21:12:54 --- hwid 571918EE790 Garrett
+20-05-08 21:12:55 --- hwid 571918EE790 Garrett
+20-05-08 21:12:56 --- hwid 571918EE790 Garrett
+20-05-08 21:12:57 --- hwid 571918EE790 Garrett
+20-05-08 21:12:58 --- hwid 571918EE790 Garrett
+20-05-08 21:12:59 --- hwid 571918EE790 Garrett
+20-05-08 21:13:00 --- hwid 571918EE790 Garrett
+20-05-08 21:13:01 --- hwid 571918EE790 Garrett
+20-05-08 21:13:02 --- hwid 571918EE790 Garrett
+20-05-08 21:13:03 --- hwid 571918EE790 Garrett
+20-05-08 21:13:04 --- hwid 571918EE790 Garrett
+20-05-08 21:13:05 --- hwid 571918EE790 Garrett
+20-05-08 21:13:06 --- hwid 571918EE790 Garrett
+20-05-08 21:13:07 --- hwid 571918EE790 Garrett
+20-05-08 21:13:08 --- hwid 571918EE790 Garrett
+20-05-08 21:13:09 --- hwid 571918EE790 Garrett
+20-05-08 21:13:10 --- hwid 571918EE790 Garrett
+20-05-08 21:13:11 --- hwid 571918EE790 Garrett
+20-05-08 21:13:12 --- hwid 571918EE790 Garrett
+20-05-08 21:13:13 [Garrett] !reset
+20-05-08 21:13:13 --- hwid 571918EE790 Garrett
+20-05-08 21:13:14 --- hwid 571918EE790 Garrett
+20-05-08 21:13:15 --- hwid 571918EE790 Garrett
+20-05-08 21:13:16 --- hwid 571918EE790 Garrett
+20-05-08 21:13:17 --- hwid 571918EE790 Garrett
+20-05-08 21:13:18 --- hwid 571918EE790 Garrett
+20-05-08 21:13:19 --- hwid 571918EE790 Garrett
+20-05-08 21:13:20 --- hwid 571918EE790 Garrett
+20-05-08 21:13:21 --- hwid 571918EE790 Garrett
+20-05-08 21:13:22 --- hwid 571918EE790 Garrett
+20-05-08 21:13:23 --- hwid 571918EE790 Garrett
+20-05-08 21:13:24 --- hwid 571918EE790 Garrett
+20-05-08 21:13:25 --- hwid 571918EE790 Garrett
+20-05-08 21:13:26 --- hwid 571918EE790 Garrett
+20-05-08 21:13:27 --- hwid 571918EE790 Garrett
+20-05-08 21:13:28 --- hwid 571918EE790 Garrett
+20-05-08 21:13:29 --- hwid 571918EE790 Garrett
+20-05-08 21:13:30 --- hwid 571918EE790 Garrett
+20-05-08 21:13:31 --- hwid 571918EE790 Garrett
+20-05-08 21:13:32 --- hwid 571918EE790 Garrett
+20-05-08 21:13:33 --- hwid 571918EE790 Garrett
+20-05-08 21:13:34 --- hwid 571918EE790 Garrett
+20-05-08 21:13:35 --- hwid 571918EE790 Garrett
+20-05-08 21:13:36 --- hwid 571918EE790 Garrett
+20-05-08 21:13:37 --- hwid 571918EE790 Garrett
+20-05-08 21:13:38 --- hwid 571918EE790 Garrett
+20-05-08 21:13:39 --- hwid 571918EE790 Garrett
+20-05-08 21:13:40 --- hwid 571918EE790 Garrett
+20-05-08 21:13:41 --- hwid 571918EE790 Garrett
+20-05-08 21:13:42 --- hwid 571918EE790 Garrett
+20-05-08 21:13:43 --- hwid 571918EE790 Garrett
+20-05-08 21:13:44 --- hwid 571918EE790 Garrett
+20-05-08 21:13:45 --- hwid 571918EE790 Garrett
+20-05-08 21:13:46 --- hwid 571918EE790 Garrett
+20-05-08 21:13:47 --- hwid 571918EE790 Garrett
+20-05-08 21:13:48 --- hwid 571918EE790 Garrett
+20-05-08 21:13:49 --- hwid 571918EE790 Garrett
+20-05-08 21:13:50 --- hwid 571918EE790 Garrett
+20-05-08 21:13:51 --- hwid 571918EE790 Garrett
+20-05-08 21:13:52 --- hwid 571918EE790 Garrett
+20-05-08 21:13:53 --- hwid 571918EE790 Garrett
+20-05-08 21:13:54 --- hwid 571918EE790 Garrett
+20-05-08 21:13:55 --- hwid 571918EE790 Garrett
+20-05-08 21:13:56 --- hwid 571918EE790 Garrett
+20-05-08 21:13:57 --- hwid 571918EE790 Garrett
+20-05-08 21:13:58 --- hwid 571918EE790 Garrett
+20-05-08 21:13:59 --- hwid 571918EE790 Garrett
+20-05-08 21:14:00 --- hwid 571918EE790 Garrett
+20-05-08 21:14:01 --- hwid 571918EE790 Garrett
+20-05-08 21:14:02 --- hwid 571918EE790 Garrett
+20-05-08 21:14:03 --- hwid 571918EE790 Garrett
+20-05-08 21:14:04 --- hwid 571918EE790 Garrett
+20-05-08 21:14:05 --- hwid 571918EE790 Garrett
+20-05-08 21:14:06 --- hwid 571918EE790 Garrett
+20-05-08 21:14:07 --- hwid 571918EE790 Garrett
+20-05-08 21:14:08 --- hwid 571918EE790 Garrett
+20-05-08 21:14:09 --- hwid 571918EE790 Garrett
+20-05-08 21:14:10 --- hwid 571918EE790 Garrett
+20-05-08 21:14:11 --- hwid 571918EE790 Garrett
+20-05-08 21:14:12 --- hwid 571918EE790 Garrett
+20-05-08 21:14:13 --- hwid 571918EE790 Garrett
+20-05-08 21:14:14 --- hwid 571918EE790 Garrett
+20-05-08 21:14:15 --- hwid 571918EE790 Garrett
+20-05-08 21:14:16 --- hwid 571918EE790 Garrett
+20-05-08 21:14:17 --- hwid 571918EE790 Garrett
+20-05-08 21:14:18 --- hwid 571918EE790 Garrett
+20-05-08 21:14:19 --- hwid 571918EE790 Garrett
+20-05-08 21:14:20 --- hwid 571918EE790 Garrett
+20-05-08 21:14:21 --- hwid 571918EE790 Garrett
+20-05-08 21:14:22 --- hwid 571918EE790 Garrett
+20-05-08 21:14:23 --- hwid 571918EE790 Garrett
+20-05-08 21:14:24 --- hwid 571918EE790 Garrett
+20-05-08 21:14:25 --- hwid 571918EE790 Garrett
+20-05-08 21:14:26 --- hwid 571918EE790 Garrett
+20-05-08 21:14:27 --- hwid 571918EE790 Garrett
+20-05-08 21:14:28 --- hwid 571918EE790 Garrett
+20-05-08 21:14:29 --- hwid 571918EE790 Garrett
+20-05-08 21:14:30 --- hwid 571918EE790 Garrett
+20-05-08 21:14:31 --- hwid 571918EE790 Garrett
+20-05-08 21:14:32 --- hwid 571918EE790 Garrett
+20-05-08 21:14:33 --- hwid 571918EE790 Garrett
+20-05-08 21:14:34 --- hwid 571918EE790 Garrett
+20-05-08 21:14:35 --- hwid 571918EE790 Garrett
+20-05-08 21:14:36 --- hwid 571918EE790 Garrett
+20-05-08 21:14:37 --- hwid 571918EE790 Garrett
+20-05-08 21:14:38 --- hwid 571918EE790 Garrett
+20-05-08 21:14:39 --- hwid 571918EE790 Garrett
+20-05-08 21:14:40 --- hwid 571918EE790 Garrett
+20-05-08 21:14:41 --- hwid 571918EE790 Garrett
+20-05-08 21:14:42 --- hwid 571918EE790 Garrett
+20-05-08 21:14:43 --- hwid 571918EE790 Garrett
+20-05-08 21:14:44 --- hwid 571918EE790 Garrett
+20-05-08 21:14:45 --- hwid 571918EE790 Garrett
+20-05-08 21:14:46 --- hwid 571918EE790 Garrett
+20-05-08 21:14:47 --- hwid 571918EE790 Garrett
+20-05-08 21:14:48 83.250.95.254:23073|3FB9882DB49 requesting game...
+20-05-08 21:14:48 --- hwid 571918EE790 Garrett
+20-05-08 21:14:49 [WP] NamelessWolf joining game (83.250.95.254:23073) HWID:3FB9882DB49
+20-05-08 21:14:49 [WP] NamelessWolf has joined as spectator.
+20-05-08 21:14:49 [STEAM] Succesfully authenticated: [WP] NamelessWolf (83.250.95.254:23073) as 76561198073876101 [S113610373] 
+20-05-08 21:14:49 --- hwid 571918EE790 Garrett
+20-05-08 21:14:49 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:14:49 [CMD] SRI (Garrett): /maxplayers 2
+20-05-08 21:14:50 --- hwid 571918EE790 Garrett
+20-05-08 21:14:50 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:14:51 --- hwid 571918EE790 Garrett
+20-05-08 21:14:51 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:14:52 --- hwid 571918EE790 Garrett
+20-05-08 21:14:52 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:14:52 [WP] NamelessWolf has joined bravo team.
+20-05-08 21:14:52 <New TTW> [WP] NamelessWolf assigned to task 2
+20-05-08 21:14:53 [WARNING] Can't keep up, tick took 359ms
+20-05-08 21:14:53 --- hwid 571918EE790 Garrett
+20-05-08 21:14:53 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:14:54 --- hwid 571918EE790 Garrett
+20-05-08 21:14:54 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:14:55 --- hwid 571918EE790 Garrett
+20-05-08 21:14:55 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:14:56 --- hwid 571918EE790 Garrett
+20-05-08 21:14:56 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:14:56 [Garrett] !reset
+20-05-08 21:14:57 --- hwid 571918EE790 Garrett
+20-05-08 21:14:57 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:14:58 --- hwid 571918EE790 Garrett
+20-05-08 21:14:58 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:14:59 --- hwid 571918EE790 Garrett
+20-05-08 21:14:59 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:00 --- hwid 571918EE790 Garrett
+20-05-08 21:15:00 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:01 --- hwid 571918EE790 Garrett
+20-05-08 21:15:01 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:02 --- hwid 571918EE790 Garrett
+20-05-08 21:15:02 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:03 --- hwid 571918EE790 Garrett
+20-05-08 21:15:03 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:04 --- hwid 571918EE790 Garrett
+20-05-08 21:15:04 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:05 --- hwid 571918EE790 Garrett
+20-05-08 21:15:05 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:06 /maxplayers 2 (73.132.125.236)
+20-05-08 21:15:06 Max players changed to 2
+20-05-08 21:15:06 --- hwid 571918EE790 Garrett
+20-05-08 21:15:06 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:07 --- hwid 571918EE790 Garrett
+20-05-08 21:15:07 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:08 --- hwid 571918EE790 Garrett
+20-05-08 21:15:08 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:09 --- hwid 571918EE790 Garrett
+20-05-08 21:15:09 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:10 --- hwid 571918EE790 Garrett
+20-05-08 21:15:10 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:11 [Garrett] !reset
+20-05-08 21:15:11 --- hwid 571918EE790 Garrett
+20-05-08 21:15:11 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:12 --- hwid 571918EE790 Garrett
+20-05-08 21:15:12 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:13 --- hwid 571918EE790 Garrett
+20-05-08 21:15:13 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:14 --- hwid 571918EE790 Garrett
+20-05-08 21:15:14 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:15 --- hwid 571918EE790 Garrett
+20-05-08 21:15:15 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:16 --- hwid 571918EE790 Garrett
+20-05-08 21:15:16 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:17 --- hwid 571918EE790 Garrett
+20-05-08 21:15:17 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:18 [[WP] NamelessWolf] its supposed to let us do /ready now
+20-05-08 21:15:18 --- hwid 571918EE790 Garrett
+20-05-08 21:15:18 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:19 --- hwid 571918EE790 Garrett
+20-05-08 21:15:19 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:20 --- hwid 571918EE790 Garrett
+20-05-08 21:15:20 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:21 --- hwid 571918EE790 Garrett
+20-05-08 21:15:21 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:22 --- hwid 571918EE790 Garrett
+20-05-08 21:15:22 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:23 --- hwid 571918EE790 Garrett
+20-05-08 21:15:23 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:24 [CMD] SRI ([WP] NamelessWolf): /ready
+20-05-08 21:15:24 --- hwid 571918EE790 Garrett
+20-05-08 21:15:24 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:25 [CMD] SRI (Garrett): /ready
+20-05-08 21:15:25 --- hwid 571918EE790 Garrett
+20-05-08 21:15:25 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:26 --- hwid 571918EE790 Garrett
+20-05-08 21:15:26 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:27 --- hwid 571918EE790 Garrett
+20-05-08 21:15:27 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:28 --- hwid 571918EE790 Garrett
+20-05-08 21:15:28 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:29 --- hwid 571918EE790 Garrett
+20-05-08 21:15:29 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:30 --- hwid 571918EE790 Garrett
+20-05-08 21:15:30 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:31 --- hwid 571918EE790 Garrett
+20-05-08 21:15:31 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:32 --- hwid 571918EE790 Garrett
+20-05-08 21:15:32 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:33 --- hwid 571918EE790 Garrett
+20-05-08 21:15:33 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:34 --- hwid 571918EE790 Garrett
+20-05-08 21:15:34 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:35 --- hwid 571918EE790 Garrett
+20-05-08 21:15:35 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:36 --- hwid 571918EE790 Garrett
+20-05-08 21:15:36 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:37 --- hwid 571918EE790 Garrett
+20-05-08 21:15:37 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:38 --- hwid 571918EE790 Garrett
+20-05-08 21:15:38 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:39 --- hwid 571918EE790 Garrett
+20-05-08 21:15:39 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:40 [Garrett] yeah, was hoping getting you in the server would allow us to !reset
+20-05-08 21:15:40 --- hwid 571918EE790 Garrett
+20-05-08 21:15:40 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:41 [[WP] NamelessWolf] but it says No vote going on right now
+20-05-08 21:15:41 --- hwid 571918EE790 Garrett
+20-05-08 21:15:41 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:42 --- hwid 571918EE790 Garrett
+20-05-08 21:15:42 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:43 --- hwid 571918EE790 Garrett
+20-05-08 21:15:43 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:44 --- hwid 571918EE790 Garrett
+20-05-08 21:15:44 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:45 --- hwid 571918EE790 Garrett
+20-05-08 21:15:45 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:46 --- hwid 571918EE790 Garrett
+20-05-08 21:15:46 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:47 --- hwid 571918EE790 Garrett
+20-05-08 21:15:47 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:48 --- hwid 571918EE790 Garrett
+20-05-08 21:15:48 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:49 --- hwid 571918EE790 Garrett
+20-05-08 21:15:49 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:50 --- hwid 571918EE790 Garrett
+20-05-08 21:15:50 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:51 --- hwid 571918EE790 Garrett
+20-05-08 21:15:51 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:52 --- hwid 571918EE790 Garrett
+20-05-08 21:15:52 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:53 --- hwid 571918EE790 Garrett
+20-05-08 21:15:53 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:54 --- hwid 571918EE790 Garrett
+20-05-08 21:15:54 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:55 --- hwid 571918EE790 Garrett
+20-05-08 21:15:55 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:56 --- hwid 571918EE790 Garrett
+20-05-08 21:15:56 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:57 --- hwid 571918EE790 Garrett
+20-05-08 21:15:57 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:58 --- hwid 571918EE790 Garrett
+20-05-08 21:15:58 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:15:59 [Garrett] because the server expects there to be a certain amount of players
+20-05-08 21:15:59 --- hwid 571918EE790 Garrett
+20-05-08 21:15:59 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:00 --- hwid 571918EE790 Garrett
+20-05-08 21:16:00 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:01 --- hwid 571918EE790 Garrett
+20-05-08 21:16:01 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:02 --- hwid 571918EE790 Garrett
+20-05-08 21:16:02 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:03 --- hwid 571918EE790 Garrett
+20-05-08 21:16:03 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:04 --- hwid 571918EE790 Garrett
+20-05-08 21:16:04 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:05 --- hwid 571918EE790 Garrett
+20-05-08 21:16:05 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:06 --- hwid 571918EE790 Garrett
+20-05-08 21:16:06 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:06 [[WP] NamelessWolf] ok
+20-05-08 21:16:07 [Garrett] trying to manually reassign that for now
+20-05-08 21:16:07 --- hwid 571918EE790 Garrett
+20-05-08 21:16:07 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:08 --- hwid 571918EE790 Garrett
+20-05-08 21:16:08 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:09 --- hwid 571918EE790 Garrett
+20-05-08 21:16:09 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:10 --- hwid 571918EE790 Garrett
+20-05-08 21:16:10 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:11 --- hwid 571918EE790 Garrett
+20-05-08 21:16:11 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:12 --- hwid 571918EE790 Garrett
+20-05-08 21:16:12 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:13 --- hwid 571918EE790 Garrett
+20-05-08 21:16:13 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:14 --- hwid 571918EE790 Garrett
+20-05-08 21:16:14 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:15 --- hwid 571918EE790 Garrett
+20-05-08 21:16:15 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:16 --- hwid 571918EE790 Garrett
+20-05-08 21:16:16 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:17 --- hwid 571918EE790 Garrett
+20-05-08 21:16:17 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:18 --- hwid 571918EE790 Garrett
+20-05-08 21:16:18 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:19 --- hwid 571918EE790 Garrett
+20-05-08 21:16:19 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:20 --- hwid 571918EE790 Garrett
+20-05-08 21:16:20 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:21 --- hwid 571918EE790 Garrett
+20-05-08 21:16:21 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:22 --- hwid 571918EE790 Garrett
+20-05-08 21:16:22 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:23 --- hwid 571918EE790 Garrett
+20-05-08 21:16:23 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:24 --- hwid 571918EE790 Garrett
+20-05-08 21:16:24 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:24 [[WP] NamelessWolf] ok, good work so far
+20-05-08 21:16:25 --- hwid 571918EE790 Garrett
+20-05-08 21:16:25 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:26 Time Left: 99985 minutes
+20-05-08 21:16:26 --- hwid 571918EE790 Garrett
+20-05-08 21:16:26 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:27 --- hwid 571918EE790 Garrett
+20-05-08 21:16:27 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:28 --- hwid 571918EE790 Garrett
+20-05-08 21:16:28 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:29 --- hwid 571918EE790 Garrett
+20-05-08 21:16:29 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:30 --- hwid 571918EE790 Garrett
+20-05-08 21:16:30 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:31 --- hwid 571918EE790 Garrett
+20-05-08 21:16:31 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:32 --- hwid 571918EE790 Garrett
+20-05-08 21:16:32 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:33 --- hwid 571918EE790 Garrett
+20-05-08 21:16:33 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:34 --- hwid 571918EE790 Garrett
+20-05-08 21:16:34 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:35 --- hwid 571918EE790 Garrett
+20-05-08 21:16:35 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:36 --- hwid 571918EE790 Garrett
+20-05-08 21:16:36 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:37 --- hwid 571918EE790 Garrett
+20-05-08 21:16:37 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:38 --- hwid 571918EE790 Garrett
+20-05-08 21:16:38 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:39 --- hwid 571918EE790 Garrett
+20-05-08 21:16:39 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:40 --- hwid 571918EE790 Garrett
+20-05-08 21:16:40 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:41 --- hwid 571918EE790 Garrett
+20-05-08 21:16:41 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:42 --- hwid 571918EE790 Garrett
+20-05-08 21:16:42 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:43 --- hwid 571918EE790 Garrett
+20-05-08 21:16:43 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:44 --- hwid 571918EE790 Garrett
+20-05-08 21:16:44 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:45 --- hwid 571918EE790 Garrett
+20-05-08 21:16:45 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:46 --- hwid 571918EE790 Garrett
+20-05-08 21:16:46 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:47 --- hwid 571918EE790 Garrett
+20-05-08 21:16:47 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:48 --- hwid 571918EE790 Garrett
+20-05-08 21:16:48 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:49 --- hwid 571918EE790 Garrett
+20-05-08 21:16:49 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:50 --- hwid 571918EE790 Garrett
+20-05-08 21:16:50 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:50 [[WP] NamelessWolf] i'm sad the spy is nerfed still though :(
+20-05-08 21:16:51 --- hwid 571918EE790 Garrett
+20-05-08 21:16:51 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:52 --- hwid 571918EE790 Garrett
+20-05-08 21:16:52 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:53 --- hwid 571918EE790 Garrett
+20-05-08 21:16:53 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:54 --- hwid 571918EE790 Garrett
+20-05-08 21:16:54 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:55 --- hwid 571918EE790 Garrett
+20-05-08 21:16:55 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:56 --- hwid 571918EE790 Garrett
+20-05-08 21:16:56 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:57 --- hwid 571918EE790 Garrett
+20-05-08 21:16:57 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:58 --- hwid 571918EE790 Garrett
+20-05-08 21:16:58 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:16:59 --- hwid 571918EE790 Garrett
+20-05-08 21:16:59 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:00 --- hwid 571918EE790 Garrett
+20-05-08 21:17:00 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:01 --- hwid 571918EE790 Garrett
+20-05-08 21:17:01 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:02 --- hwid 571918EE790 Garrett
+20-05-08 21:17:02 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:02 [CMD] SRI ([WP] NamelessWolf): /spy
+20-05-08 21:17:02 <New TTW> [WP] NamelessWolf assigned to task 9
+20-05-08 21:17:03 [WARNING] Can't keep up, tick took 406ms
+20-05-08 21:17:03 --- hwid 571918EE790 Garrett
+20-05-08 21:17:03 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:04 --- hwid 571918EE790 Garrett
+20-05-08 21:17:04 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:05 --- hwid 571918EE790 Garrett
+20-05-08 21:17:05 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:06 --- hwid 571918EE790 Garrett
+20-05-08 21:17:06 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:07 --- hwid 571918EE790 Garrett
+20-05-08 21:17:07 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:08 --- hwid 571918EE790 Garrett
+20-05-08 21:17:08 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:09 --- hwid 571918EE790 Garrett
+20-05-08 21:17:09 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:10 --- hwid 571918EE790 Garrett
+20-05-08 21:17:10 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:11 --- hwid 571918EE790 Garrett
+20-05-08 21:17:11 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:12 --- hwid 571918EE790 Garrett
+20-05-08 21:17:12 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:13 --- hwid 571918EE790 Garrett
+20-05-08 21:17:13 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:14 --- hwid 571918EE790 Garrett
+20-05-08 21:17:14 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:15 --- hwid 571918EE790 Garrett
+20-05-08 21:17:15 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:16 --- hwid 571918EE790 Garrett
+20-05-08 21:17:16 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:17 --- hwid 571918EE790 Garrett
+20-05-08 21:17:17 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:18 --- hwid 571918EE790 Garrett
+20-05-08 21:17:18 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:19 --- hwid 571918EE790 Garrett
+20-05-08 21:17:19 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:20 [[WP] NamelessWolf] i only have 1 charge
+20-05-08 21:17:20 --- hwid 571918EE790 Garrett
+20-05-08 21:17:20 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:21 --- hwid 571918EE790 Garrett
+20-05-08 21:17:21 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:22 --- hwid 571918EE790 Garrett
+20-05-08 21:17:22 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:22 [CMD] Spy ([WP] NamelessWolf): /cmmd4
+20-05-08 21:17:23 --- hwid 571918EE790 Garrett
+20-05-08 21:17:23 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:24 --- hwid 571918EE790 Garrett
+20-05-08 21:17:24 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:25 --- hwid 571918EE790 Garrett
+20-05-08 21:17:25 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:26 [CMD] Spy ([WP] NamelessWolf): /cmmd3
+20-05-08 21:17:26 --- hwid 571918EE790 Garrett
+20-05-08 21:17:26 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:27 [CMD] Spy ([WP] NamelessWolf): /cmmd4
+20-05-08 21:17:27 --- hwid 571918EE790 Garrett
+20-05-08 21:17:27 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:28 --- hwid 571918EE790 Garrett
+20-05-08 21:17:28 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:29 [Garrett] well that can always change (:
+20-05-08 21:17:29 --- hwid 571918EE790 Garrett
+20-05-08 21:17:29 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:30 --- hwid 571918EE790 Garrett
+20-05-08 21:17:30 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:31 --- hwid 571918EE790 Garrett
+20-05-08 21:17:31 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:32 --- hwid 571918EE790 Garrett
+20-05-08 21:17:32 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:33 --- hwid 571918EE790 Garrett
+20-05-08 21:17:33 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:34 --- hwid 571918EE790 Garrett
+20-05-08 21:17:34 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:35 --- hwid 571918EE790 Garrett
+20-05-08 21:17:35 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:36 --- hwid 571918EE790 Garrett
+20-05-08 21:17:36 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:37 --- hwid 571918EE790 Garrett
+20-05-08 21:17:37 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:38 --- hwid 571918EE790 Garrett
+20-05-08 21:17:38 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:39 --- hwid 571918EE790 Garrett
+20-05-08 21:17:39 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:40 --- hwid 571918EE790 Garrett
+20-05-08 21:17:40 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:41 --- hwid 571918EE790 Garrett
+20-05-08 21:17:41 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:42 --- hwid 571918EE790 Garrett
+20-05-08 21:17:42 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:43 --- hwid 571918EE790 Garrett
+20-05-08 21:17:43 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:44 --- hwid 571918EE790 Garrett
+20-05-08 21:17:44 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:45 --- hwid 571918EE790 Garrett
+20-05-08 21:17:45 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:46 --- hwid 571918EE790 Garrett
+20-05-08 21:17:46 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:47 --- hwid 571918EE790 Garrett
+20-05-08 21:17:47 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:48 --- hwid 571918EE790 Garrett
+20-05-08 21:17:48 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:49 --- hwid 571918EE790 Garrett
+20-05-08 21:17:49 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:50 --- hwid 571918EE790 Garrett
+20-05-08 21:17:50 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:51 --- hwid 571918EE790 Garrett
+20-05-08 21:17:51 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:52 --- hwid 571918EE790 Garrett
+20-05-08 21:17:52 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:53 --- hwid 571918EE790 Garrett
+20-05-08 21:17:53 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:54 --- hwid 571918EE790 Garrett
+20-05-08 21:17:54 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:55 --- hwid 571918EE790 Garrett
+20-05-08 21:17:55 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:56 --- hwid 571918EE790 Garrett
+20-05-08 21:17:56 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:57 --- hwid 571918EE790 Garrett
+20-05-08 21:17:57 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:58 --- hwid 571918EE790 Garrett
+20-05-08 21:17:58 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:17:59 --- hwid 571918EE790 Garrett
+20-05-08 21:17:59 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:00 --- hwid 571918EE790 Garrett
+20-05-08 21:18:00 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:01 --- hwid 571918EE790 Garrett
+20-05-08 21:18:01 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:02 --- hwid 571918EE790 Garrett
+20-05-08 21:18:02 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:03 --- hwid 571918EE790 Garrett
+20-05-08 21:18:03 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:04 --- hwid 571918EE790 Garrett
+20-05-08 21:18:04 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:05 --- hwid 571918EE790 Garrett
+20-05-08 21:18:05 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:06 --- hwid 571918EE790 Garrett
+20-05-08 21:18:06 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:07 --- hwid 571918EE790 Garrett
+20-05-08 21:18:07 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:08 --- hwid 571918EE790 Garrett
+20-05-08 21:18:08 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:08 [[WP] NamelessWolf] sound s good
+20-05-08 21:18:09 --- hwid 571918EE790 Garrett
+20-05-08 21:18:09 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:10 --- hwid 571918EE790 Garrett
+20-05-08 21:18:10 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:11 --- hwid 571918EE790 Garrett
+20-05-08 21:18:11 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:12 --- hwid 571918EE790 Garrett
+20-05-08 21:18:12 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:13 --- hwid 571918EE790 Garrett
+20-05-08 21:18:13 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:14 --- hwid 571918EE790 Garrett
+20-05-08 21:18:14 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:15 --- hwid 571918EE790 Garrett
+20-05-08 21:18:15 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:16 --- hwid 571918EE790 Garrett
+20-05-08 21:18:16 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:17 --- hwid 571918EE790 Garrett
+20-05-08 21:18:17 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:18 --- hwid 571918EE790 Garrett
+20-05-08 21:18:18 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:19 --- hwid 571918EE790 Garrett
+20-05-08 21:18:19 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:20 --- hwid 571918EE790 Garrett
+20-05-08 21:18:20 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:21 --- hwid 571918EE790 Garrett
+20-05-08 21:18:21 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:22 --- hwid 571918EE790 Garrett
+20-05-08 21:18:22 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:23 --- hwid 571918EE790 Garrett
+20-05-08 21:18:23 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:24 --- hwid 571918EE790 Garrett
+20-05-08 21:18:24 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:25 --- hwid 571918EE790 Garrett
+20-05-08 21:18:25 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:26 --- hwid 571918EE790 Garrett
+20-05-08 21:18:26 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:27 --- hwid 571918EE790 Garrett
+20-05-08 21:18:27 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:28 --- hwid 571918EE790 Garrett
+20-05-08 21:18:28 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:29 --- hwid 571918EE790 Garrett
+20-05-08 21:18:29 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:30 --- hwid 571918EE790 Garrett
+20-05-08 21:18:30 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:31 --- hwid 571918EE790 Garrett
+20-05-08 21:18:31 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:32 --- hwid 571918EE790 Garrett
+20-05-08 21:18:32 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:33 --- hwid 571918EE790 Garrett
+20-05-08 21:18:33 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:34 --- hwid 571918EE790 Garrett
+20-05-08 21:18:34 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:35 --- hwid 571918EE790 Garrett
+20-05-08 21:18:35 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:36 --- hwid 571918EE790 Garrett
+20-05-08 21:18:36 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:37 --- hwid 571918EE790 Garrett
+20-05-08 21:18:37 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:38 [[WP] NamelessWolf] what is the minimum timer? should be 3 seconds i think
+20-05-08 21:18:38 --- hwid 571918EE790 Garrett
+20-05-08 21:18:38 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:39 --- hwid 571918EE790 Garrett
+20-05-08 21:18:39 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:40 --- hwid 571918EE790 Garrett
+20-05-08 21:18:40 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:41 --- hwid 571918EE790 Garrett
+20-05-08 21:18:41 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:42 --- hwid 571918EE790 Garrett
+20-05-08 21:18:42 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:43 --- hwid 571918EE790 Garrett
+20-05-08 21:18:43 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:44 --- hwid 571918EE790 Garrett
+20-05-08 21:18:44 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:45 --- hwid 571918EE790 Garrett
+20-05-08 21:18:45 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:46 --- hwid 571918EE790 Garrett
+20-05-08 21:18:46 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:47 --- hwid 571918EE790 Garrett
+20-05-08 21:18:47 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:48 --- hwid 571918EE790 Garrett
+20-05-08 21:18:48 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:49 --- hwid 571918EE790 Garrett
+20-05-08 21:18:49 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:50 --- hwid 571918EE790 Garrett
+20-05-08 21:18:50 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:51 --- hwid 571918EE790 Garrett
+20-05-08 21:18:51 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:52 --- hwid 571918EE790 Garrett
+20-05-08 21:18:52 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:53 --- hwid 571918EE790 Garrett
+20-05-08 21:18:53 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:54 --- hwid 571918EE790 Garrett
+20-05-08 21:18:54 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:55 --- hwid 571918EE790 Garrett
+20-05-08 21:18:55 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:56 --- hwid 571918EE790 Garrett
+20-05-08 21:18:56 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:57 --- hwid 571918EE790 Garrett
+20-05-08 21:18:57 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:58 --- hwid 571918EE790 Garrett
+20-05-08 21:18:58 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:18:59 --- hwid 571918EE790 Garrett
+20-05-08 21:18:59 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:00 --- hwid 571918EE790 Garrett
+20-05-08 21:19:00 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:01 --- hwid 571918EE790 Garrett
+20-05-08 21:19:01 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:02 --- hwid 571918EE790 Garrett
+20-05-08 21:19:02 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:03 --- hwid 571918EE790 Garrett
+20-05-08 21:19:03 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:04 [[WP] NamelessWolf] cause it seemed quick now
+20-05-08 21:19:04 --- hwid 571918EE790 Garrett
+20-05-08 21:19:04 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:05 --- hwid 571918EE790 Garrett
+20-05-08 21:19:05 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:06 --- hwid 571918EE790 Garrett
+20-05-08 21:19:06 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:07 --- hwid 571918EE790 Garrett
+20-05-08 21:19:07 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:08 [CMD] Spy ([WP] NamelessWolf): /kill
+20-05-08 21:19:08 --- hwid 571918EE790 Garrett
+20-05-08 21:19:08 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:09 --- hwid 571918EE790 Garrett
+20-05-08 21:19:09 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:10 --- hwid 571918EE790 Garrett
+20-05-08 21:19:10 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:11 --- hwid 571918EE790 Garrett
+20-05-08 21:19:11 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:12 --- hwid 571918EE790 Garrett
+20-05-08 21:19:12 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:13 --- hwid 571918EE790 Garrett
+20-05-08 21:19:13 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:14 --- hwid 571918EE790 Garrett
+20-05-08 21:19:14 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:15 --- hwid 571918EE790 Garrett
+20-05-08 21:19:15 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:16 --- hwid 571918EE790 Garrett
+20-05-08 21:19:16 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:17 --- hwid 571918EE790 Garrett
+20-05-08 21:19:17 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:18 --- hwid 571918EE790 Garrett
+20-05-08 21:19:18 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:19 --- hwid 571918EE790 Garrett
+20-05-08 21:19:19 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:20 --- hwid 571918EE790 Garrett
+20-05-08 21:19:20 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:21 --- hwid 571918EE790 Garrett
+20-05-08 21:19:21 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:22 [CMD] Spy ([WP] NamelessWolf): /cmmd2
+20-05-08 21:19:22 --- hwid 571918EE790 Garrett
+20-05-08 21:19:22 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:23 [Garrett] i'll check
+20-05-08 21:19:23 --- hwid 571918EE790 Garrett
+20-05-08 21:19:23 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:24 --- hwid 571918EE790 Garrett
+20-05-08 21:19:24 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:25 [CMD] Spy ([WP] NamelessWolf): /cmmd3
+20-05-08 21:19:25 --- hwid 571918EE790 Garrett
+20-05-08 21:19:25 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:26 --- hwid 571918EE790 Garrett
+20-05-08 21:19:26 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:27 --- hwid 571918EE790 Garrett
+20-05-08 21:19:27 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:28 --- hwid 571918EE790 Garrett
+20-05-08 21:19:28 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:29 --- hwid 571918EE790 Garrett
+20-05-08 21:19:29 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:30 [CMD] Spy ([WP] NamelessWolf): /cmmd4
+20-05-08 21:19:30 --- hwid 571918EE790 Garrett
+20-05-08 21:19:30 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:31 --- hwid 571918EE790 Garrett
+20-05-08 21:19:31 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:32 --- hwid 571918EE790 Garrett
+20-05-08 21:19:32 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:33 --- hwid 571918EE790 Garrett
+20-05-08 21:19:33 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:34 --- hwid 571918EE790 Garrett
+20-05-08 21:19:34 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:35 --- hwid 571918EE790 Garrett
+20-05-08 21:19:35 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:36 --- hwid 571918EE790 Garrett
+20-05-08 21:19:36 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:37 [Garrett] looking to see if there is a server command to change gathersize right now
+20-05-08 21:19:37 --- hwid 571918EE790 Garrett
+20-05-08 21:19:37 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:38 --- hwid 571918EE790 Garrett
+20-05-08 21:19:38 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:39 --- hwid 571918EE790 Garrett
+20-05-08 21:19:39 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:40 --- hwid 571918EE790 Garrett
+20-05-08 21:19:40 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:41 --- hwid 571918EE790 Garrett
+20-05-08 21:19:41 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:42 --- hwid 571918EE790 Garrett
+20-05-08 21:19:42 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:43 --- hwid 571918EE790 Garrett
+20-05-08 21:19:43 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:44 [[WP] NamelessWolf] ok
+20-05-08 21:19:44 --- hwid 571918EE790 Garrett
+20-05-08 21:19:44 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:45 --- hwid 571918EE790 Garrett
+20-05-08 21:19:45 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:46 --- hwid 571918EE790 Garrett
+20-05-08 21:19:46 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:47 --- hwid 571918EE790 Garrett
+20-05-08 21:19:47 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:48 --- hwid 571918EE790 Garrett
+20-05-08 21:19:48 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:49 --- hwid 571918EE790 Garrett
+20-05-08 21:19:49 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:50 --- hwid 571918EE790 Garrett
+20-05-08 21:19:50 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:51 --- hwid 571918EE790 Garrett
+20-05-08 21:19:51 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:52 --- hwid 571918EE790 Garrett
+20-05-08 21:19:52 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:53 --- hwid 571918EE790 Garrett
+20-05-08 21:19:53 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:54 --- hwid 571918EE790 Garrett
+20-05-08 21:19:54 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:55 --- hwid 571918EE790 Garrett
+20-05-08 21:19:55 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:56 --- hwid 571918EE790 Garrett
+20-05-08 21:19:56 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:57 --- hwid 571918EE790 Garrett
+20-05-08 21:19:57 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:58 --- hwid 571918EE790 Garrett
+20-05-08 21:19:58 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:19:59 --- hwid 571918EE790 Garrett
+20-05-08 21:19:59 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:00 --- hwid 571918EE790 Garrett
+20-05-08 21:20:00 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:01 --- hwid 571918EE790 Garrett
+20-05-08 21:20:01 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:02 --- hwid 571918EE790 Garrett
+20-05-08 21:20:02 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:03 --- hwid 571918EE790 Garrett
+20-05-08 21:20:03 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:04 --- hwid 571918EE790 Garrett
+20-05-08 21:20:04 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:05 --- hwid 571918EE790 Garrett
+20-05-08 21:20:05 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:06 --- hwid 571918EE790 Garrett
+20-05-08 21:20:06 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:07 --- hwid 571918EE790 Garrett
+20-05-08 21:20:07 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:08 --- hwid 571918EE790 Garrett
+20-05-08 21:20:08 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:09 --- hwid 571918EE790 Garrett
+20-05-08 21:20:09 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:10 --- hwid 571918EE790 Garrett
+20-05-08 21:20:10 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:11 --- hwid 571918EE790 Garrett
+20-05-08 21:20:11 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:12 --- hwid 571918EE790 Garrett
+20-05-08 21:20:12 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:13 --- hwid 571918EE790 Garrett
+20-05-08 21:20:13 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:14 --- hwid 571918EE790 Garrett
+20-05-08 21:20:14 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:15 --- hwid 571918EE790 Garrett
+20-05-08 21:20:15 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:16 --- hwid 571918EE790 Garrett
+20-05-08 21:20:16 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:17 --- hwid 571918EE790 Garrett
+20-05-08 21:20:17 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:18 --- hwid 571918EE790 Garrett
+20-05-08 21:20:18 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:19 --- hwid 571918EE790 Garrett
+20-05-08 21:20:19 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:20 --- hwid 571918EE790 Garrett
+20-05-08 21:20:20 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:21 --- hwid 571918EE790 Garrett
+20-05-08 21:20:21 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:21 [CMD] Spy ([WP] NamelessWolf): /cmmd3
+20-05-08 21:20:22 --- hwid 571918EE790 Garrett
+20-05-08 21:20:22 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:23 --- hwid 571918EE790 Garrett
+20-05-08 21:20:23 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:23 [CMD] Spy ([WP] NamelessWolf): /cmmd4
+20-05-08 21:20:24 --- hwid 571918EE790 Garrett
+20-05-08 21:20:24 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:25 --- hwid 571918EE790 Garrett
+20-05-08 21:20:25 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:26 --- hwid 571918EE790 Garrett
+20-05-08 21:20:26 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:27 --- hwid 571918EE790 Garrett
+20-05-08 21:20:27 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:28 --- hwid 571918EE790 Garrett
+20-05-08 21:20:28 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:29 --- hwid 571918EE790 Garrett
+20-05-08 21:20:29 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:30 --- hwid 571918EE790 Garrett
+20-05-08 21:20:30 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:31 --- hwid 571918EE790 Garrett
+20-05-08 21:20:31 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:32 --- hwid 571918EE790 Garrett
+20-05-08 21:20:32 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:33 --- hwid 571918EE790 Garrett
+20-05-08 21:20:33 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:34 --- hwid 571918EE790 Garrett
+20-05-08 21:20:34 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:35 --- hwid 571918EE790 Garrett
+20-05-08 21:20:35 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:36 --- hwid 571918EE790 Garrett
+20-05-08 21:20:36 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:37 --- hwid 571918EE790 Garrett
+20-05-08 21:20:37 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:38 --- hwid 571918EE790 Garrett
+20-05-08 21:20:38 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:39 --- hwid 571918EE790 Garrett
+20-05-08 21:20:39 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:40 --- hwid 571918EE790 Garrett
+20-05-08 21:20:40 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:41 --- hwid 571918EE790 Garrett
+20-05-08 21:20:41 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:42 --- hwid 571918EE790 Garrett
+20-05-08 21:20:42 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:43 --- hwid 571918EE790 Garrett
+20-05-08 21:20:43 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:43 [CMD] SRI (Garrett): /maxplayers 2
+20-05-08 21:20:44 --- hwid 571918EE790 Garrett
+20-05-08 21:20:44 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:45 --- hwid 571918EE790 Garrett
+20-05-08 21:20:45 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:46 --- hwid 571918EE790 Garrett
+20-05-08 21:20:46 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:47 --- hwid 571918EE790 Garrett
+20-05-08 21:20:47 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:48 --- hwid 571918EE790 Garrett
+20-05-08 21:20:48 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:49 --- hwid 571918EE790 Garrett
+20-05-08 21:20:49 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:50 --- hwid 571918EE790 Garrett
+20-05-08 21:20:50 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:51 --- hwid 571918EE790 Garrett
+20-05-08 21:20:51 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:52 --- hwid 571918EE790 Garrett
+20-05-08 21:20:52 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:53 --- hwid 571918EE790 Garrett
+20-05-08 21:20:53 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:54 --- hwid 571918EE790 Garrett
+20-05-08 21:20:54 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:55 --- hwid 571918EE790 Garrett
+20-05-08 21:20:55 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:56 --- hwid 571918EE790 Garrett
+20-05-08 21:20:56 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:57 --- hwid 571918EE790 Garrett
+20-05-08 21:20:57 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:58 --- hwid 571918EE790 Garrett
+20-05-08 21:20:58 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:20:59 --- hwid 571918EE790 Garrett
+20-05-08 21:20:59 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:00 --- hwid 571918EE790 Garrett
+20-05-08 21:21:00 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:01 --- hwid 571918EE790 Garrett
+20-05-08 21:21:01 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:02 --- hwid 571918EE790 Garrett
+20-05-08 21:21:02 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:03 --- hwid 571918EE790 Garrett
+20-05-08 21:21:03 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:04 --- hwid 571918EE790 Garrett
+20-05-08 21:21:04 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:05 --- hwid 571918EE790 Garrett
+20-05-08 21:21:05 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:06 /maxplayers 6 (73.132.125.236)
+20-05-08 21:21:06 Max players changed to 6
+20-05-08 21:21:06 --- hwid 571918EE790 Garrett
+20-05-08 21:21:06 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:07 --- hwid 571918EE790 Garrett
+20-05-08 21:21:07 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:08 --- hwid 571918EE790 Garrett
+20-05-08 21:21:08 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:09 --- hwid 571918EE790 Garrett
+20-05-08 21:21:09 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:10 --- hwid 571918EE790 Garrett
+20-05-08 21:21:10 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:11 --- hwid 571918EE790 Garrett
+20-05-08 21:21:11 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:12 --- hwid 571918EE790 Garrett
+20-05-08 21:21:12 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:13 /maxplayers 2 (73.132.125.236)
+20-05-08 21:21:13 Max players changed to 2
+20-05-08 21:21:13 --- hwid 571918EE790 Garrett
+20-05-08 21:21:13 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:14 --- hwid 571918EE790 Garrett
+20-05-08 21:21:14 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:15 --- hwid 571918EE790 Garrett
+20-05-08 21:21:15 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:16 --- hwid 571918EE790 Garrett
+20-05-08 21:21:16 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:17 --- hwid 571918EE790 Garrett
+20-05-08 21:21:17 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:18 --- hwid 571918EE790 Garrett
+20-05-08 21:21:18 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:19 --- hwid 571918EE790 Garrett
+20-05-08 21:21:19 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:20 --- hwid 571918EE790 Garrett
+20-05-08 21:21:20 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:21 --- hwid 571918EE790 Garrett
+20-05-08 21:21:21 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:22 --- hwid 571918EE790 Garrett
+20-05-08 21:21:22 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:23 --- hwid 571918EE790 Garrett
+20-05-08 21:21:23 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:24 --- hwid 571918EE790 Garrett
+20-05-08 21:21:24 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:25 --- hwid 571918EE790 Garrett
+20-05-08 21:21:25 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:26 Time Left: 99980 minutes
+20-05-08 21:21:26 --- hwid 571918EE790 Garrett
+20-05-08 21:21:26 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:27 --- hwid 571918EE790 Garrett
+20-05-08 21:21:27 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:28 --- hwid 571918EE790 Garrett
+20-05-08 21:21:28 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:29 --- hwid 571918EE790 Garrett
+20-05-08 21:21:29 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:30 [Garrett] !reset
+20-05-08 21:21:30 --- hwid 571918EE790 Garrett
+20-05-08 21:21:30 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:31 --- hwid 571918EE790 Garrett
+20-05-08 21:21:31 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:32 --- hwid 571918EE790 Garrett
+20-05-08 21:21:32 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:33 --- hwid 571918EE790 Garrett
+20-05-08 21:21:33 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:34 --- hwid 571918EE790 Garrett
+20-05-08 21:21:34 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:35 --- hwid 571918EE790 Garrett
+20-05-08 21:21:35 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:36 [CMD] Spy ([WP] NamelessWolf): /ready
+20-05-08 21:21:36 --- hwid 571918EE790 Garrett
+20-05-08 21:21:36 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:37 --- hwid 571918EE790 Garrett
+20-05-08 21:21:37 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:38 --- hwid 571918EE790 Garrett
+20-05-08 21:21:38 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:39 --- hwid 571918EE790 Garrett
+20-05-08 21:21:39 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:40 --- hwid 571918EE790 Garrett
+20-05-08 21:21:40 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:41 --- hwid 571918EE790 Garrett
+20-05-08 21:21:41 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:42 --- hwid 571918EE790 Garrett
+20-05-08 21:21:42 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:43 --- hwid 571918EE790 Garrett
+20-05-08 21:21:43 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:44 --- hwid 571918EE790 Garrett
+20-05-08 21:21:44 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:45 --- hwid 571918EE790 Garrett
+20-05-08 21:21:45 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:46 --- hwid 571918EE790 Garrett
+20-05-08 21:21:46 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:47 --- hwid 571918EE790 Garrett
+20-05-08 21:21:47 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:48 --- hwid 571918EE790 Garrett
+20-05-08 21:21:48 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:49 --- hwid 571918EE790 Garrett
+20-05-08 21:21:49 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:50 --- hwid 571918EE790 Garrett
+20-05-08 21:21:50 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:51 --- hwid 571918EE790 Garrett
+20-05-08 21:21:51 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:52 --- hwid 571918EE790 Garrett
+20-05-08 21:21:52 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:53 --- hwid 571918EE790 Garrett
+20-05-08 21:21:53 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:54 --- hwid 571918EE790 Garrett
+20-05-08 21:21:54 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:55 --- hwid 571918EE790 Garrett
+20-05-08 21:21:55 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:56 --- hwid 571918EE790 Garrett
+20-05-08 21:21:56 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:57 --- hwid 571918EE790 Garrett
+20-05-08 21:21:57 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:58 --- hwid 571918EE790 Garrett
+20-05-08 21:21:58 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:21:59 --- hwid 571918EE790 Garrett
+20-05-08 21:21:59 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:00 --- hwid 571918EE790 Garrett
+20-05-08 21:22:00 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:01 --- hwid 571918EE790 Garrett
+20-05-08 21:22:01 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:02 --- hwid 571918EE790 Garrett
+20-05-08 21:22:02 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:02 [Garrett] I'm going to restart the server and manually change the gathersize to 2
+20-05-08 21:22:03 --- hwid 571918EE790 Garrett
+20-05-08 21:22:03 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:04 --- hwid 571918EE790 Garrett
+20-05-08 21:22:04 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:05 --- hwid 571918EE790 Garrett
+20-05-08 21:22:05 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:06 --- hwid 571918EE790 Garrett
+20-05-08 21:22:06 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:07 [[WP] NamelessWolf] if u changed something now maybe server needs reboot?
+20-05-08 21:22:07 --- hwid 571918EE790 Garrett
+20-05-08 21:22:07 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:08 --- hwid 571918EE790 Garrett
+20-05-08 21:22:08 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:09 --- hwid 571918EE790 Garrett
+20-05-08 21:22:09 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:10 --- hwid 571918EE790 Garrett
+20-05-08 21:22:10 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:11 --- hwid 571918EE790 Garrett
+20-05-08 21:22:11 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:12 [Garrett] exit and rejoin in like 2 minutes
+20-05-08 21:22:12 --- hwid 571918EE790 Garrett
+20-05-08 21:22:12 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:13 --- hwid 571918EE790 Garrett
+20-05-08 21:22:13 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:14 --- hwid 571918EE790 Garrett
+20-05-08 21:22:14 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:15 --- hwid 571918EE790 Garrett
+20-05-08 21:22:15 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:16 --- hwid 571918EE790 Garrett
+20-05-08 21:22:16 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:16 [[WP] NamelessWolf] yes
+20-05-08 21:22:17 --- hwid 571918EE790 Garrett
+20-05-08 21:22:17 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:18 Garrett has left alpha team.
+20-05-08 21:22:18 --- hwid 3FB9882DB49 [WP] NamelessWolf
+20-05-08 21:22:19 [WP] NamelessWolf has left bravo team.
+20-05-08 21:22:19 [WARNING] Can't keep up, tick took 109ms

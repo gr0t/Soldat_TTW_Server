@@ -1,0 +1,17 @@
+20-05-11 17:47:22    Log Started
+20-05-11 17:47:22 Opened C:\Users\Garrett\Dropbox\Soldat Stuff\Soldat TTW Server\soldat.ini
+20-05-11 17:47:22 Creating network interface.
+20-05-11 17:47:22 Loading Animations.
+20-05-11 17:47:22 Loading Lobby Servers List
+20-05-11 17:47:22 Loading Maps List
+20-05-11 17:47:22  Net - Bomber Squadron connected 5-11-2020 17:47:22
+20-05-11 17:47:22 Loading Map.
+20-05-11 17:47:22 Creating Weapons.
+20-05-11 17:47:22 Starting Game Server.
+20-05-11 17:47:22 TCP/IP File Server started
+20-05-11 17:48:23  Net - Garrett connected 5-11-2020 17:48:23
+20-05-11 17:48:27  Net - [WP] NamelessWolf connected 5-11-2020 17:48:27
+20-05-11 17:48:38  Net - [WP] NamelessWolf connected 5-11-2020 17:48:38
+20-05-11 17:58:02  Net - Garrett disconnected 5-11-2020 17:58:02
+20-05-11 17:58:06  Net - [WP] NamelessWolf disconnected 5-11-2020 17:58:06
+20-05-11 17:58:22  Net - [WP] NamelessWolf connected 5-11-2020 17:58:22

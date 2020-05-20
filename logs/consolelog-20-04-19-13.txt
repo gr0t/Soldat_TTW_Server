@@ -1,0 +1,20 @@
+20-04-19 22:25:34    Console Log Started
+20-04-19 22:25:34 Welcome to Soldat 1.7.1
+20-04-19 22:25:34  [*] Preparing scripts to be launched
+20-04-19 22:25:34  [*] [gbl] Loading bytecode
+20-04-19 22:25:34  [*] [gbl] Bytecode loaded
+20-04-19 22:25:34  [*] Compiling GunGame -> GunGame.pas...
+20-04-19 22:25:34  [*] GunGame -> [Error] (19:1): 'BEGIN' expected
+20-04-19 22:25:34  [*] Disabling GunGame
+20-04-19 22:25:34  [*] Done
+20-04-19 22:25:34 [GBL] Updating global banlist.
+20-04-19 22:25:34 [Error] GetURL: Function Disabled (SafeMode = ON)
+20-04-19 22:25:34 Steelix -by BN
+20-04-19 22:25:34  Connection for file server started. Port: 23083
+20-04-19 22:25:34 Registering server @ 88.99.234.252
+20-04-19 22:25:34 [WARNING] Can't keep up, tick took 185009500ms
+20-04-19 22:25:35 [WARNING] Can't keep up, tick took 78ms
+20-04-19 22:25:35 [STEAM] Connected
+20-04-19 22:25:58 Shutting down server...
+20-04-19 22:25:58 Shutting down FileServer...
+20-04-19 22:25:58 Shutting down admin server...

@@ -1,0 +1,715 @@
+18-12-03 23:25:55    Console Log Started
+18-12-03 23:25:55 Welcome to Soldat 1.7.1
+18-12-03 23:25:55  [*] Preparing scripts to be launched
+18-12-03 23:25:55  [*] Compiling Basic -> basic.pas...
+18-12-03 23:25:55  [*] Basic compiled
+18-12-03 23:25:55  [*] Done
+18-12-03 23:25:55  [*] Basic -> Settings loaded successfully
+18-12-03 23:25:55 Mapslist Updated
+18-12-03 23:25:55 CMD list Updated
+18-12-03 23:25:55 Aero -by BN
+18-12-03 23:25:55  Connection for file server started. Port: 23083
+18-12-03 23:25:55 Registering server @ 88.99.234.252
+18-12-03 23:26:16 Admin connected (192.168.1.1).
+18-12-03 23:26:16 /maxplayers (192.168.1.1)
+18-12-03 23:26:16 Max players is 10
+18-12-03 23:26:16 /maxrespawntime (192.168.1.1)
+18-12-03 23:26:16 Maximum Respawn time is 5 seconds
+18-12-03 23:26:16 /respawntime (192.168.1.1)
+18-12-03 23:26:16 Respawn time is 1 seconds
+18-12-03 23:26:16 /limit (192.168.1.1)
+18-12-03 23:26:16 Current kill/point/capture limit is 30
+18-12-03 23:26:16 /timelimit (192.168.1.1)
+18-12-03 23:26:16 Current time limit is 10 minutes
+18-12-03 23:26:16 /friendlyfire (192.168.1.1)
+18-12-03 23:26:16 Friendly Fire is 0
+18-12-03 23:26:16 /scripting (192.168.1.1)
+18-12-03 23:26:16 Scripting is currently Enabled (1)
+18-12-03 23:26:16 /balance (192.168.1.1)
+18-12-03 23:26:16 Bot Balance is off (0)
+18-12-03 23:26:16 /bonus (192.168.1.1)
+18-12-03 23:26:16 Current bonus frequency is 0
+18-12-03 23:26:16 /vote% (192.168.1.1)
+18-12-03 23:26:16 Voting percent is 60
+18-12-03 23:26:39 192.168.1.1:50627|571918EE790 requesting game...
+18-12-03 23:26:40 Garrett joining game (192.168.1.1:50627) HWID:571918EE790
+18-12-03 23:26:40 Garrett has joined the game.
+18-12-03 23:26:52 Garrett got the Yellow Flag
+18-12-03 23:27:03 Garrett has left the game.
+18-12-03 23:30:55 Time Left: 5 minutes
+18-12-03 23:31:55 Time Left: 4 minutes
+18-12-03 23:32:55 Time Left: 3 minutes
+18-12-03 23:33:55 Time Left: 2 minutes
+18-12-03 23:34:55 Time Left: 1 minutes
+18-12-03 23:35:55 Next map: Arena2
+18-12-03 23:36:01 Soldat Arena Two - version 2.2
+18-12-03 23:41:01 Time Left: 5 minutes
+18-12-03 23:42:01 Time Left: 4 minutes
+18-12-03 23:43:01 Time Left: 3 minutes
+18-12-03 23:44:01 Time Left: 2 minutes
+18-12-03 23:45:01 Time Left: 1 minutes
+18-12-03 23:46:01 Next map: Arena3
+18-12-03 23:46:06 Soldat Arena Three - (version 2)
+18-12-03 23:51:06 Time Left: 5 minutes
+18-12-03 23:52:06 Time Left: 4 minutes
+18-12-03 23:53:06 Time Left: 3 minutes
+18-12-03 23:54:06 Time Left: 2 minutes
+18-12-03 23:55:06 Time Left: 1 minutes
+18-12-03 23:56:06 Next map: Bridge
+18-12-03 23:56:11 Bridge - version 2.1
+18-12-04 00:01:11 Time Left: 5 minutes
+18-12-04 00:02:11 Time Left: 4 minutes
+18-12-04 00:03:11 Time Left: 3 minutes
+18-12-04 00:04:11 Time Left: 2 minutes
+18-12-04 00:05:11 Time Left: 1 minutes
+18-12-04 00:06:11 Next map: DesertWind
+18-12-04 00:06:17 Desert Wind
+18-12-04 00:11:17 Time Left: 5 minutes
+18-12-04 00:12:17 Time Left: 4 minutes
+18-12-04 00:13:17 Time Left: 3 minutes
+18-12-04 00:14:17 Time Left: 2 minutes
+18-12-04 00:15:17 Time Left: 1 minutes
+18-12-04 00:16:16 Next map: Jungle
+18-12-04 00:16:22 Remake by DUZ
+18-12-04 00:21:22 Time Left: 5 minutes
+18-12-04 00:22:22 Time Left: 4 minutes
+18-12-04 00:23:22 Time Left: 3 minutes
+18-12-04 00:24:22 Time Left: 2 minutes
+18-12-04 00:25:22 Time Left: 1 minutes
+18-12-04 00:26:22 Next map: Leaf
+18-12-04 00:26:27 area6_Leaf by chakapoko maker
+18-12-04 00:31:27 Time Left: 5 minutes
+18-12-04 00:32:27 Time Left: 4 minutes
+18-12-04 00:33:27 Time Left: 3 minutes
+18-12-04 00:34:27 Time Left: 2 minutes
+18-12-04 00:35:27 Time Left: 1 minutes
+18-12-04 00:36:27 Next map: RatCave
+18-12-04 00:36:32 Rat Cave - Cave version 2.1
+18-12-04 00:41:32 Time Left: 5 minutes
+18-12-04 00:42:32 Time Left: 4 minutes
+18-12-04 00:43:32 Time Left: 3 minutes
+18-12-04 00:44:32 Time Left: 2 minutes
+18-12-04 00:45:32 Time Left: 1 minutes
+18-12-04 00:46:32 Next map: Tekool
+18-12-04 00:46:38 Error: Could not load map (Tekool)
+18-12-04 00:46:38 Next map: Tropiccave
+18-12-04 00:46:43 Tropiccave by Avarax, rmk by Viral
+18-12-04 00:51:43 Time Left: 5 minutes
+18-12-04 00:52:43 Time Left: 4 minutes
+18-12-04 00:53:43 Time Left: 3 minutes
+18-12-04 00:54:43 Time Left: 2 minutes
+18-12-04 00:55:43 Time Left: 1 minutes
+18-12-04 00:56:43 Next map: Unlim
+18-12-04 00:56:48 Unlim - Biggles
+18-12-04 01:01:48 Time Left: 5 minutes
+18-12-04 01:02:48 Time Left: 4 minutes
+18-12-04 01:03:48 Time Left: 3 minutes
+18-12-04 01:04:48 Time Left: 2 minutes
+18-12-04 01:05:48 Time Left: 1 minutes
+18-12-04 01:06:48 Next map: Aero
+18-12-04 01:06:54 Aero -by BN
+18-12-04 01:11:54 Time Left: 5 minutes
+18-12-04 01:12:54 Time Left: 4 minutes
+18-12-04 01:13:54 Time Left: 3 minutes
+18-12-04 01:14:54 Time Left: 2 minutes
+18-12-04 01:15:54 Time Left: 1 minutes
+18-12-04 01:16:54 Next map: Arena2
+18-12-04 01:16:59 Soldat Arena Two - version 2.2
+18-12-04 01:21:59 Time Left: 5 minutes
+18-12-04 01:22:59 Time Left: 4 minutes
+18-12-04 01:23:59 Time Left: 3 minutes
+18-12-04 01:24:59 Time Left: 2 minutes
+18-12-04 01:25:59 Time Left: 1 minutes
+18-12-04 01:26:59 Next map: Arena3
+18-12-04 01:27:04 Soldat Arena Three - (version 2)
+18-12-04 01:32:04 Time Left: 5 minutes
+18-12-04 01:33:04 Time Left: 4 minutes
+18-12-04 01:34:04 Time Left: 3 minutes
+18-12-04 01:35:04 Time Left: 2 minutes
+18-12-04 01:36:04 Time Left: 1 minutes
+18-12-04 01:37:04 Next map: Bridge
+18-12-04 01:37:10 Bridge - version 2.1
+18-12-04 01:42:10 Time Left: 5 minutes
+18-12-04 01:43:10 Time Left: 4 minutes
+18-12-04 01:44:10 Time Left: 3 minutes
+18-12-04 01:45:10 Time Left: 2 minutes
+18-12-04 01:46:10 Time Left: 1 minutes
+18-12-04 01:47:10 Next map: DesertWind
+18-12-04 01:47:15 Desert Wind
+18-12-04 01:52:15 Time Left: 5 minutes
+18-12-04 01:53:15 Time Left: 4 minutes
+18-12-04 01:54:15 Time Left: 3 minutes
+18-12-04 01:55:15 Time Left: 2 minutes
+18-12-04 01:56:15 Time Left: 1 minutes
+18-12-04 01:57:15 Next map: Jungle
+18-12-04 01:57:20 Remake by DUZ
+18-12-04 02:02:20 Time Left: 5 minutes
+18-12-04 02:03:20 Time Left: 4 minutes
+18-12-04 02:04:20 Time Left: 3 minutes
+18-12-04 02:05:20 Time Left: 2 minutes
+18-12-04 02:06:20 Time Left: 1 minutes
+18-12-04 02:07:20 Next map: Leaf
+18-12-04 02:07:26 area6_Leaf by chakapoko maker
+18-12-04 02:12:26 Time Left: 5 minutes
+18-12-04 02:13:26 Time Left: 4 minutes
+18-12-04 02:14:26 Time Left: 3 minutes
+18-12-04 02:15:26 Time Left: 2 minutes
+18-12-04 02:16:26 Time Left: 1 minutes
+18-12-04 02:17:26 Next map: RatCave
+18-12-04 02:17:31 Rat Cave - Cave version 2.1
+18-12-04 02:22:31 Time Left: 5 minutes
+18-12-04 02:23:31 Time Left: 4 minutes
+18-12-04 02:24:31 Time Left: 3 minutes
+18-12-04 02:25:31 Time Left: 2 minutes
+18-12-04 02:26:31 Time Left: 1 minutes
+18-12-04 02:27:31 Next map: Tekool
+18-12-04 02:27:36 Error: Could not load map (Tekool)
+18-12-04 02:27:36 Next map: Tropiccave
+18-12-04 02:27:42 Tropiccave by Avarax, rmk by Viral
+18-12-04 02:32:42 Time Left: 5 minutes
+18-12-04 02:33:42 Time Left: 4 minutes
+18-12-04 02:34:42 Time Left: 3 minutes
+18-12-04 02:35:42 Time Left: 2 minutes
+18-12-04 02:36:42 Time Left: 1 minutes
+18-12-04 02:37:42 Next map: Unlim
+18-12-04 02:37:47 Unlim - Biggles
+18-12-04 02:42:47 Time Left: 5 minutes
+18-12-04 02:43:47 Time Left: 4 minutes
+18-12-04 02:44:47 Time Left: 3 minutes
+18-12-04 02:45:47 Time Left: 2 minutes
+18-12-04 02:46:47 Time Left: 1 minutes
+18-12-04 02:47:47 Next map: Aero
+18-12-04 02:47:52 Aero -by BN
+18-12-04 02:52:52 Time Left: 5 minutes
+18-12-04 02:53:52 Time Left: 4 minutes
+18-12-04 02:54:52 Time Left: 3 minutes
+18-12-04 02:55:52 Time Left: 2 minutes
+18-12-04 02:56:52 Time Left: 1 minutes
+18-12-04 02:57:52 Next map: Arena2
+18-12-04 02:57:58 Soldat Arena Two - version 2.2
+18-12-04 03:02:58 Time Left: 5 minutes
+18-12-04 03:03:58 Time Left: 4 minutes
+18-12-04 03:04:58 Time Left: 3 minutes
+18-12-04 03:05:58 Time Left: 2 minutes
+18-12-04 03:06:58 Time Left: 1 minutes
+18-12-04 03:07:58 Next map: Arena3
+18-12-04 03:08:03 Soldat Arena Three - (version 2)
+18-12-04 03:13:03 Time Left: 5 minutes
+18-12-04 03:14:03 Time Left: 4 minutes
+18-12-04 03:15:03 Time Left: 3 minutes
+18-12-04 03:16:03 Time Left: 2 minutes
+18-12-04 03:17:03 Time Left: 1 minutes
+18-12-04 03:18:03 Next map: Bridge
+18-12-04 03:18:08 Bridge - version 2.1
+18-12-04 03:23:08 Time Left: 5 minutes
+18-12-04 03:24:08 Time Left: 4 minutes
+18-12-04 03:25:08 Time Left: 3 minutes
+18-12-04 03:26:08 Time Left: 2 minutes
+18-12-04 03:27:08 Time Left: 1 minutes
+18-12-04 03:28:08 Next map: DesertWind
+18-12-04 03:28:14 Desert Wind
+18-12-04 03:33:14 Time Left: 5 minutes
+18-12-04 03:34:14 Time Left: 4 minutes
+18-12-04 03:35:14 Time Left: 3 minutes
+18-12-04 03:36:14 Time Left: 2 minutes
+18-12-04 03:37:14 Time Left: 1 minutes
+18-12-04 03:38:14 Next map: Jungle
+18-12-04 03:38:19 Remake by DUZ
+18-12-04 03:43:19 Time Left: 5 minutes
+18-12-04 03:44:19 Time Left: 4 minutes
+18-12-04 03:45:19 Time Left: 3 minutes
+18-12-04 03:46:19 Time Left: 2 minutes
+18-12-04 03:47:19 Time Left: 1 minutes
+18-12-04 03:48:19 Next map: Leaf
+18-12-04 03:48:24 area6_Leaf by chakapoko maker
+18-12-04 03:53:24 Time Left: 5 minutes
+18-12-04 03:54:24 Time Left: 4 minutes
+18-12-04 03:55:24 Time Left: 3 minutes
+18-12-04 03:56:24 Time Left: 2 minutes
+18-12-04 03:57:24 Time Left: 1 minutes
+18-12-04 03:58:24 Next map: RatCave
+18-12-04 03:58:30 Rat Cave - Cave version 2.1
+18-12-04 04:03:29 Time Left: 5 minutes
+18-12-04 04:04:29 Time Left: 4 minutes
+18-12-04 04:05:29 Time Left: 3 minutes
+18-12-04 04:06:29 Time Left: 2 minutes
+18-12-04 04:07:29 Time Left: 1 minutes
+18-12-04 04:08:29 Next map: Tekool
+18-12-04 04:08:35 Error: Could not load map (Tekool)
+18-12-04 04:08:35 Next map: Tropiccave
+18-12-04 04:08:40 Tropiccave by Avarax, rmk by Viral
+18-12-04 04:13:40 Time Left: 5 minutes
+18-12-04 04:14:40 Time Left: 4 minutes
+18-12-04 04:15:40 Time Left: 3 minutes
+18-12-04 04:16:40 Time Left: 2 minutes
+18-12-04 04:17:40 Time Left: 1 minutes
+18-12-04 04:18:40 Next map: Unlim
+18-12-04 04:18:45 Unlim - Biggles
+18-12-04 04:23:45 Time Left: 5 minutes
+18-12-04 04:24:45 Time Left: 4 minutes
+18-12-04 04:25:45 Time Left: 3 minutes
+18-12-04 04:26:45 Time Left: 2 minutes
+18-12-04 04:27:45 Time Left: 1 minutes
+18-12-04 04:28:45 Next map: Aero
+18-12-04 04:28:51 Aero -by BN
+18-12-04 04:33:51 Time Left: 5 minutes
+18-12-04 04:34:51 Time Left: 4 minutes
+18-12-04 04:35:51 Time Left: 3 minutes
+18-12-04 04:36:51 Time Left: 2 minutes
+18-12-04 04:37:51 Time Left: 1 minutes
+18-12-04 04:38:51 Next map: Arena2
+18-12-04 04:38:56 Soldat Arena Two - version 2.2
+18-12-04 04:43:56 Time Left: 5 minutes
+18-12-04 04:44:56 Time Left: 4 minutes
+18-12-04 04:45:56 Time Left: 3 minutes
+18-12-04 04:46:56 Time Left: 2 minutes
+18-12-04 04:47:56 Time Left: 1 minutes
+18-12-04 04:48:56 Next map: Arena3
+18-12-04 04:49:01 Soldat Arena Three - (version 2)
+18-12-04 04:54:01 Time Left: 5 minutes
+18-12-04 04:55:01 Time Left: 4 minutes
+18-12-04 04:56:01 Time Left: 3 minutes
+18-12-04 04:57:01 Time Left: 2 minutes
+18-12-04 04:58:01 Time Left: 1 minutes
+18-12-04 04:59:01 Next map: Bridge
+18-12-04 04:59:07 Bridge - version 2.1
+18-12-04 05:04:07 Time Left: 5 minutes
+18-12-04 05:05:07 Time Left: 4 minutes
+18-12-04 05:06:07 Time Left: 3 minutes
+18-12-04 05:07:07 Time Left: 2 minutes
+18-12-04 05:08:07 Time Left: 1 minutes
+18-12-04 05:09:07 Next map: DesertWind
+18-12-04 05:09:12 Desert Wind
+18-12-04 05:14:12 Time Left: 5 minutes
+18-12-04 05:15:12 Time Left: 4 minutes
+18-12-04 05:16:12 Time Left: 3 minutes
+18-12-04 05:17:12 Time Left: 2 minutes
+18-12-04 05:18:12 Time Left: 1 minutes
+18-12-04 05:19:12 Next map: Jungle
+18-12-04 05:19:17 Remake by DUZ
+18-12-04 05:24:17 Time Left: 5 minutes
+18-12-04 05:25:17 Time Left: 4 minutes
+18-12-04 05:26:17 Time Left: 3 minutes
+18-12-04 05:27:17 Time Left: 2 minutes
+18-12-04 05:28:17 Time Left: 1 minutes
+18-12-04 05:29:17 Next map: Leaf
+18-12-04 05:29:23 area6_Leaf by chakapoko maker
+18-12-04 05:34:23 Time Left: 5 minutes
+18-12-04 05:35:23 Time Left: 4 minutes
+18-12-04 05:36:23 Time Left: 3 minutes
+18-12-04 05:37:23 Time Left: 2 minutes
+18-12-04 05:38:23 Time Left: 1 minutes
+18-12-04 05:39:23 Next map: RatCave
+18-12-04 05:39:28 Rat Cave - Cave version 2.1
+18-12-04 05:44:28 Time Left: 5 minutes
+18-12-04 05:45:28 Time Left: 4 minutes
+18-12-04 05:46:28 Time Left: 3 minutes
+18-12-04 05:47:28 Time Left: 2 minutes
+18-12-04 05:48:28 Time Left: 1 minutes
+18-12-04 05:49:28 Next map: Tekool
+18-12-04 05:49:33 Error: Could not load map (Tekool)
+18-12-04 05:49:33 Next map: Tropiccave
+18-12-04 05:49:39 Tropiccave by Avarax, rmk by Viral
+18-12-04 05:54:39 Time Left: 5 minutes
+18-12-04 05:55:39 Time Left: 4 minutes
+18-12-04 05:56:39 Time Left: 3 minutes
+18-12-04 05:57:39 Time Left: 2 minutes
+18-12-04 05:58:39 Time Left: 1 minutes
+18-12-04 05:59:39 Next map: Unlim
+18-12-04 05:59:44 Unlim - Biggles
+18-12-04 06:04:44 Time Left: 5 minutes
+18-12-04 06:05:44 Time Left: 4 minutes
+18-12-04 06:06:44 Time Left: 3 minutes
+18-12-04 06:07:44 Time Left: 2 minutes
+18-12-04 06:08:44 Time Left: 1 minutes
+18-12-04 06:09:44 Next map: Aero
+18-12-04 06:09:49 Aero -by BN
+18-12-04 06:14:49 Time Left: 5 minutes
+18-12-04 06:15:49 Time Left: 4 minutes
+18-12-04 06:16:49 Time Left: 3 minutes
+18-12-04 06:17:49 Time Left: 2 minutes
+18-12-04 06:18:49 Time Left: 1 minutes
+18-12-04 06:19:49 Next map: Arena2
+18-12-04 06:19:55 Soldat Arena Two - version 2.2
+18-12-04 06:24:55 Time Left: 5 minutes
+18-12-04 06:25:55 Time Left: 4 minutes
+18-12-04 06:26:55 Time Left: 3 minutes
+18-12-04 06:27:55 Time Left: 2 minutes
+18-12-04 06:28:55 Time Left: 1 minutes
+18-12-04 06:29:55 Next map: Arena3
+18-12-04 06:30:00 Soldat Arena Three - (version 2)
+18-12-04 06:35:00 Time Left: 5 minutes
+18-12-04 06:36:00 Time Left: 4 minutes
+18-12-04 06:37:00 Time Left: 3 minutes
+18-12-04 06:38:00 Time Left: 2 minutes
+18-12-04 06:39:00 Time Left: 1 minutes
+18-12-04 06:40:00 Next map: Bridge
+18-12-04 06:40:05 Bridge - version 2.1
+18-12-04 06:45:05 Time Left: 5 minutes
+18-12-04 06:46:05 Time Left: 4 minutes
+18-12-04 06:47:05 Time Left: 3 minutes
+18-12-04 06:48:05 Time Left: 2 minutes
+18-12-04 06:49:05 Time Left: 1 minutes
+18-12-04 06:50:05 Next map: DesertWind
+18-12-04 06:50:11 Desert Wind
+18-12-04 06:55:11 Time Left: 5 minutes
+18-12-04 06:56:11 Time Left: 4 minutes
+18-12-04 06:57:11 Time Left: 3 minutes
+18-12-04 06:58:11 Time Left: 2 minutes
+18-12-04 06:59:11 Time Left: 1 minutes
+18-12-04 07:00:11 Next map: Jungle
+18-12-04 07:00:16 Remake by DUZ
+18-12-04 07:05:16 Time Left: 5 minutes
+18-12-04 07:06:16 Time Left: 4 minutes
+18-12-04 07:07:16 Time Left: 3 minutes
+18-12-04 07:08:16 Time Left: 2 minutes
+18-12-04 07:09:16 Time Left: 1 minutes
+18-12-04 07:10:16 Next map: Leaf
+18-12-04 07:10:21 area6_Leaf by chakapoko maker
+18-12-04 07:15:21 Time Left: 5 minutes
+18-12-04 07:16:21 Time Left: 4 minutes
+18-12-04 07:17:21 Time Left: 3 minutes
+18-12-04 07:18:21 Time Left: 2 minutes
+18-12-04 07:19:21 Time Left: 1 minutes
+18-12-04 07:20:21 Next map: RatCave
+18-12-04 07:20:27 Rat Cave - Cave version 2.1
+18-12-04 07:25:27 Time Left: 5 minutes
+18-12-04 07:26:27 Time Left: 4 minutes
+18-12-04 07:27:27 Time Left: 3 minutes
+18-12-04 07:28:27 Time Left: 2 minutes
+18-12-04 07:29:27 Time Left: 1 minutes
+18-12-04 07:30:27 Next map: Tekool
+18-12-04 07:30:32 Error: Could not load map (Tekool)
+18-12-04 07:30:32 Next map: Tropiccave
+18-12-04 07:30:37 Tropiccave by Avarax, rmk by Viral
+18-12-04 07:35:37 Time Left: 5 minutes
+18-12-04 07:36:37 Time Left: 4 minutes
+18-12-04 07:37:37 Time Left: 3 minutes
+18-12-04 07:38:37 Time Left: 2 minutes
+18-12-04 07:39:37 Time Left: 1 minutes
+18-12-04 07:40:37 Next map: Unlim
+18-12-04 07:40:43 Unlim - Biggles
+18-12-04 07:45:43 Time Left: 5 minutes
+18-12-04 07:46:43 Time Left: 4 minutes
+18-12-04 07:47:43 Time Left: 3 minutes
+18-12-04 07:48:43 Time Left: 2 minutes
+18-12-04 07:49:43 Time Left: 1 minutes
+18-12-04 07:50:42 Next map: Aero
+18-12-04 07:50:48 Aero -by BN
+18-12-04 07:55:48 Time Left: 5 minutes
+18-12-04 07:56:48 Time Left: 4 minutes
+18-12-04 07:57:48 Time Left: 3 minutes
+18-12-04 07:58:48 Time Left: 2 minutes
+18-12-04 07:59:48 Time Left: 1 minutes
+18-12-04 08:00:48 Next map: Arena2
+18-12-04 08:00:53 Soldat Arena Two - version 2.2
+18-12-04 08:05:53 Time Left: 5 minutes
+18-12-04 08:06:53 Time Left: 4 minutes
+18-12-04 08:07:53 Time Left: 3 minutes
+18-12-04 08:08:53 Time Left: 2 minutes
+18-12-04 08:09:53 Time Left: 1 minutes
+18-12-04 08:10:53 Next map: Arena3
+18-12-04 08:10:58 Soldat Arena Three - (version 2)
+18-12-04 08:15:58 Time Left: 5 minutes
+18-12-04 08:16:58 Time Left: 4 minutes
+18-12-04 08:17:58 Time Left: 3 minutes
+18-12-04 08:18:58 Time Left: 2 minutes
+18-12-04 08:19:58 Time Left: 1 minutes
+18-12-04 08:20:58 Next map: Bridge
+18-12-04 08:21:04 Bridge - version 2.1
+18-12-04 08:26:04 Time Left: 5 minutes
+18-12-04 08:27:04 Time Left: 4 minutes
+18-12-04 08:28:04 Time Left: 3 minutes
+18-12-04 08:29:04 Time Left: 2 minutes
+18-12-04 08:30:04 Time Left: 1 minutes
+18-12-04 08:31:04 Next map: DesertWind
+18-12-04 08:31:09 Desert Wind
+18-12-04 08:36:09 Time Left: 5 minutes
+18-12-04 08:37:09 Time Left: 4 minutes
+18-12-04 08:38:09 Time Left: 3 minutes
+18-12-04 08:39:09 Time Left: 2 minutes
+18-12-04 08:40:09 Time Left: 1 minutes
+18-12-04 08:41:09 Next map: Jungle
+18-12-04 08:41:14 Remake by DUZ
+18-12-04 08:46:14 Time Left: 5 minutes
+18-12-04 08:47:14 Time Left: 4 minutes
+18-12-04 08:48:14 Time Left: 3 minutes
+18-12-04 08:49:14 Time Left: 2 minutes
+18-12-04 08:49:19 Admin disconnected (192.168.1.1).
+18-12-04 08:50:14 Time Left: 1 minutes
+18-12-04 08:51:14 Next map: Leaf
+18-12-04 08:51:20 area6_Leaf by chakapoko maker
+18-12-04 08:56:20 Time Left: 5 minutes
+18-12-04 08:57:20 Time Left: 4 minutes
+18-12-04 08:58:20 Time Left: 3 minutes
+18-12-04 08:59:20 Time Left: 2 minutes
+18-12-04 09:00:20 Time Left: 1 minutes
+18-12-04 09:01:20 Next map: RatCave
+18-12-04 09:01:25 Rat Cave - Cave version 2.1
+18-12-04 09:06:25 Time Left: 5 minutes
+18-12-04 09:07:25 Time Left: 4 minutes
+18-12-04 09:08:25 Time Left: 3 minutes
+18-12-04 09:09:25 Time Left: 2 minutes
+18-12-04 09:10:25 Time Left: 1 minutes
+18-12-04 09:11:25 Next map: Tekool
+18-12-04 09:11:30 Error: Could not load map (Tekool)
+18-12-04 09:11:30 Next map: Tropiccave
+18-12-04 09:11:36 Tropiccave by Avarax, rmk by Viral
+18-12-04 09:16:36 Time Left: 5 minutes
+18-12-04 09:17:36 Time Left: 4 minutes
+18-12-04 09:18:36 Time Left: 3 minutes
+18-12-04 09:19:36 Time Left: 2 minutes
+18-12-04 09:20:36 Time Left: 1 minutes
+18-12-04 09:21:36 Next map: Unlim
+18-12-04 09:21:41 Unlim - Biggles
+18-12-04 09:26:41 Time Left: 5 minutes
+18-12-04 09:27:41 Time Left: 4 minutes
+18-12-04 09:28:41 Time Left: 3 minutes
+18-12-04 09:29:41 Time Left: 2 minutes
+18-12-04 09:30:41 Time Left: 1 minutes
+18-12-04 09:31:41 Next map: Aero
+18-12-04 09:31:46 Aero -by BN
+18-12-04 09:36:46 Time Left: 5 minutes
+18-12-04 09:37:46 Time Left: 4 minutes
+18-12-04 09:38:46 Time Left: 3 minutes
+18-12-04 09:39:46 Time Left: 2 minutes
+18-12-04 09:40:46 Time Left: 1 minutes
+18-12-04 09:41:46 Next map: Arena2
+18-12-04 09:41:52 Soldat Arena Two - version 2.2
+18-12-04 09:46:52 Time Left: 5 minutes
+18-12-04 09:47:52 Time Left: 4 minutes
+18-12-04 09:48:52 Time Left: 3 minutes
+18-12-04 09:49:52 Time Left: 2 minutes
+18-12-04 09:50:52 Time Left: 1 minutes
+18-12-04 09:51:52 Next map: Arena3
+18-12-04 09:51:57 Soldat Arena Three - (version 2)
+18-12-04 09:56:57 Time Left: 5 minutes
+18-12-04 09:57:57 Time Left: 4 minutes
+18-12-04 09:58:57 Time Left: 3 minutes
+18-12-04 09:59:57 Time Left: 2 minutes
+18-12-04 10:00:57 Time Left: 1 minutes
+18-12-04 10:01:57 Next map: Bridge
+18-12-04 10:02:02 Bridge - version 2.1
+18-12-04 10:07:02 Time Left: 5 minutes
+18-12-04 10:08:02 Time Left: 4 minutes
+18-12-04 10:09:02 Time Left: 3 minutes
+18-12-04 10:10:02 Time Left: 2 minutes
+18-12-04 10:11:02 Time Left: 1 minutes
+18-12-04 10:12:02 Next map: DesertWind
+18-12-04 10:12:08 Desert Wind
+18-12-04 10:17:08 Time Left: 5 minutes
+18-12-04 10:18:08 Time Left: 4 minutes
+18-12-04 10:19:08 Time Left: 3 minutes
+18-12-04 10:20:08 Time Left: 2 minutes
+18-12-04 10:21:08 Time Left: 1 minutes
+18-12-04 10:22:08 Next map: Jungle
+18-12-04 10:22:13 Remake by DUZ
+18-12-04 10:27:13 Time Left: 5 minutes
+18-12-04 10:28:13 Time Left: 4 minutes
+18-12-04 10:29:13 Time Left: 3 minutes
+18-12-04 10:30:13 Time Left: 2 minutes
+18-12-04 10:31:13 Time Left: 1 minutes
+18-12-04 10:32:13 Next map: Leaf
+18-12-04 10:32:18 area6_Leaf by chakapoko maker
+18-12-04 10:37:18 Time Left: 5 minutes
+18-12-04 10:38:18 Time Left: 4 minutes
+18-12-04 10:39:18 Time Left: 3 minutes
+18-12-04 10:40:18 Time Left: 2 minutes
+18-12-04 10:41:18 Time Left: 1 minutes
+18-12-04 10:42:18 Next map: RatCave
+18-12-04 10:42:24 Rat Cave - Cave version 2.1
+18-12-04 10:47:24 Time Left: 5 minutes
+18-12-04 10:48:24 Time Left: 4 minutes
+18-12-04 10:49:24 Time Left: 3 minutes
+18-12-04 10:50:24 Time Left: 2 minutes
+18-12-04 10:51:24 Time Left: 1 minutes
+18-12-04 10:52:24 Next map: Tekool
+18-12-04 10:52:29 Error: Could not load map (Tekool)
+18-12-04 10:52:29 Next map: Tropiccave
+18-12-04 10:52:34 Tropiccave by Avarax, rmk by Viral
+18-12-04 10:57:34 Time Left: 5 minutes
+18-12-04 10:58:34 Time Left: 4 minutes
+18-12-04 10:59:34 Time Left: 3 minutes
+18-12-04 11:00:34 Time Left: 2 minutes
+18-12-04 11:01:34 Time Left: 1 minutes
+18-12-04 11:02:34 Next map: Unlim
+18-12-04 11:02:40 Unlim - Biggles
+18-12-04 11:07:40 Time Left: 5 minutes
+18-12-04 11:08:40 Time Left: 4 minutes
+18-12-04 11:09:40 Time Left: 3 minutes
+18-12-04 11:10:40 Time Left: 2 minutes
+18-12-04 11:11:40 Time Left: 1 minutes
+18-12-04 11:12:40 Next map: Aero
+18-12-04 11:12:45 Aero -by BN
+18-12-04 11:17:45 Time Left: 5 minutes
+18-12-04 11:18:45 Time Left: 4 minutes
+18-12-04 11:19:45 Time Left: 3 minutes
+18-12-04 11:20:45 Time Left: 2 minutes
+18-12-04 11:21:45 Time Left: 1 minutes
+18-12-04 11:22:45 Next map: Arena2
+18-12-04 11:22:50 Soldat Arena Two - version 2.2
+18-12-04 11:27:50 Time Left: 5 minutes
+18-12-04 11:28:50 Time Left: 4 minutes
+18-12-04 11:29:50 Time Left: 3 minutes
+18-12-04 11:30:50 Time Left: 2 minutes
+18-12-04 11:31:50 Time Left: 1 minutes
+18-12-04 11:32:50 Next map: Arena3
+18-12-04 11:32:56 Soldat Arena Three - (version 2)
+18-12-04 11:37:55 Time Left: 5 minutes
+18-12-04 11:38:55 Time Left: 4 minutes
+18-12-04 11:39:55 Time Left: 3 minutes
+18-12-04 11:40:55 Time Left: 2 minutes
+18-12-04 11:41:55 Time Left: 1 minutes
+18-12-04 11:42:55 Next map: Bridge
+18-12-04 11:43:01 Bridge - version 2.1
+18-12-04 11:48:01 Time Left: 5 minutes
+18-12-04 11:49:01 Time Left: 4 minutes
+18-12-04 11:50:01 Time Left: 3 minutes
+18-12-04 11:51:01 Time Left: 2 minutes
+18-12-04 11:52:01 Time Left: 1 minutes
+18-12-04 11:53:01 Next map: DesertWind
+18-12-04 11:53:06 Desert Wind
+18-12-04 11:58:06 Time Left: 5 minutes
+18-12-04 11:59:06 Time Left: 4 minutes
+18-12-04 12:00:06 Time Left: 3 minutes
+18-12-04 12:01:06 Time Left: 2 minutes
+18-12-04 12:02:06 Time Left: 1 minutes
+18-12-04 12:03:06 Next map: Jungle
+18-12-04 12:03:11 Remake by DUZ
+18-12-04 12:08:11 Time Left: 5 minutes
+18-12-04 12:09:11 Time Left: 4 minutes
+18-12-04 12:10:11 Time Left: 3 minutes
+18-12-04 12:11:11 Time Left: 2 minutes
+18-12-04 12:12:11 Time Left: 1 minutes
+18-12-04 12:13:11 Next map: Leaf
+18-12-04 12:13:17 area6_Leaf by chakapoko maker
+18-12-04 12:18:17 Time Left: 5 minutes
+18-12-04 12:19:17 Time Left: 4 minutes
+18-12-04 12:20:17 Time Left: 3 minutes
+18-12-04 12:21:17 Time Left: 2 minutes
+18-12-04 12:22:17 Time Left: 1 minutes
+18-12-04 12:23:17 Next map: RatCave
+18-12-04 12:23:22 Rat Cave - Cave version 2.1
+18-12-04 12:28:22 Time Left: 5 minutes
+18-12-04 12:29:22 Time Left: 4 minutes
+18-12-04 12:30:22 Time Left: 3 minutes
+18-12-04 12:31:22 Time Left: 2 minutes
+18-12-04 12:32:22 Time Left: 1 minutes
+18-12-04 12:33:22 Next map: Tekool
+18-12-04 12:33:27 Error: Could not load map (Tekool)
+18-12-04 12:33:27 Next map: Tropiccave
+18-12-04 12:33:33 Tropiccave by Avarax, rmk by Viral
+18-12-04 12:38:33 Time Left: 5 minutes
+18-12-04 12:39:33 Time Left: 4 minutes
+18-12-04 12:40:33 Time Left: 3 minutes
+18-12-04 12:41:33 Time Left: 2 minutes
+18-12-04 12:42:33 Time Left: 1 minutes
+18-12-04 12:43:33 Next map: Unlim
+18-12-04 12:43:38 Unlim - Biggles
+18-12-04 12:48:38 Time Left: 5 minutes
+18-12-04 12:49:38 Time Left: 4 minutes
+18-12-04 12:50:38 Time Left: 3 minutes
+18-12-04 12:51:38 Time Left: 2 minutes
+18-12-04 12:52:38 Time Left: 1 minutes
+18-12-04 12:53:38 Next map: Aero
+18-12-04 12:53:43 Aero -by BN
+18-12-04 12:58:43 Time Left: 5 minutes
+18-12-04 12:59:43 Time Left: 4 minutes
+18-12-04 13:00:43 Time Left: 3 minutes
+18-12-04 13:01:43 Time Left: 2 minutes
+18-12-04 13:02:43 Time Left: 1 minutes
+18-12-04 13:03:43 Next map: Arena2
+18-12-04 13:03:49 Soldat Arena Two - version 2.2
+18-12-04 13:08:49 Time Left: 5 minutes
+18-12-04 13:09:49 Time Left: 4 minutes
+18-12-04 13:10:49 Time Left: 3 minutes
+18-12-04 13:11:49 Time Left: 2 minutes
+18-12-04 13:12:49 Time Left: 1 minutes
+18-12-04 13:13:49 Next map: Arena3
+18-12-04 13:13:54 Soldat Arena Three - (version 2)
+18-12-04 13:18:54 Time Left: 5 minutes
+18-12-04 13:19:54 Time Left: 4 minutes
+18-12-04 13:20:54 Time Left: 3 minutes
+18-12-04 13:21:54 Time Left: 2 minutes
+18-12-04 13:22:54 Time Left: 1 minutes
+18-12-04 13:23:54 Next map: Bridge
+18-12-04 13:23:59 Bridge - version 2.1
+18-12-04 13:28:59 Time Left: 5 minutes
+18-12-04 13:29:59 Time Left: 4 minutes
+18-12-04 13:30:59 Time Left: 3 minutes
+18-12-04 13:31:59 Time Left: 2 minutes
+18-12-04 13:32:59 Time Left: 1 minutes
+18-12-04 13:33:59 Next map: DesertWind
+18-12-04 13:34:05 Desert Wind
+18-12-04 13:39:05 Time Left: 5 minutes
+18-12-04 13:40:05 Time Left: 4 minutes
+18-12-04 13:41:05 Time Left: 3 minutes
+18-12-04 13:42:05 Time Left: 2 minutes
+18-12-04 13:43:05 Time Left: 1 minutes
+18-12-04 13:44:05 Next map: Jungle
+18-12-04 13:44:10 Remake by DUZ
+18-12-04 13:49:10 Time Left: 5 minutes
+18-12-04 13:50:10 Time Left: 4 minutes
+18-12-04 13:51:10 Time Left: 3 minutes
+18-12-04 13:52:10 Time Left: 2 minutes
+18-12-04 13:53:10 Time Left: 1 minutes
+18-12-04 13:54:10 Next map: Leaf
+18-12-04 13:54:15 area6_Leaf by chakapoko maker
+18-12-04 13:59:15 Time Left: 5 minutes
+18-12-04 14:00:15 Time Left: 4 minutes
+18-12-04 14:01:15 Time Left: 3 minutes
+18-12-04 14:02:15 Time Left: 2 minutes
+18-12-04 14:03:15 Time Left: 1 minutes
+18-12-04 14:04:15 Next map: RatCave
+18-12-04 14:04:21 Rat Cave - Cave version 2.1
+18-12-04 14:09:21 Time Left: 5 minutes
+18-12-04 14:10:21 Time Left: 4 minutes
+18-12-04 14:11:21 Time Left: 3 minutes
+18-12-04 14:12:21 Time Left: 2 minutes
+18-12-04 14:13:21 Time Left: 1 minutes
+18-12-04 14:14:21 Next map: Tekool
+18-12-04 14:14:26 Error: Could not load map (Tekool)
+18-12-04 14:14:26 Next map: Tropiccave
+18-12-04 14:14:31 Tropiccave by Avarax, rmk by Viral
+18-12-04 14:19:31 Time Left: 5 minutes
+18-12-04 14:20:31 Time Left: 4 minutes
+18-12-04 14:21:31 Time Left: 3 minutes
+18-12-04 14:22:31 Time Left: 2 minutes
+18-12-04 14:23:31 Time Left: 1 minutes
+18-12-04 14:24:31 Next map: Unlim
+18-12-04 14:24:37 Unlim - Biggles
+18-12-04 14:29:37 Time Left: 5 minutes
+18-12-04 14:30:37 Time Left: 4 minutes
+18-12-04 14:31:37 Time Left: 3 minutes
+18-12-04 14:32:37 Time Left: 2 minutes
+18-12-04 14:33:37 Time Left: 1 minutes
+18-12-04 14:34:37 Next map: Aero
+18-12-04 14:34:42 Aero -by BN
+18-12-04 14:39:42 Time Left: 5 minutes
+18-12-04 14:40:42 Time Left: 4 minutes
+18-12-04 14:41:42 Time Left: 3 minutes
+18-12-04 14:42:42 Time Left: 2 minutes
+18-12-04 14:43:42 Time Left: 1 minutes
+18-12-04 14:44:42 Next map: Arena2
+18-12-04 14:44:47 Soldat Arena Two - version 2.2
+18-12-04 14:49:47 Time Left: 5 minutes
+18-12-04 14:50:47 Time Left: 4 minutes
+18-12-04 14:51:47 Time Left: 3 minutes
+18-12-04 14:52:47 Time Left: 2 minutes
+18-12-04 14:53:47 Time Left: 1 minutes
+18-12-04 14:54:47 Next map: Arena3
+18-12-04 14:54:53 Soldat Arena Three - (version 2)
+18-12-04 14:59:53 Time Left: 5 minutes
+18-12-04 15:00:53 Time Left: 4 minutes
+18-12-04 15:01:53 Time Left: 3 minutes
+18-12-04 15:02:53 Time Left: 2 minutes
+18-12-04 15:03:53 Time Left: 1 minutes
+18-12-04 15:04:53 Next map: Bridge
+18-12-04 15:04:58 Bridge - version 2.1
+18-12-04 15:09:58 Time Left: 5 minutes
+18-12-04 15:10:58 Time Left: 4 minutes
+18-12-04 15:11:58 Time Left: 3 minutes
+18-12-04 15:12:58 Time Left: 2 minutes
+18-12-04 15:13:58 Time Left: 1 minutes
+18-12-04 15:14:58 Next map: DesertWind
+18-12-04 15:15:03 Desert Wind

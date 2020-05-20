@@ -1,0 +1,81 @@
+18-11-29 15:40:32    Console Log Started
+18-11-29 15:40:32 Welcome to Soldat 1.7.1
+18-11-29 15:40:32  [*] Preparing scripts to be launched
+18-11-29 15:40:32  [*] Done
+18-11-29 15:40:32 ctf_Ash by chakapoko maker
+18-11-29 15:40:32  Connection for file server started. Port: 23083
+18-11-29 15:40:32 Registering server @ 88.99.234.252
+18-11-29 15:41:03 192.168.1.1:61255|571918EE790 requesting game...
+18-11-29 15:41:07 Garrett joining game (192.168.1.1:61255) HWID:571918EE790
+18-11-29 15:41:07 Garrett has joined bravo team.
+18-11-29 15:41:38 Garrett added to Game Admins
+18-11-29 15:42:05 Garrett captured the Red Flag
+18-11-29 15:42:17 Garrett captured the Red Flag
+18-11-29 15:42:23 Garrett captured the Red Flag
+18-11-29 15:42:26 Garrett captured the Red Flag
+18-11-29 15:42:28 Garrett captured the Red Flag
+18-11-29 15:42:47 /nextmap(192.168.1.1[Garrett])
+18-11-29 15:42:47 Next map: ctf_Wretch
+18-11-29 15:42:53 Wretch by AdamD
+18-11-29 15:43:03 Garrett captured the Red Flag
+18-11-29 15:43:42 Garrett has left bravo team.
+18-11-29 15:47:53 Time Left: 5 minutes
+18-11-29 15:48:53 Time Left: 4 minutes
+18-11-29 15:49:53 Time Left: 3 minutes
+18-11-29 15:50:53 Time Left: 2 minutes
+18-11-29 15:51:53 Time Left: 1 minutes
+18-11-29 15:52:53 Next map: ctf_Rotten
+18-11-29 15:52:58 Rotten by Biggles
+18-11-29 15:57:58 Time Left: 5 minutes
+18-11-29 15:58:58 Time Left: 4 minutes
+18-11-29 15:59:58 Time Left: 3 minutes
+18-11-29 16:00:58 Time Left: 2 minutes
+18-11-29 16:01:58 Time Left: 1 minutes
+18-11-29 16:02:58 Next map: ctf_Nuubia
+18-11-29 16:03:03 by Troskal and friends
+18-11-29 16:08:03 Time Left: 5 minutes
+18-11-29 16:09:03 Time Left: 4 minutes
+18-11-29 16:10:03 Time Left: 3 minutes
+18-11-29 16:11:03 Time Left: 2 minutes
+18-11-29 16:12:03 Time Left: 1 minutes
+18-11-29 16:13:03 Next map: ctf_Lanubya
+18-11-29 16:13:09 Lanubya by wraithlike
+18-11-29 16:18:09 Time Left: 5 minutes
+18-11-29 16:19:09 Time Left: 4 minutes
+18-11-29 16:20:09 Time Left: 3 minutes
+18-11-29 16:21:09 Time Left: 2 minutes
+18-11-29 16:22:09 Time Left: 1 minutes
+18-11-29 16:23:09 Next map: ctf_Snakebite
+18-11-29 16:23:14 Snakebite orig. by chakapoko maker
+18-11-29 16:25:47 Admin connected (192.168.1.1).
+18-11-29 16:25:47 /maxplayers (192.168.1.1)
+18-11-29 16:25:47 Max players is 8
+18-11-29 16:25:47 /maxrespawntime (192.168.1.1)
+18-11-29 16:25:47 Maximum Respawn time is 5 seconds
+18-11-29 16:25:47 /respawntime (192.168.1.1)
+18-11-29 16:25:47 Respawn time is 3 seconds
+18-11-29 16:25:47 /limit (192.168.1.1)
+18-11-29 16:25:47 Current kill/point/capture limit is 6
+18-11-29 16:25:47 /timelimit (192.168.1.1)
+18-11-29 16:25:47 Current time limit is 10 minutes
+18-11-29 16:25:47 /friendlyfire (192.168.1.1)
+18-11-29 16:25:47 Friendly Fire is 0
+18-11-29 16:25:47 /scripting (192.168.1.1)
+18-11-29 16:25:47 Scripting is currently Enabled (1)
+18-11-29 16:25:47 /balance (192.168.1.1)
+18-11-29 16:25:47 Bot Balance is off (0)
+18-11-29 16:25:47 /bonus (192.168.1.1)
+18-11-29 16:25:47 Current bonus frequency is 0
+18-11-29 16:25:47 /vote% (192.168.1.1)
+18-11-29 16:25:47 Voting percent is 60
+18-11-29 16:28:14 Time Left: 5 minutes
+18-11-29 16:29:14 Time Left: 4 minutes
+18-11-29 16:29:42 Admin disconnected (192.168.1.1).
+18-11-29 16:30:14 Time Left: 3 minutes
+18-11-29 16:31:14 Time Left: 2 minutes
+18-11-29 16:32:14 Time Left: 1 minutes
+18-11-29 16:33:14 Next map: ctf_Steel
+18-11-29 16:33:19 Steel by Boxo, KC, Vigg
+18-11-29 16:35:25 Shutting down server...
+18-11-29 16:35:25 Shutting down FileServer...
+18-11-29 16:35:25 Shutting down admin server...

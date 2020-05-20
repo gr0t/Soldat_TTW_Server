@@ -1,0 +1,23 @@
+[BOT]
+Name=Paratrooper
+Color1=$00548B54
+Color2=$002E8B57
+Skin_Color=1776411
+Hair_Color=$001B1B1B
+Favourite_Weapon=FN Minimi
+Secondary_Weapon=0
+Friend=
+Accuracy=32
+Shoot_Dead=1
+Grenade_Frequency=160
+Camping=0
+OnStartUse=255
+Hair=2
+Headgear=1
+Chain=2
+Chat_Frequency=7
+Chat_Kill=
+Chat_Dead=Arghghhh
+Chat_Lowhealth=
+Chat_SeeEnemy=
+Chat_Winning=

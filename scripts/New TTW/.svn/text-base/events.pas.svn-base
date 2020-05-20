@@ -1,0 +1,282 @@
+procedure ActivateServer();
+var
+	x: integer;
+	i: byte;
+begin
+	if Command('/realistic ') = 1 then
+		MaxHP := 65
+	else
+		MaxHP := 150;
+	InitializeGeoIP();
+	LoadTranslations();	
+	InitializeStrikes();
+	repeat
+		x := Random(-$FFFF,$FFFF);
+	until x <> 0;
+	MTInit(x);
+	CalculateCosts(false);
+	Pause := False;
+	for i := 1 to 32 do
+		if GetPlayerStat(i, 'Active') then
+			if GetPlayerStat(i, 'Human') then
+			begin
+				InitializeUnit(i, GetPlayerStat(i, 'Team'), true);		
+				AssignTask(i, 0, true);
+				MaxID := i;
+			end else MaxID := i;
+	Command('/restart');
+end;
+
+procedure AppOnIdle(Ticks: integer);
+var
+	i: byte;
+	dbug: String;
+begin
+	if Pause then exit;
+		
+	try		CoreAOI(Ticks);			except WriteLn('AOI: CoreAOI(' + inttostr(Ticks) + ')'); end;
+	try		KitsAOI();				except WriteLn('AOI: KitsAOI(' + inttostr(Ticks) + ')'); end;
+	try		TickMines();			except WriteLn('AOI: TickMines()'); end;
+	//try 	
+	ProcessBurningAreas(); 	
+	//except WriteLn('AOI: ProcessBurningAreas();'); end;
+	
+	for i := 1 to 2 do begin
+		try		StatgunsAOI(i);								except WriteLn('AOI: StatgunsAOI(' + IDToName(Engineer[i].ID) + ', ' + inttostr(Teams[i].StatgunRefreshTimer) + ')'); end;
+		try		if Medic[i].ID > 0 then MedicAOI(i);		except WriteLn('AOI: MedicAOI(' + IDToName(Medic[i].ID) + ')'); end;
+		try		if General[i].ID > 0 then GeneralAOI(i);	except WriteLn('AOI: GeneralAOI(' + IDToName(General[i].ID) + ', ' + inttostr(General[i].ConqTimer) + ', ' + inttostr(General[i].ConqBunker) + ')'); end;
+		try		if Radioman[i].ID > 0 then RadiomanAOI(i);	except WriteLn('AOI: RadiomanAOI(' + IDToName(Radioman[i].ID) + ', ' + inttostr(Radioman[i].TapCounter) + ')'); end;
+		try		ProcessAirStrike(i, Ticks);					
+		except 
+			case Teams[i].Strike.stype of
+				__enemybase: dbug := 'EnemyBase';
+				__napalm: dbug := 'Napalm';
+				__nuke: dbug := 'Nuke';
+				__barrage: dbug := 'Barrage';
+				__zeppelin: dbug := 'Zeppelin';
+				__airco: dbug := 'Airco';
+				__clusterstr: dbug := 'ClustStr';
+			end;			
+			WriteLn('AOI: ProcessAirStrike(' + inttostr(Ticks) + ', ' + inttostr(Teams[i].Strike.CountDown) + ', ' + dbug + ', ' + inttostr(GetArrayLength(Teams[i].member)) + ', ' + inttostr(GetArrayLength(Teams[i].Strike.Area)) + ')'); 
+		end;
+		try		if Engineer[i].ID > 0 then EngineerAOI(i);	except WriteLn('AOI: EngineerAOI(' + IDToName(Engineer[i].ID) + ', ' + inttostr(Engineer[i].Timer) + iif(Player[Engineer[i].ID].Alive, 'True', 'False') + ')'); end;
+		try		SpyAOI(i);									except WriteLn('AOI: SpyAOI(' + inttostr(Spy[i].ID) + ')'); end;
+		try		if Saboteur[i].ID > 0 then SaboteurAOI(i);	except WriteLn('AOI: SaboteurAOI(' + IDToName(Saboteur[i].ID) + ', ' + inttostr(Saboteur[i].RigTimer) + ')'); end;
+		try		if Artillery[i].ID > 0 then ArtilleryAOI(i, Ticks);	except WriteLn('AOI: ArtilleryAOI(' + IDToName(Artillery[i].ID) + ', ' + inttostr(Artillery[i].Mortar.Timer) + ', ' + inttostr(GetArrayLength(Artillery[i].Mortar.RigArea)) + ', ' + inttostr(Artillery[i].NadeTimer) + ')'); end;
+	end;
+end;
+
+procedure OnJoinGame(ID, Team: byte);
+begin
+	player[ID].justjoined := true;
+	if not player[ID].active then
+		InitializeUnit(ID, Team, true);
+	Player[ID].Alive := True;
+	if ID > MaxID then
+		MaxID := ID;	
+end;
+
+procedure OnJoinTeam(ID, Team: byte);
+var Trans: byte;
+begin
+	if player[ID].team <> team then begin
+		Trans := Player[ID].Translation;
+		DestroyUnit(ID, true);
+		InitializeUnit(ID, Team, true);
+		Player[ID].Translation := Trans;
+	end else
+		DestroyUnit(ID, false);
+	
+	if ServerSetTeam then begin
+		ServerSetTeam := false;
+		Player[ID].Alive := True;
+		exit;
+	end;
+	
+	if player[ID].JustJoined then begin
+		WriteConsole(ID, WWW + ' | ' + IRC, $FFFF00 );
+		WriteConsole(ID, t(298, player[ID].translation, 'Welcome to Tactical Trenchwar') + S_VERSION, I_COLOUR );
+		WriteConsole(ID, t(299, player[ID].translation, 'Type !help to get started.'), I_COLOUR );
+		WriteConsole(ID, t(300, player[ID].translation, 'Type /commands for a list of commands'), I_COLOUR );
+		//DrawText(ID, 'Welcome to Tactical Trenchwar',240, RGB(255,80,80), 0.1, 20, 370 );
+		OnLangJoinGame(ID);
+	end;
+	
+	if Team <=2 then AssignTask(ID, 0, not player[ID].JustJoined);
+	
+	if player[ID].JustJoined then begin
+		player[ID].JustJoined := false;
+	end;
+	Player[ID].Alive := True;
+end;
+
+procedure OnLeaveGame(ID, Team: byte;Kicked: boolean);
+begin
+	if StrikeBot = ID then
+	begin
+		InitializeStrikes();
+		exit;
+	end;
+	DestroyUnit(ID, true);
+	CountMaxID();
+	if GetNumPlayers() = 0 then
+		ResetGame(false);
+end;
+
+function OnPlayerDamage(Victim,Shooter: Byte;Damage: Integer) : integer;
+begin
+	Result := Damage;
+	if (Victim = 0) or (Shooter = 0) then exit;
+	Result := OnRadiomanDamage(Victim, Shooter, Damage);
+	OnCoreDamage(Victim, Damage);
+end;
+
+procedure OnPlayerKill(Killer, Victim: byte;Weapon: string);
+begin
+	if (Killer = 0) or (Victim = 0) then exit;
+	player[Victim].alive := false;
+	player[Killer].kills := player[Killer].kills + 1
+	player[Victim].deaths := player[Victim].deaths + 1;
+	if General[player[Victim].team].ID = Victim then OnGeneralKill(player[Victim].team);
+	if Spy[Player[Victim].Team].ID = Victim then OnSpyDeath(Player[Victim].Team);
+	if Artillery[Player[Victim].Team].ID = Victim then OnArtilleryDeath(Player[Victim].Team);
+	OnRadiomanKill(Killer, Victim);	
+end;
+
+procedure OnPlayerRespawn(ID: Byte);
+begin
+	if (Player[ID].Team > 2) or (Player[ID].Team < 1) then exit;
+	
+	player[ID].alive := true;
+	if player[ID].human then begin
+		OnCoreRespawn(ID);
+		case player[ID].task of
+			1: OnLongRespawn(ID);
+			2: OnShortRespawn(ID);
+			else begin
+				if Medic[player[ID].team].ID = ID then OnMedicRespawn(ID);
+				if General[player[ID].team].ID = ID then OnGeneralRespawn(ID);
+				if Saboteur[Player[ID].Team].ID = ID then OnSaboRespawn(ID);
+				if Spy[Player[ID].Team].ID = ID then OnSpyRespawn(ID);
+				if Artillery[Player[ID].team].ID = ID then OnArtilleryRespawn(ID);
+			end;
+		end;
+	end else if ID = Paratrooper[Player[ID].Team] then if Radioman[Player[ID].Team].KickPara then
+				begin
+					Radioman[Player[ID].Team].KickPara := False;
+					ResetParatrooper(player[ID].team);
+				end;
+end;
+
+procedure OnPlayerSpeak(ID: Byte; Text: string);
+begin
+	if Length(Text) > 0 then
+		if Text[1] = '/' then begin
+			WriteConsole(ID, t(301, player[ID].translation, 'This is not a command!'), INFORMATION)
+			WriteConsole(ID, t(302, player[ID].translation, 'To write a command press / without pressing "t" (chat key)'), INFORMATION)
+		end;
+	OnCoreSpeak(ID, Text);
+end;
+
+function OnPlayerCommand(ID: Byte; Text: string): boolean;
+begin
+	WriteLn('[CMD] ' + taskToShortName(Player[ID].Task, 0) + ' (' + IDToName(ID) + '): ' + Text);
+	Result := false;
+	if OnCoreCommand(ID, Text) then exit;
+	if OnLangCommand(ID, Text) then exit;
+	
+	//Quit if not alive, exception for Radioman's tapping
+	if Player[ID].Team = 5 then exit;
+	
+	
+	Text := Cmmd2RealCmd(ID, player[ID].task, Text, true);
+	case player[ID].task of
+		1: OnLongCommand(ID, Text);
+		2: OnShortCommand(ID, Text);
+		else if player[ID].team <= 2 then begin
+			if Medic[player[ID].team].ID = ID then if OnMedicCommand(ID, Text) then exit;
+			if General[player[ID].team].ID = ID then if OnGeneralCommand(ID, Text) then exit;
+			if Radioman[player[ID].team].ID = ID then if OnRadiomanCommand(ID, Text) then exit;
+			if Engineer[Player[ID].Team].ID = ID then if OnEngineerCommand(ID, Text) then exit;
+			if Saboteur[Player[ID].Team].ID = ID then if OnSaboteurCommand(ID, Text) then exit;
+			if Spy[Player[ID].Team].ID = ID then if OnSpyCommand(ID, Text) then exit;
+			if Artillery[Player[ID].Team].ID = ID then if OnArtilleryCommand(ID, Text) then exit;
+		end;
+	end;
+end;
+
+function OnCommand(ID: Byte; Text: string): boolean;
+var
+	a, b: byte;
+	found: boolean;
+begin
+	Result := false;
+	found := false;
+	case LowerCase(Copy(GetPiece(Text, ' ', 0), 2, 6)) of
+		'addbot': begin
+			Result := true;
+			found := true;
+			try
+				a := StrToInt(Text[8]);
+				delete(Text, 1, 9);
+				b := AddBot(Text, a);
+			except
+				WriteMessage(ID, 'Syntax: /addbot<Team> <BotName>', BAD);
+			end;
+		end;
+		'realis': begin
+			found := true;
+			case LowerCase(Text) of
+				'/realistic 1': MaxHP := 65;
+				'/realistic 0': MaxHP := 150;
+			end;
+		end;
+		'sp': Teams[player[ID].team].SP := Teams[player[ID].team].SP + StrToInt(GetPiece(Text, ' ', 1));
+		'recomp': 	begin
+						StrikeBot := 0;
+						for a := 1 to MaxID do
+							if not Player[a].Human then KickPlayer(a);
+					end;
+		'pause': Pause := True;
+		'unpause': Pause := False;
+	end;
+end;
+
+procedure OnMapChange(NewMap: String);
+begin
+	CreateDefaultTranslation();
+	InitializeBunkers(NewMap);
+	ResetGame(true);
+end;
+
+procedure OnWeaponChange(ID, PrimaryNum, SecondaryNum: Byte);
+var
+	i: byte;
+begin
+	player[ID].pri := PrimaryNum;
+	player[ID].sec := SecondaryNum;
+	if ServerForceWeapon then begin
+		ServerForceWeapon := false;
+		exit;
+	end;
+	
+	OnCoreWeaponChange(ID, PrimaryNum, SecondaryNum);
+	for i := 1 to 2 do begin
+		if Medic[i].ID = ID then OnMedicWeaponChange(ID, PrimaryNum, SecondaryNum);
+	end;
+end;
+
+procedure OnFlagGrab(ID, TeamFlag: byte; GrabbedInBase: boolean);
+begin
+	SendToLive('flagcap ' +inttostr(player[ID].Team) +' '+ taskToName( player[ ID ].task, 0));
+end;
+
+procedure OnFlagScore(ID, TeamFlag: byte);
+begin
+	SendToLive('flagscore ' + inttostr(player[ID].Team) + ' ' + inttostr(GetTicks(1)) + ' ' + inttostr(GetTicks(2)) + ' '+ taskToName( player[ ID ].task, 0));
+end;
+
+procedure OnFlagReturn(ID, TeamFlag: byte);
+begin
+	SendToLive('flagreturn ' + inttostr(player[ID].Team) + ' ' + inttostr(GetTicks(1)) + ' ' + inttostr(GetTicks(2)) + ' '+ taskToName( player[ ID ].task, 0));
+end;

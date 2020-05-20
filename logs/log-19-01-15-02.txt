@@ -1,0 +1,16 @@
+19-01-15 15:24:27    Log Started
+19-01-15 15:24:27 Opened C:\Users\Garrett\Desktop\Soldat Server\soldat.ini
+19-01-15 15:24:27 Creating network interface.
+19-01-15 15:24:27 Loading Animations.
+19-01-15 15:24:27 Loading Lobby Servers List
+19-01-15 15:24:27 Loading Maps List
+19-01-15 15:24:27 Loading Map.
+19-01-15 15:24:27 Creating Weapons.
+19-01-15 15:24:27 Starting Game Server.
+19-01-15 15:24:27 TCP/IP File Server started
+19-01-15 15:54:48 TCP/IP File Server started
+19-01-15 16:24:53 TCP/IP File Server started
+19-01-15 16:54:50 TCP/IP File Server started
+19-01-15 21:34:40 TCP/IP File Server started
+19-01-15 21:37:02 Destroying Devices.
+19-01-15 21:37:02    End of Log.

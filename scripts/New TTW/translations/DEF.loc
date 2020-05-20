@@ -1,0 +1,308 @@
+Beans! Time for some deadly flatulence.
+Nice!
+Burger time!
+Ahhhhhh.
+Just what I needed!
+That hits the spot!
+Yes!
+Who needs a medic anyway?
+Apples are good for your health!
+You feel much better
+LRI
+SRI
+Med
+Gen
+Rad
+Sab
+Eng
+Eli
+Spy
+Art
+Long range infantry
+Short range infantry
+Medic
+General
+Radioman
+Saboteur
+Engineer
+Elite
+The Spy
+Artillery
+Quick commands:
+TASK
+You are able to play all tasks using only set of 4 taunts
+You can use Hexer taunts as aliases to commands (/heal, /def, /ofs, /smn)
+* Tactical Trenchwar *
+Tactical trenchwar is about teamwork, every soldier has
+a distinct task in the team. There are 10 tasks available.
+Type /apply for a list of all tasks
+Type /commands to get a list of commands
+Please choose a task. To apply, type:
+/short  for short range infantry
+/long   for long range infantry
+/gen    for General who conquers bunkers
+/medic  for Medic
+/eng    for Engineer who has a statgun and mines
+/rad    for Radioman who orders supplies for the team
+/elite  for Elite, the sharpshooter
+/art    for the Artillery
+/spy    for Spy who uses stealth and timed bombs
+/sabo   for Saboteur who's able to rig
+Global commands:
+/apply - list of all available tasks
+/list  - shows all tasks in your team
+/free  - shows a list of free tasks
+/table - shows a table of commands aliases
+/maps  - shows the list of maps
+/quick - chooses a random task
+Task specific commands:
+/mre    - meal ready to eat, regenerates 50% hp
+You are the Long Range Infantry
+You have a meal ready to eat (mre). To eat it, do /mre (regenerates 50% hp)
+You are the Short Range Infantry
+/kit    - drops a medical kit near you
+You are the Medic
+Switch weapon near teammates to heal them. You can also drop medikits.
+Your health will be regenerated automatically while you are not moving.
+/conq   - conquers bunker you are in
+You are the General
+Your task is conquering bunkers making them new 
+spawn positions for your team.
+/tap    - taps into enemy team chat
+/supply - shows a list of supplies you can order
+/strike - shows a list of available airstrikes
+You are the Radioman
+Your task is ordering supply. You can also call
+airstrikes and tap into enemy communication.
+Reinforcements (will be delivered at bunker)
+/grenade  grenade pack
+/vest     bulletproof vest (/vestgen to vest the General)
+/medi     medikit
+/cluster  cluster grenades
+/law      5 LAW launchers
+/hac      heavy artillery cannon
+Other orders:
+/para     paratrooper over enemy bunker
+for list of available strikes write /strike
+Available airstrikes:
+/zeppelin - zeppelin airstrike
+/airco    - airco airstrike
+/barrage  - mortar barrage
+/napalm   - napalm strike
+/cluststr - cluster strike
+/nuke     - nuke strike
+/enemy    - enemy base strike
+/burst    - enemy entrance strike
+/build  - constructs a stationary gun
+/get    - deconstructs a stationary gun
+/fix    - repairs a broken stationary gun
+/mine   - places a landmine
+You are the Engineer
+You can build stationary guns and place landmines
+/rig    - destroys nearby stationary gun or mine
+You are the Saboteur
+You can rig mines and stationary guns with /rig
+/place <time> - place a timed charge
+/act          - activate timers
+/obs          - spy on a nearby enemy
+/stealth      - activates stealthpack
+You are now the Spy
+You have one stealth pack per life.
+You can place and activate timed charges
+You can rig stationary guns with them and spy on the enemies' tasks
+Elite does not have any Task-specific commands.
+You are now the Elite
+Your task is providing sniper cover.
+/nade    - drops a grenade kit near you
+/mark    - places mortar's mark on the map
+/mortar  - fire up mortar
+You are the Artillery
+You can drop grenade kits, and fire mortar cannon.
+Statgun ready to be built!
+Your team's statgun has been destroyed!
+Mine destroyed enemy statgun!
+stepped into your mine!
+You stepped into a mine!
+You stepped on your own mine!
++1 Mine ready to be placed!
+Sorry, but airco strike can't be droped here
+Sorry, but artillery support can't be called here
+Enemy base strike
+Napalm strike
+Nuke strike
+Mortar barrage
+Zeppelin strike
+Airco strike
+Cluster strike
+Burst strike
+Airstrike destroyed enemy statgun!
+You already have that task
+is your team's Medic
+is your team's General
+is your team's Radioman
+is your team's Saboteur
+is your team's Engineer
+is your team's Elite
+is your team's Spy
+is your team's Artillery
+taken by
+has become available.
+Supply points
+<-- BREACH
+has noticed someone breaking through the lines!
+--> BREACH
+/\ ROOF /\
+has noticed someone on the roof of the bunker!
+> INSIDE <
+has noticed someone inside the bunker!
+< CLEAR >
+has noticed that the area is clear!
+INC VESTED GEN
+has noticed a vested enemy General approaching!
+Healing
+You are being healed...
+Soldier is at full health
+Fully healed!
+Medical kit dropped
+Medical kit available! Type /kit to drop a medikit
+You have no medical kit at the moment
+You have to be alive to drop a kit
+You do not have a meal ready to eat.
+You're already dead
+Sabotaging bunker... Don't move!
+Conquering bunker... Don't move!
+Failed to sabotage bunker!
+Failed to conquer bunker!
+Your team sabotaged a bunker!
+Your team pushed the enemy back a bunker!
+The enemy has sabotaged your bunker!
+The enemy pushed your team back a bunker!
+Bunker sabotaged!
+Your team has advanced a bunker!
+Bunker conquered!
+The enemy has conquered a bunker!
+Sabotaging...
+Conquering...
+This is your own base.
+This is enemy base, you can't conquer it
+Your team already have farther bunker
+You already have this bunker
+You can only sabotage this bunker when you have all other bunkers
+You can only sabotage this bunker if the enemy has conquered it
+Already conquering...
+You have to be alive to conquer a bunker
+Enemy radioman orders vest
+Enemy radioman orders vest for the general
+Enemy radioman orders laws
+Enemy radioman orders grenades
+Enemy radioman orders medkit
+Enemy radioman orders cluster grenades
+Enemy radioman orders heavy artillery cannon
+Enemy radioman orders Paratropper
+Enemy radioman calls airstrike on your bunker
+Enemy radioman calls napalm strike
+Enemy radioman calls nuke strike
+Enemy radioman calls mortar barrage
+Enemy radioman calls zeppelin strike
+Enemy radioman calls airco strike
+Enemy radioman calls cluster strike
+Enemy radioman calls burst strike
+Supply points left
+You have to be alive to order supplies
+Vest delivered to your team base!
+Vest delivered to your general!
+No general in the bunker!
+The general is already dead!
+Your team has no general
+Laws delivered to your team base!
+Grenades delivered to your team base!
+Medikit delivered to your team base!
+Cluster grenades delivered to your team base!
+HAC delivered to Artillery!
+You've recieved HAC-25, BE CAREFUL
+ERROR: Paratrooper bot file not found
+Paratrooper already in the field, type /kick to kick it
+[Artillery support]: Affirmative!
+[Pilot]: Affirmative!
+Strike currently in progress
+Not enough supply points
+Your battery is full, type /tap to tap into enemy communication
+Field Battery drained!
+has started tapping into enemy communication (shown in red)
+Field battery is not ready yet
+seconds left
+Already tapping...
+Construction failed!
+Deconstruction failed!
+Reparation failed!
+Construction complete!
+Statgun retrieved!
+Successfully repaired!
+Constructing...
+Deconstructing...
+Repairing...
+Repairing Statgun, do not move!
+Stand near to a Statgun to repair it!
+You have to be alive to fix a stationary gun
+Retrieving Statgun, do not move!
+Stand near to a Statgun to retrieve it!
+You have to be alive to get a stationary gun
+Construction started! Do not move!
+Statgun not ready yet. Wait
+seconds.
+Another process in progress, please wait
+Statgun already in game. Type /get near it to get it
+You have to be alive to build a stationary gun
+Mine placed! Get away from it!
+Mine placed!
+You have no mines left!
+You have to wait
+You have to be alive to place a mine
+Statgun rigged!
+Mine rigged!
+You have to be alive to rig something
+Bomb placed! Type /activate (/act) to activate the bombs
+Bombs can be timed with 3 to 8 seconds.
+(REPORT)
+is an enemy
+Enemy Supply Points:
+Enemy Radioman is tapping!
+No enemy in sight!
+Stealth activated!
+No stealthpack avalilable
+Syntax Error: /place <time> | Example: /place 3
+No bombs left!
+You have to be alive to place a bomb
+Timer activated!
+No inactive bombs placed!
+You have to be alive to activate timers
+You have to be alive to observer enemy
+Ready to observe the enemy!
+A spy is nearby!
+Grenade kit dropped
+Mortar launched!
+Target is out of range (behind an obstacle)
+Target is out of range (too far)
+Mortar's ready! use /mortar to fire!
+Mortar ran out of ammo.
+Player moved, mortar disabled
+Mortar destroyed enemy statgun!
+Grenade kit ready! use /nade to drop it.
+You have no grenade kit at the moment
+You can't mark on enemy bunker
+Place marked!
+Mark must be placed on the ground
+You can only mark outside
+You have to be alive to place a marker
+Mortar's not ready yet. Wait
+Already fireing...
+You have to mark first
+You have to be alive to fire a mortar
+Welcome to Tactical Trenchwar
+Type !help to get started.
+Type /commands for a list of commands
+This is not a command!
+To write a command press / without pressing "t" (chat key)
+Can't place charges in midair
+Can't place mines in midair
+Can't place marker in midair

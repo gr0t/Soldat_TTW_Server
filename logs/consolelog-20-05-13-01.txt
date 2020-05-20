@@ -1,0 +1,316 @@
+20-05-13 20:09:17    Console Log Started
+20-05-13 20:09:17 Welcome to Soldat 1.7.1
+20-05-13 20:09:17  [*] Preparing scripts to be launched
+20-05-13 20:09:17  [*] Compiling Gather_new -> Gather.pas...
+20-05-13 20:09:17  [*] Compiling Gather_new -> TTWGather.pas...
+20-05-13 20:09:17  [*] Compiling Gather_new -> TWGather.pas...
+20-05-13 20:09:17  [*] Compiling Gather_new -> ONSGather.pas...
+20-05-13 20:09:17  [*] Compiling Gather_new -> MModGather.pas...
+20-05-13 20:09:17  [*] Compiling Gather_new -> MMGather.pas...
+20-05-13 20:09:17  [*] Compiling Gather_new -> PORGather.pas...
+20-05-13 20:09:17  [*] Compiling Gather_new -> M79cGather.pas...
+20-05-13 20:09:17  [*] Compiling Gather_new -> Events.pas...
+20-05-13 20:09:17  [*] Gather_new compiled
+20-05-13 20:09:17  [*] [gbl] Loading bytecode
+20-05-13 20:09:17  [*] [gbl] Bytecode loaded
+20-05-13 20:09:17  [*] Compiling New TTW -> header.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/headers/text.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/headers/strikes.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/headers/core.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/headers/kits.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/headers/locale.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/headers/bunkers.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/headers/mines.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/headers/statguns.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/headers/burning_areas.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/headers/paraqueue.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> functions/functions.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> functions/iif.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> functions/geoip_functions.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> functions/ballistic_functions.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> functions/mersenne.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> functions/quicksort.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> functions/array_tools.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/gatherout.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/kits.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/burning_areas.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/locale.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/messages.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/text.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/bunkers.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/lang.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/spectator_interface.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Tasks/headers/long.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Tasks/headers/short.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Tasks/headers/medic.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Tasks/headers/general.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Tasks/headers/radioman.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Tasks/headers/engineer.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Tasks/headers/saboteur.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Tasks/headers/spy.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Tasks/headers/elite.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Tasks/headers/artillery.h.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/paraqueue.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/statguns.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/mines.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/strikes/enemybase.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/strikes/napalm.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/strikes/cluster.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/strikes/burst.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/strikes/nuke.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/strikes/airco.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/strikes/zeppelin.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/strikes/barrage.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/strikes.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/core.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Tasks/medic.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Tasks/long.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Tasks/short.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Tasks/general.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Tasks/radioman.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Tasks/engineer.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Tasks/saboteur.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Tasks/spy.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Tasks/artillery.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/reset.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> Game/gatherinc.pas...
+20-05-13 20:09:17  [*] Compiling New TTW -> events.pas...
+20-05-13 20:09:17  [*] New TTW -> [Hint] (5761:2): Variable 'I' never used
+20-05-13 20:09:17  [*] New TTW compiled
+20-05-13 20:09:17  [*] Done
+20-05-13 20:09:17 Currently there is no server password
+20-05-13 20:09:17 [GBL] Updating global banlist.
+20-05-13 20:09:17 [Error] GetURL: Function Disabled (SafeMode = ON)
+20-05-13 20:09:17 Friendly Fire is 60
+20-05-13 20:09:17 <New TTW> Loaded DE translation (56)
+20-05-13 20:09:17 <New TTW> Loaded FR translation (74)
+20-05-13 20:09:17 <New TTW> Loaded HR translation (97)
+20-05-13 20:09:17 <New TTW> Loaded NL translation (161)
+20-05-13 20:09:17 <New TTW> Loaded PL translation (174)
+20-05-13 20:09:17 <New TTW> Loaded RU translation (185)
+20-05-13 20:09:17 <New TTW> Loaded TR translation (217)
+20-05-13 20:09:17 Anoxi, The End.
+20-05-13 20:09:17 <New TTW> Initializing bunkers...
+20-05-13 20:09:17 <New TTW> found file, pasrsing...
+20-05-13 20:09:17 <New TTW> Done, 7 bunkers loaded
+20-05-13 20:09:17 Realistic Mode ON
+20-05-13 20:09:17 Loaded weapons mod "Tactical Trenchwars v1.6.4"
+20-05-13 20:09:18  Connection for file server started. Port: 23083
+20-05-13 20:09:18 Registering server @ 88.99.234.252
+20-05-13 20:09:18 [WARNING] Can't keep up, tick took 1156504703ms
+20-05-13 20:09:19 [STEAM] Connected to Steam
+20-05-13 20:09:19 [STEAM] GSPolicyResponse_t (VAC): 1
+20-05-13 20:09:20  [*] Looking for modes...
+20-05-13 20:09:20  [*] New TTW: Gather_new found
+20-05-13 20:09:20  [*] Found Modecore TTW
+20-05-13 20:09:20  [*] GatherMode: TTW
+20-05-13 20:09:20  [*] New TTW: Gather pause set to: False
+20-05-13 20:09:20  [*] New TTW: GatherOn set to: 0
+20-05-13 20:09:25 Anoxi, The End.
+20-05-13 20:09:25 <New TTW> Initializing bunkers...
+20-05-13 20:09:25 <New TTW> found file, pasrsing...
+20-05-13 20:09:25 <New TTW> Done, 7 bunkers loaded
+20-05-13 20:09:25 [WARNING] Can't keep up, tick took 110ms
+20-05-13 20:10:35 73.132.125.236:23076|571918EE790 requesting game...
+20-05-13 20:10:39 Garrett joining game (73.132.125.236:23076) HWID:571918EE790
+20-05-13 20:10:39 Garrett has joined alpha team.
+20-05-13 20:10:39 <New TTW> Garrett assigned to task 2
+20-05-13 20:10:39 [WARNING] Can't keep up, tick took 375ms
+20-05-13 20:10:40 [STEAM] Succesfully authenticated: Garrett (73.132.125.236:23076) as 76561198001340283 [S41074555] 
+20-05-13 20:10:40 --- hwid 571918EE790 Garrett
+20-05-13 20:10:41 --- hwid 571918EE790 Garrett
+20-05-13 20:10:42 --- hwid 571918EE790 Garrett
+20-05-13 20:10:43 --- hwid 571918EE790 Garrett
+20-05-13 20:10:44 --- hwid 571918EE790 Garrett
+20-05-13 20:10:45 --- hwid 571918EE790 Garrett
+20-05-13 20:10:46 --- hwid 571918EE790 Garrett
+20-05-13 20:10:47 --- hwid 571918EE790 Garrett
+20-05-13 20:10:48 --- hwid 571918EE790 Garrett
+20-05-13 20:10:48 [CMD] SRI (Garrett): /addbot1 billy
+20-05-13 20:10:49 --- hwid 571918EE790 Garrett
+20-05-13 20:10:50 --- hwid 571918EE790 Garrett
+20-05-13 20:10:51 --- hwid 571918EE790 Garrett
+20-05-13 20:10:52 --- hwid 571918EE790 Garrett
+20-05-13 20:10:53 --- hwid 571918EE790 Garrett
+20-05-13 20:10:54 --- hwid 571918EE790 Garrett
+20-05-13 20:10:55 --- hwid 571918EE790 Garrett
+20-05-13 20:10:56 --- hwid 571918EE790 Garrett
+20-05-13 20:10:57 --- hwid 571918EE790 Garrett
+20-05-13 20:10:58 --- hwid 571918EE790 Garrett
+20-05-13 20:10:59 --- hwid 571918EE790 Garrett
+20-05-13 20:11:00 --- hwid 571918EE790 Garrett
+20-05-13 20:11:01 --- hwid 571918EE790 Garrett
+20-05-13 20:11:02 --- hwid 571918EE790 Garrett
+20-05-13 20:11:03 --- hwid 571918EE790 Garrett
+20-05-13 20:11:04 --- hwid 571918EE790 Garrett
+20-05-13 20:11:05 --- hwid 571918EE790 Garrett
+20-05-13 20:11:06 --- hwid 571918EE790 Garrett
+20-05-13 20:11:07 --- hwid 571918EE790 Garrett
+20-05-13 20:11:08 Admin connected (127.0.0.1).
+20-05-13 20:11:08 Admin connected (73.132.125.236).
+20-05-13 20:11:08 /maxplayers (127.0.0.1)
+20-05-13 20:11:08 Max players is 10
+20-05-13 20:11:08 /maxrespawntime (127.0.0.1)
+20-05-13 20:11:08 Maximum Respawn time is 6 seconds
+20-05-13 20:11:08 /respawntime (127.0.0.1)
+20-05-13 20:11:08 Respawn time is 5 seconds
+20-05-13 20:11:08 /limit (127.0.0.1)
+20-05-13 20:11:08 Current kill/point/capture limit is 50
+20-05-13 20:11:08 --- hwid 571918EE790 Garrett
+20-05-13 20:11:08 /timelimit (127.0.0.1)
+20-05-13 20:11:08 Current time limit is 99999 minutes
+20-05-13 20:11:08 /friendlyfire (127.0.0.1)
+20-05-13 20:11:08 Friendly Fire is 60
+20-05-13 20:11:08 /scripting (127.0.0.1)
+20-05-13 20:11:08 Scripting is currently Enabled (1)
+20-05-13 20:11:08 /balance (127.0.0.1)
+20-05-13 20:11:08 Bot Balance is off (0)
+20-05-13 20:11:08 /bonus (127.0.0.1)
+20-05-13 20:11:08 Current bonus frequency is 0
+20-05-13 20:11:08 /vote% (127.0.0.1)
+20-05-13 20:11:08 Voting percent is 60
+20-05-13 20:11:08 /maxplayers (73.132.125.236)
+20-05-13 20:11:08 Max players is 10
+20-05-13 20:11:08 /maxrespawntime (73.132.125.236)
+20-05-13 20:11:08 Maximum Respawn time is 6 seconds
+20-05-13 20:11:08 /respawntime (73.132.125.236)
+20-05-13 20:11:08 Respawn time is 5 seconds
+20-05-13 20:11:08 /limit (73.132.125.236)
+20-05-13 20:11:08 Current kill/point/capture limit is 50
+20-05-13 20:11:08 /timelimit (73.132.125.236)
+20-05-13 20:11:08 Current time limit is 99999 minutes
+20-05-13 20:11:08 /friendlyfire (73.132.125.236)
+20-05-13 20:11:08 Friendly Fire is 60
+20-05-13 20:11:08 /scripting (73.132.125.236)
+20-05-13 20:11:08 Scripting is currently Enabled (1)
+20-05-13 20:11:08 /balance (73.132.125.236)
+20-05-13 20:11:08 Bot Balance is off (0)
+20-05-13 20:11:08 /bonus (73.132.125.236)
+20-05-13 20:11:08 Current bonus frequency is 0
+20-05-13 20:11:08 /vote% (73.132.125.236)
+20-05-13 20:11:08 Voting percent is 60
+20-05-13 20:11:09 --- hwid 571918EE790 Garrett
+20-05-13 20:11:10 --- hwid 571918EE790 Garrett
+20-05-13 20:11:11 --- hwid 571918EE790 Garrett
+20-05-13 20:11:12 --- hwid 571918EE790 Garrett
+20-05-13 20:11:13 --- hwid 571918EE790 Garrett
+20-05-13 20:11:14 --- hwid 571918EE790 Garrett
+20-05-13 20:11:15 --- hwid 571918EE790 Garrett
+20-05-13 20:11:16 --- hwid 571918EE790 Garrett
+20-05-13 20:11:17 --- hwid 571918EE790 Garrett
+20-05-13 20:11:18 --- hwid 571918EE790 Garrett
+20-05-13 20:11:19 --- hwid 571918EE790 Garrett
+20-05-13 20:11:20 --- hwid 571918EE790 Garrett
+20-05-13 20:11:21 --- hwid 571918EE790 Garrett
+20-05-13 20:11:22 /addbot1 billy (73.132.125.236)
+20-05-13 20:11:22 <New TTW> Billy assigned to task 2
+20-05-13 20:11:22 [WARNING] Can't keep up, tick took 375ms
+20-05-13 20:11:22 --- hwid 571918EE790 Garrett
+20-05-13 20:11:23 --- hwid 571918EE790 Garrett
+20-05-13 20:11:24 --- hwid 571918EE790 Garrett
+20-05-13 20:11:25 --- hwid 571918EE790 Garrett
+20-05-13 20:11:26 --- hwid 571918EE790 Garrett
+20-05-13 20:11:27 --- hwid 571918EE790 Garrett
+20-05-13 20:11:27 /addbot1 billy (73.132.125.236)
+20-05-13 20:11:27 <New TTW> Billy assigned to task 2
+20-05-13 20:11:28 [WARNING] Can't keep up, tick took 359ms
+20-05-13 20:11:28 --- hwid 571918EE790 Garrett
+20-05-13 20:11:29 --- hwid 571918EE790 Garrett
+20-05-13 20:11:30 --- hwid 571918EE790 Garrett
+20-05-13 20:11:31 --- hwid 571918EE790 Garrett
+20-05-13 20:11:32 /addbot2 billy (73.132.125.236)
+20-05-13 20:11:32 <New TTW> Billy assigned to task 2
+20-05-13 20:11:32 [WARNING] Can't keep up, tick took 359ms
+20-05-13 20:11:32 --- hwid 571918EE790 Garrett
+20-05-13 20:11:33 --- hwid 571918EE790 Garrett
+20-05-13 20:11:34 --- hwid 571918EE790 Garrett
+20-05-13 20:11:35 --- hwid 571918EE790 Garrett
+20-05-13 20:11:36 --- hwid 571918EE790 Garrett
+20-05-13 20:11:37 --- hwid 571918EE790 Garrett
+20-05-13 20:11:38 /addbot2 billy (73.132.125.236)
+20-05-13 20:11:38 <New TTW> Billy assigned to task 1
+20-05-13 20:11:38 [WARNING] Can't keep up, tick took 360ms
+20-05-13 20:11:38 --- hwid 571918EE790 Garrett
+20-05-13 20:11:39 --- hwid 571918EE790 Garrett
+20-05-13 20:11:40 --- hwid 571918EE790 Garrett
+20-05-13 20:11:41 --- hwid 571918EE790 Garrett
+20-05-13 20:11:42 --- hwid 571918EE790 Garrett
+20-05-13 20:11:42 /addbot2 billy (73.132.125.236)
+20-05-13 20:11:42 <New TTW> Billy assigned to task 1
+20-05-13 20:11:42 [WARNING] Can't keep up, tick took 375ms
+20-05-13 20:11:43 --- hwid 571918EE790 Garrett
+20-05-13 20:11:44 --- hwid 571918EE790 Garrett
+20-05-13 20:11:45 --- hwid 571918EE790 Garrett
+20-05-13 20:11:46 --- hwid 571918EE790 Garrett
+20-05-13 20:11:47 --- hwid 571918EE790 Garrett
+20-05-13 20:11:48 --- hwid 571918EE790 Garrett
+20-05-13 20:11:48 [Garrett] !reset
+20-05-13 20:11:49 --- hwid 571918EE790 Garrett
+20-05-13 20:11:50 --- hwid 571918EE790 Garrett
+20-05-13 20:11:51 --- hwid 571918EE790 Garrett
+20-05-13 20:11:52 --- hwid 571918EE790 Garrett
+20-05-13 20:11:53 --- hwid 571918EE790 Garrett
+20-05-13 20:11:54 --- hwid 571918EE790 Garrett
+20-05-13 20:11:55 --- hwid 571918EE790 Garrett
+20-05-13 20:11:56 --- hwid 571918EE790 Garrett
+20-05-13 20:11:57 --- hwid 571918EE790 Garrett
+20-05-13 20:11:57 [CMD] SRI (Garrett): /reset
+20-05-13 20:11:58 --- hwid 571918EE790 Garrett
+20-05-13 20:11:59 [CMD] SRI (Garrett): /gogo
+20-05-13 20:11:59 --- hwid 571918EE790 Garrett
+20-05-13 20:12:00 --- hwid 571918EE790 Garrett
+20-05-13 20:12:01 --- hwid 571918EE790 Garrett
+20-05-13 20:12:02 --- hwid 571918EE790 Garrett
+20-05-13 20:12:03 --- hwid 571918EE790 Garrett
+20-05-13 20:12:04 [CMD] SRI (Garrett): /ready
+20-05-13 20:12:04 --- hwid 571918EE790 Garrett
+20-05-13 20:12:05 --- hwid 571918EE790 Garrett
+20-05-13 20:12:06 --- hwid 571918EE790 Garrett
+20-05-13 20:12:07 --- hwid 571918EE790 Garrett
+20-05-13 20:12:08 --- hwid 571918EE790 Garrett
+20-05-13 20:12:09 --- hwid 571918EE790 Garrett
+20-05-13 20:12:10 --- hwid 571918EE790 Garrett
+20-05-13 20:12:11 --- hwid 571918EE790 Garrett
+20-05-13 20:12:12 --- hwid 571918EE790 Garrett
+20-05-13 20:12:13 --- hwid 571918EE790 Garrett
+20-05-13 20:12:14 --- hwid 571918EE790 Garrett
+20-05-13 20:12:15 --- hwid 571918EE790 Garrett
+20-05-13 20:12:16 --- hwid 571918EE790 Garrett
+20-05-13 20:12:17 --- hwid 571918EE790 Garrett
+20-05-13 20:12:18 --- hwid 571918EE790 Garrett
+20-05-13 20:12:19 --- hwid 571918EE790 Garrett
+20-05-13 20:12:20 --- hwid 571918EE790 Garrett
+20-05-13 20:12:21 --- hwid 571918EE790 Garrett
+20-05-13 20:12:22 --- hwid 571918EE790 Garrett
+20-05-13 20:12:23 --- hwid 571918EE790 Garrett
+20-05-13 20:12:24 --- hwid 571918EE790 Garrett
+20-05-13 20:12:25 --- hwid 571918EE790 Garrett
+20-05-13 20:12:26 --- hwid 571918EE790 Garrett
+20-05-13 20:12:27 --- hwid 571918EE790 Garrett
+20-05-13 20:12:28 --- hwid 571918EE790 Garrett
+20-05-13 20:12:29 --- hwid 571918EE790 Garrett
+20-05-13 20:12:30 --- hwid 571918EE790 Garrett
+20-05-13 20:12:31 --- hwid 571918EE790 Garrett
+20-05-13 20:12:32 --- hwid 571918EE790 Garrett
+20-05-13 20:12:33 --- hwid 571918EE790 Garrett
+20-05-13 20:12:34 --- hwid 571918EE790 Garrett
+20-05-13 20:12:35 --- hwid 571918EE790 Garrett
+20-05-13 20:12:36 --- hwid 571918EE790 Garrett
+20-05-13 20:12:37 --- hwid 571918EE790 Garrett
+20-05-13 20:12:37 [WARNING] Can't keep up, tick took 109ms
+20-05-13 20:12:38 --- hwid 571918EE790 Garrett
+20-05-13 20:12:39 --- hwid 571918EE790 Garrett
+20-05-13 20:12:40 --- hwid 571918EE790 Garrett
+20-05-13 20:12:41 --- hwid 571918EE790 Garrett
+20-05-13 20:12:42 --- hwid 571918EE790 Garrett
+20-05-13 20:12:43 --- hwid 571918EE790 Garrett
+20-05-13 20:12:44 --- hwid 571918EE790 Garrett
+20-05-13 20:12:44 Garrett has left alpha team.
+20-05-13 20:12:45 [WARNING] Can't keep up, tick took 125ms
+20-05-13 20:12:50 Shutting down server...
+20-05-13 20:12:50 Shutting down FileServer...
+20-05-13 20:12:50 Shutting down admin server...
+20-05-13 20:12:50 Admin thread exception raised in _execute_ Not Connected (127.0.0.1).
+20-05-13 20:12:50 Admin thread exception raised in _execute_ Not Connected (73.132.125.236).
+20-05-13 20:12:50 Admin disconnected (127.0.0.1).
+20-05-13 20:12:50 Admin disconnected (73.132.125.236).
