@@ -1,7 +1,7 @@
 //TODO: Include some !a, !b, !votemap commands
 const
 	MAXPLAYER = 16;
-	INITIAL_PASSWORD = '';
+	//INITIAL_PASSWORD = '';
 
 	// Colours
 	ANNOUNCEMENT1 = 4294967295;//#FFFFFFFF;
@@ -149,7 +149,7 @@ begin
 	unpauseVotes.voteTimer := 0;
 	UPcountdown := 3;
 	StartCountdown := 3;
-	Command('/password ' + INITIAL_PASSWORD);
+	//Command('/password ' + INITIAL_PASSWORD);
 	gathersize := 6;
 
 	for i := 1 to MAXPLAYERS do
@@ -297,7 +297,7 @@ begin
 	kickTimer := 15;
 	GatherOn := 3;
 	SetGatherOn := True;
-	Command('/password ' + INITIAL_PASSWORD);
+	//Command('/password ' + INITIAL_PASSWORD);
 	PauseGame(0);
 end;
 
