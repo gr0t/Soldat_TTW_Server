@@ -579,7 +579,7 @@ var
 	hwid, playerType: string;
 
 begin
-	if Copy(Msg, 1, 3) <> '===' then exit;
+//	if Copy(Msg, 1, 3) <> '===' then exit;
 
 	case GetPiece(Msg, ' ', 1) of
 		'info': begin

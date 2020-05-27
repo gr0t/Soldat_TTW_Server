@@ -51,11 +51,11 @@ end;
 
 //Spawnpoint quicksort implementaion. Sorts by X position.
 procedure SpawnSort(var spawns: array of tSpawnpoint; l,r:integer);
-var 
+var
 	b: tSpawnpoint;
 	pivot: single;
 	i, j: integer;
-begin 
+begin
 	if l < r then
 	begin
 		pivot := spawns[random(l+1, r+1)].X;
@@ -134,7 +134,7 @@ var
 begin
 	SetArrayLength(Spawnpoint, MaxSpawns+1);
 	for i := 1 to MaxSpawns do begin
-		//i assume that all spawnpoints to MaxSpawns are active		
+		//i assume that all spawnpoints to MaxSpawns are active
 		Spawnpoint[i].active := true;
 		Spawnpoint[i].ID := i;
 		Spawnpoint[i].style := GetSpawnStat(i, 'style');
@@ -199,7 +199,7 @@ begin
 	SetMaxSpawns();
 	Debug(1, 'Initializing bunkers...');
 	if FileExists('bunkers/'+Map+'.txt') then begin
-		Debug(2, 'found file, pasrsing...');
+		Debug(2, 'found file, parsing...');
 		InitializeBunkers_File('bunkers/'+Map+'.txt');
 	end else begin
 		Debug(2, 'File not found, parsing map...');
@@ -210,7 +210,7 @@ begin
 		case Bunker[i].style of
 			-2: begin
 				SetBunker(false, i, 2);
-				SetBunker(true, i, 1);				
+				SetBunker(true, i, 1);
 			end;
 			-1,0,1: begin
 				SetBunker(false, i, 1);
