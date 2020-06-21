@@ -14,7 +14,7 @@ type
 		Spawn: array[1..2] of array of byte;
 		X1, X2, ReinforcmentX, ReinforcmentY: single;
 	end;
-	
+
 	tSpawnpoint = record
 		ID, style: byte;
 		X, Y: single;
@@ -30,6 +30,5 @@ var
  * -1. Alpha conquerable
  * 0. Conquerable
  * 1. Bravo conquerable
- * 2. Brao base
+ * 2. Bravo base
  ***********)
- 
