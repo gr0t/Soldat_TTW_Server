@@ -1,9 +1,3 @@
-{procedure SetBunker(ID, Team: byte);
-var
-	i: byte;
-begin
-	for i := 0 to GetArrayLength(Bunker
-end;}
 procedure SetMaxSpawns();
 begin
 	for MaxSpawns := 254 downto 1 do

@@ -56,7 +56,7 @@ begin
 						if (Teams[Team].member[i] <> General[Team].ID) then
 							b := DrawTextX(Teams[Team].member[i], 10, t(181, player[Teams[Team].member[i]].translation, 'Your team has advanced a bunker!'),100, RGB(0,255,0), 0.1, 20, 370 )
 							else b := True;
-							
+
 						if b then
 							WriteConsole(Teams[Team].member[i], t(181, player[Teams[Team].member[i]].translation, 'Your team has advanced a bunker!'), GOOD);
 					end;
@@ -151,7 +151,7 @@ begin
 												StartConquer(i, ID, false)
 											else WriteConsole(ID, 'This bunker is already being conquered.', BAD);
 										end else
-											WriteConsole(ID, t(188, player[ID].translation, 'Your team already have farther bunker'), BAD);
+											WriteConsole(ID, t(188, player[ID].translation, 'Your team already has a farther bunker'), BAD);
 									end else
 										WriteConsole(ID, t(189, player[ID].translation, 'You already have this bunker'), BAD);
 								end;
@@ -191,7 +191,7 @@ begin
 			end else
 				WriteConsole(ID, t(193, player[ID].translation, 'You have to be alive to conquer a bunker'), BAD);
 		end;
-		
+
 		else Result := False;
 	end;
 end;
