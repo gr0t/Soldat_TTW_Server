@@ -1,5 +1,6 @@
 TTW Changelog
 
+-------------
 Version 1.1
 
 Medic
@@ -16,14 +17,23 @@ Artillery
 
 Radioman
   (radioman.pas)
-    *Increased Vest Cost to 12 (from 9)
     *Reduced cost of cluster nades to 1 (from 2)
     *New Strike Supply Costs (Old)
       ZEPPELINCOST := 5; (6)
-  	  AIRCOCOST := 10; (7)
-      BARRAGECOST := 7; (9)
-  	  NAPALMCOST := 5;
-  	  CLUSTERSTRIKECOST := 7;
-  	  NUKECOST := 8; (6)
-  	  ENEMYBASECOST := 5;
+  	  AIRCOCOST := 7;
+      BARRAGECOST := 6; (7)
+  	  NAPALMCOST := 4; (5)
+  	  CLUSTERSTRIKECOST := 6; (7)
+  	  NUKECOST := 6;
+  	  ENEMYBASECOST := 4; (5)
   	  BURSTCOST := 3;
+
+-------------
+To Do:
+
+Artillery
+  Spawn with loaded M79
+
+Adjust Cap ticket reductions for better incentive during late Game
+
+Public option for better open lobbies
