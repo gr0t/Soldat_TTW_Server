@@ -1,0 +1,29 @@
+TTW Changelog
+
+Version 1.1
+
+Medic
+  (medic.h.pas)
+    *Added MP5 to available weapons
+    *Reduced MedKit Cooldown to 12 (from 15)
+  (medic.pas)
+    *Changed method of healing to be on weapon change (Disabled /vet)
+    *Changed healing amount to +20 for in range teammate when (It would instantly bring someone to full health with /vet, this will require at max 4 heals, but more likely 2-3)
+
+Artillery
+  (artillery.h.pas)
+    *Reduced Mortar Cooldown to 40 (from 60)
+
+Radioman
+  (radioman.pas)
+    *Increased Vest Cost to 12 (from 9)
+    *Reduced cost of cluster nades to 1 (from 2)
+    *New Strike Supply Costs (Old)
+      ZEPPELINCOST := 5; (6)
+  	  AIRCOCOST := 10; (7)
+      BARRAGECOST := 7; (9)
+  	  NAPALMCOST := 5;
+  	  CLUSTERSTRIKECOST := 7;
+  	  NUKECOST := 8; (6)
+  	  ENEMYBASECOST := 5;
+  	  BURSTCOST := 3;

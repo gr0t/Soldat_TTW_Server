@@ -1,21 +1,21 @@
 procedure CalculateCosts(Gather: boolean);
 begin
 	if Gather then begin
+		ZEPPELINCOST := 5;
 		AIRCOCOST := 7;
-		ZEPPELINCOST := 6;
 		BARRAGECOST := 9;
-		HOWITZERCOST := 6;
-		NAPALMCOST := 8;
+		NAPALMCOST := 5;
 		CLUSTERSTRIKECOST := 7;
+		HOWITZERCOST := 6;
+		ENEMYBASECOST := 5;
+		BURSTCOST := 3;
 		GRENADECOST := 1;
-		CLUSTERCOST := 2;
+		CLUSTERCOST := 1;
 		MEDICOST := 1;
-		VESTCOST := 9;
+		VESTCOST := 12;
 		LAWCOST := 2;
 		PARATROOPERCOST := 9;
 		DESTROYSGCOST := 4;
-		ENEMYBASECOST := 5;
-		BURSTCOST := 3;
 		HACCOST := 4;
 		FLAMERCOST := 2;
 	end else begin
@@ -51,7 +51,7 @@ begin
 			KickPlayer(Paratrooper[Team]);
 	end;
 
-	Paratrooper[Team] := 0;	
+	Paratrooper[Team] := 0;
 end;
 
 procedure TapSupply(Team: byte;  Item: (_vest, _vestgen, _law, _grenade, _medi, _cluster, _hac, _para, _enemybase, _napalm, _rocket, _barrage, _zeppelin, _airco, _clusterstr, _burst, _flamer));
@@ -71,7 +71,7 @@ begin
 			_cluster: WriteConsole(Teams[Team].member[i], t(199, player[Teams[Team].member[i]].translation, 'Enemy radioman orders cluster grenades'), TAPCOLOUR);
 			_hac: WriteConsole(Teams[Team].member[i], t(200, player[Teams[Team].member[i]].translation, 'Enemy radioman orders heavy artillery cannon'), TAPCOLOUR);
 			_para: WriteConsole(Teams[Team].member[i], t(201, player[Teams[Team].member[i]].translation, 'Enemy radioman orders Paratropper'), TAPCOLOUR);
-			
+
 			_enemybase: WriteConsole(Teams[Team].member[i], t(202, player[Teams[Team].member[i]].translation, 'Enemy radioman calls airstrike on your bunker'), TAPCOLOUR);
 			_napalm: WriteConsole(Teams[Team].member[i], t(203, player[Teams[Team].member[i]].translation, 'Enemy radioman calls napalm strike'), TAPCOLOUR);
 			_rocket: WriteConsole(Teams[Team].member[i], t(204, player[Teams[Team].member[i]].translation, 'Enemy radioman calls nuke strike'), TAPCOLOUR);
@@ -104,7 +104,7 @@ begin
 
 				for i := 0 to GetArrayLength(Teams[Team].member)-1 do
 					WriteConsole(Teams[Team].member[i], t(212, player[Teams[Team].member[i]].translation, 'Vest delivered to your team base!'), GOOD);
-				
+
 				b := true;
 				SendToLive('sup_vest '+inttostr(Team));
 			end;
@@ -140,7 +140,7 @@ begin
 			if Teams[Team].SP >= LAWCOST then begin
 				for i := 1 to LAWNUMBER do Spawnobject(Bunker[Teams[Team].bunker].ReinforcmentX-Trunc(i-0.5*LAWNUMBER)*5, Bunker[Teams[Team].bunker].ReinforcmentY, 14);
 				Teams[Team].SP := Teams[Team].SP - LAWCOST;
-				
+
 				for i := 0 to GetArrayLength(Teams[Team].member)-1 do
 					WriteConsole(Teams[Team].member[i], t(217, player[Teams[Team].member[i]].translation, 'Laws delivered to your team base!'), GOOD);
 				b := true;
@@ -151,9 +151,9 @@ begin
 			if Teams[Team].SP >= GRENADECOST then begin
 				SpawnKit(Bunker[Teams[Team].bunker].ReinforcmentX, Bunker[Teams[Team].bunker].ReinforcmentY, 17);
 				Teams[Team].SP := Teams[Team].SP - GRENADECOST;
-				
+
 				for i := 0 to GetArrayLength(Teams[Team].member)-1 do
-					WriteConsole(Teams[Team].member[i], t(218, player[Teams[Team].member[i]].translation, 'Grenades delivered to your team base!'), GOOD);				
+					WriteConsole(Teams[Team].member[i], t(218, player[Teams[Team].member[i]].translation, 'Grenades delivered to your team base!'), GOOD);
 				b := true;
 				SendToLive('sup_nade ' + inttostr(Team));
 			end;
@@ -162,9 +162,9 @@ begin
 			if Teams[Team].SP >= MEDICOST then begin
 				SpawnKit(Bunker[Teams[Team].bunker].ReinforcmentX, Bunker[Teams[Team].bunker].ReinforcmentY, 16);
 				Teams[Team].SP := Teams[Team].SP - MEDICOST;
-				
+
 				for i := 0 to GetArrayLength(Teams[Team].member)-1 do
-					WriteConsole(Teams[Team].member[i], t(219, player[Teams[Team].member[i]].translation, 'Medikit delivered to your team base!'), GOOD);				
+					WriteConsole(Teams[Team].member[i], t(219, player[Teams[Team].member[i]].translation, 'Medikit delivered to your team base!'), GOOD);
 				b := true;
 				SendToLive('sup_medi ' + inttostr(Team));
 			end;
@@ -173,9 +173,9 @@ begin
 			if Teams[Team].SP >= CLUSTERCOST then begin
 				Spawnobject(Bunker[Teams[Team].bunker].ReinforcmentX, Bunker[Teams[Team].bunker].ReinforcmentY, 22);
 				Teams[Team].SP := Teams[Team].SP - CLUSTERCOST;
-				
+
 				for i := 0 to GetArrayLength(Teams[Team].member)-1 do
-					WriteConsole(Teams[Team].member[i], t(220, player[Teams[Team].member[i]].translation, 'Cluster grenades delivered to your team base!'), GOOD);				
+					WriteConsole(Teams[Team].member[i], t(220, player[Teams[Team].member[i]].translation, 'Cluster grenades delivered to your team base!'), GOOD);
 				b := true;
 				SendToLive('sup_cluster '+inttostr(Team));
 			end;
@@ -206,7 +206,7 @@ begin
 		_flamer: begin
 			if Teams[Team].SP >= FLAMERCOST then begin
 				if Engineer[Team].ID > 0 then begin
-					if player[Engineer[Team].ID].alive then 
+					if player[Engineer[Team].ID].alive then
 					begin
 						GetPlayerXY(Engineer[Team].ID, player[Engineer[Team].ID].X, player[Engineer[Team].ID].Y)
 						if IsBetween(Bunker[Teams[Team].bunker].X1, Bunker[Teams[Team].bunker].X2, player[Engineer[Team].ID].X) then
@@ -218,7 +218,7 @@ begin
 						end else a := true;
 					end else a := true;
 				end else a := true;
-				
+
 				if a then
 				begin
 					GetPlayerXY(Radioman[Team].ID, player[Radioman[Team].ID].X, player[Radioman[Team].ID].Y)
@@ -258,9 +258,9 @@ begin
 					if Paratrooper[Team] = 0 then begin
 						WriteConsole(Radioman[Team].ID, t(223, player[Radioman[Team].ID].translation, 'ERROR: Paratrooper bot file not found'), BAD);
 						exit;
-					end;					
-					Player[Paratrooper[Team]].Alive := true;					
-					Player[Paratrooper[Team]].Task := 11;										
+					end;
+					Player[Paratrooper[Team]].Alive := true;
+					Player[Paratrooper[Team]].Task := 11;
 					b := true;
 				end else begin
 					WriteConsole(Radioman[Team].ID, t(224, player[Radioman[Team].ID].translation, 'Paratrooper already in the field, type /kick to kick it'), BAD);
@@ -268,7 +268,7 @@ begin
 				end;
 				Teams[Team].SP := Teams[Team].SP - PARATROOPERCOST;
 				b := true;
-				SendToLive('sup_para '+inttostr(Team));				
+				SendToLive('sup_para '+inttostr(Team));
 			end;
 		end;
 		else if not Teams[Team].Strike.InProgress then begin
@@ -277,7 +277,7 @@ begin
 					if Teams[Team].SP >= ENEMYBASECOST then begin
 						CallAirStrike(Team, __enemybase);
 						Teams[Team].SP := Teams[Team].SP - ENEMYBASECOST;
-						b := true;					
+						b := true;
 						SendToLive('strike_base ' + inttostr(Team));
 					end;
 				end;
@@ -344,7 +344,7 @@ begin
 						if GetArrayLength(Teams[Team].member) > 0 then
 							for i := 0 to GetArrayLength(Teams[Team].member)-1 do
 								WriteConsole(Teams[Team].member[i], t(225, player[Teams[Team].member[i]].translation, '[Artillery support]: Affirmative!'), TEAMCHAT);
-						if Radioman[2/Team].TapCounter < 0 then 
+						if Radioman[2/Team].TapCounter < 0 then
 							if GetArrayLength(Teams[2/Team].member) > 0 then
 								for i := 0 to GetArrayLength(Teams[2/Team].member)-1 do
 									WriteConsole(Teams[2/Team].member[i], t(225, player[Teams[2/Team].member[i]].translation, '[Artillery support]: Affirmative!'), BAD);
@@ -353,10 +353,10 @@ begin
 						if GetArrayLength(Teams[Team].member) > 0 then
 							for i := 0 to GetArrayLength(Teams[Team].member)-1 do
 								WriteConsole(Teams[Team].member[i], t(226, player[Teams[Team].member[i]].translation, '[Pilot]: Affirmative!'), TEAMCHAT);
-						if Radioman[2/Team].TapCounter < 0 then 
+						if Radioman[2/Team].TapCounter < 0 then
 							if GetArrayLength(Teams[2/Team].member) > 0 then
 								for i := 0 to GetArrayLength(Teams[2/Team].member)-1 do
-									WriteConsole(Teams[2/Team].member[i], t(226, player[Teams[2/Team].member[i]].translation, '[Pilot]: Affirmative!'), BAD);						
+									WriteConsole(Teams[2/Team].member[i], t(226, player[Teams[2/Team].member[i]].translation, '[Pilot]: Affirmative!'), BAD);
 					end;
 				end;
 			end;
@@ -377,7 +377,7 @@ end;
 procedure RadiomanAOI(Team: byte);
 begin
 	if GatherDir <> '' then
-		if GatherOn <> 2 then exit;	
+		if GatherOn <> 2 then exit;
 	if Radioman[Team].TapCounter > 0 then begin
 		if player[Radioman[Team].ID].alive then begin
 			Radioman[Team].TapCounter := Radioman[Team].TapCounter - 1;
@@ -396,8 +396,8 @@ end;
 function OnRadiomanDamage(Victim,Shooter: byte; var Damage: integer) : integer;
 begin
 	Result := Damage;
-	if Shooter = StrikeBot then 
-	begin		
+	if Shooter = StrikeBot then
+	begin
 		if not FriendlyFire then
 			if not STRIKE_FF then
 				if not Teams[2/player[Victim].team].Strike.InProgress then begin
@@ -425,9 +425,9 @@ end;
 
 procedure OnRadiomanKill(Killer, Victim: byte);
 begin
-	if Paratrooper[player[Victim].team] = Victim then 
+	if Paratrooper[player[Victim].team] = Victim then
 		Radioman[Player[Victim].Team].KickPara := True;
-		
+
 	if Killer = StrikeBot then
 	begin
 		if Victim <> StrikeBot then
@@ -435,7 +435,7 @@ begin
 				if Radioman[2/player[Victim].team].ID > 0 then begin
 					player[Radioman[2/player[Victim].team].ID].kills := player[Radioman[2/player[Victim].team].ID].kills + 1;
 					SetScore(Radioman[2/player[Victim].team].ID, player[Radioman[2/player[Victim].team].ID].kills);
-								
+
 					if GetTickCount - Radioman[2/Player[Victim].Team].KillTick <= 190 then
 					begin
 						Radioman[2/Player[Victim].Team].Kills := Radioman[2/Player[Victim].Team].Kills + 1;
@@ -443,15 +443,15 @@ begin
 					end else
 					begin
 						Radioman[2/Player[Victim].Team].Kills := 0;
-						DrawTextX(Radioman[2/Player[Victim].team].ID, 0, 'You killed ' + IDToName(Victim),125,$ffff2020,0.24,40,365)									
+						DrawTextX(Radioman[2/Player[Victim].team].ID, 0, 'You killed ' + IDToName(Victim),125,$ffff2020,0.24,40,365)
 					end;
-				
+
 					Radioman[2/Player[Victim].Team].KillTick := GetTickCount;
 				end;
 	end
-	else if Killer = Radioman[Player[Killer].Team].ID then 
+	else if Killer = Radioman[Player[Killer].Team].ID then
 		if Teams[2/player[Victim].team].Strike.InProgress then
-		begin				
+		begin
 			if GetTickCount - Radioman[2/Player[Victim].Team].KillTick <= 190 then
 			begin
 				Radioman[2/Player[Victim].Team].Kills := Radioman[2/Player[Victim].Team].Kills + 1;
@@ -459,7 +459,7 @@ begin
 			end else
 				Radioman[2/Player[Victim].Team].Kills := 0;
 			Radioman[2/Player[Victim].Team].KillTick := GetTickCount;
-		end;	
+		end;
 end;
 
 function OnRadiomanCommand(ID: byte; var Text: string): boolean;
@@ -474,7 +474,7 @@ begin
 			if Radioman[player[ID].team].TapCounter = 0 then begin
 				Radioman[player[ID].team].TapCounter := -INTERCEPTTIME;
 				for i := 0 to GetArrayLength(Teams[player[ID].team].member)-1 do
-					WriteConsole(Teams[player[ID].team].member[i], 
+					WriteConsole(Teams[player[ID].team].member[i],
 						t(25, player[Teams[player[ID].team].member[i]].translation, 'Radioman')
 							+' '+IDToName(ID) +' '+
 							t(231, player[Teams[player[ID].team].member[i]].translation, 'has started tapping into enemy communication (shown in red)')

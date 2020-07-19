@@ -37,7 +37,7 @@ begin
 	GetPlayerXY(ID, player[ID].X, player[ID].Y);
 	for i := 1 to MaxID do
 		if i <> ID then
-			if player[i].alive then begin
+			if player[i].alive and player[i].HP <= MaxHP then begin
 				GetPlayerXY(i, player[i].X, player[i].Y);
 				if IsInRange(player[ID].X, player[ID].Y, player[i].X, player[i].Y, MEDIC_HEAL_RANGE) then
 				begin
@@ -66,12 +66,12 @@ begin
 			end else WriteConsole(ID, t(169, player[ID].translation, 'You have to be alive to drop a kit'), BAD);
 		end;
 
-		'/vet': begin
-			if Player[ID].Alive then
-			begin
-				HealTeammate(ID);
-			end else WriteConsole(ID, t(0, player[ID].translation, 'You have to be alive to use a kit'), BAD);
-		end;
+		// '/vet': begin
+		// 	if Player[ID].Alive then
+		// 	begin
+		// 		HealTeammate(ID);
+		// 	end else WriteConsole(ID, t(0, player[ID].translation, 'You have to be alive to use a kit'), BAD);
+		// end;
 
 		'/vetme': begin
 			if Player[ID].Alive then
@@ -79,7 +79,16 @@ begin
 				Heal(ID, ID);
 			end else WriteConsole(ID, t(0, player[ID].translation, 'You have to be alive to use a kit'), BAD);
 		end;
-		
+
 		else Result := False;
 	end;
+end;
+
+procedure OnMedicWeaponChange(ID, PrimaryNum, SecondaryNum: Byte);
+begin
+	if Medic[Player[ID].Team].ID = ID then
+		if Player[ID].Alive then
+		begin
+			HealTeammate(ID);
+		end else WriteConsole(ID, t(0, player[ID].translation, 'You have to be alive to heal a teammate'), BAD);
 end;

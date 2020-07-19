@@ -350,6 +350,7 @@ begin
 	end;
 
 	OnCoreWeaponChange(ID, PrimaryNum, SecondaryNum);
+	OnMedicWeaponChange(ID, PrimaryNum, SecondaryNum);
 end;
 
 procedure OnFlagGrab(ID, TeamFlag: byte; GrabbedInBase: boolean);

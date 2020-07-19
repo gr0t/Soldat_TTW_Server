@@ -1,6 +1,6 @@
 const
 	NADEWAITTIME = 20;
-	MORTARWAITTIME = 60;
+	MORTARWAITTIME = 40;
 	MORTARSPEED = 20;
 	MORTARFIRETIME = 12;
 
@@ -9,12 +9,12 @@ type
 		active: boolean;
 		X, Y: single;
 	end;
-	
+
 	tRigArea = record
 		X, Y: single;
 		start: integer;
 	end;
-	
+
 	tMortar = record
 		X, Y, Angle: single;
 		Timer: shortint;
@@ -30,7 +30,7 @@ type
 
 var
 	Artillery: array[1..2] of tArtillery;
-	
+
 procedure ArtilleryCommands(ID: byte);
 begin
 	WriteConsole(ID, t(116, Player[ID].Translation, '/nade    - drops a grenade kit near you'),C_COLOUR);
@@ -41,7 +41,7 @@ end;
 procedure ArtilleryInfo(ID: byte);
 begin
 	WriteConsole(ID, t(119, player[ID].translation, 'You are the Artillery'), H_COLOUR);
-	WriteConsole(ID, t(120, player[ID].translation, 'You can drop grenade kits, and fire mortar cannon.'), I_COLOUR);			
+	WriteConsole(ID, t(120, player[ID].translation, 'You can drop grenade kits, and fire mortar cannon.'), I_COLOUR);
 	ArtilleryCommands(ID);
 end;
 
